@@ -1,10 +1,8 @@
 name: Validate and Deploy Atlas to GitHub Pages
 
 on:
-  push:
-    branches: ["main"]
-  pull_request:
-    branches: ["main"]
+  # Custom Actions runners are currently paused by a GitHub account billing lock;
+  # GitHub Pages deploys automatically from main:/docs via built-in pages-build-deployment.
   workflow_dispatch:
 
 permissions:
