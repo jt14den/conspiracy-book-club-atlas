@@ -340,14 +340,16 @@
         "topics": [
           "communal_counterculture",
           "religious_esoteric",
-          "arts_music"
+          "arts_music",
+          "vegan_dining"
         ],
         "location_role": "event_site",
         "id": "H05",
         "topic_labels": [
           "Communes & Counterculture",
           "Religious & Esoteric",
-          "Arts, Music & Literature"
+          "Arts, Music & Literature",
+          "Plant-Based & Vegan Dining"
         ],
         "location_role_label": "Event / Venue Site",
         "pin_kind": "commune",
@@ -6682,6 +6684,1350 @@
           "showLabel": false
         },
         "description": "Founded in 1908 on the ground floor of Henry Huntington’s Pacific Electric Building, one of Los Angeles’s oldest saloons and claimants to the invention of the French dip sandwich.\n\nEvidence: Strong for historic building address; coordinates are approximate PointAddress positions.\n\nLimits: Downtown Los Angeles saloon and dining pairing near Trinity Auditorium (H19) and Fort Moore Hill (H24).\n\nAccess: Check current operating schedule and back-room speakeasy hours before visiting.\n\nSources:\nCole’s Pacific Electric Buffet overview — https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet\n\nReading:\nCole’s Pacific Electric Buffet overview — https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.444497,
+          33.982963
+        ]
+      },
+      "properties": {
+        "name": "The Warehouse Restaurant",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "4499 Admiralty Way, Marina del Rey, CA 90292",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address and 1969 Burt Hixson founding; coordinates match PointAddress and TikiMap.",
+        "limits": "Waterfront Westside hospitality stop; no connection to a covert or religious movement is asserted.",
+        "access": "Check current dining and bar hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B01",
+          "B26"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.mdrwarehouse.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B46",
+        "topic_labels": [
+          "Tiki Bars",
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "The Warehouse Restaurant official site",
+            "url": "https://www.mdrwarehouse.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Warehouse Restaurant official site",
+            "url": "https://www.mdrwarehouse.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Opened in 1969 in Marina del Rey by former Don the Beachcomber manager Burt Hixson and designed with stacked shipping crates, indoor lagoons, and nautical salvage; serves both tropical rum drinks and traditional steak-and-seafood dinners.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.982963,-118.444497",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Opened in 1969 in Marina del Rey by former Don the Beachcomber manager Burt Hixson and designed with stacked shipping crates, indoor lagoons, and nautical salvage; serves both tropical rum drinks and traditional steak-and-seafood dinners.\n\nEvidence: Strong for venue address and 1969 Burt Hixson founding; coordinates match PointAddress and TikiMap.\n\nLimits: Waterfront Westside hospitality stop; no connection to a covert or religious movement is asserted.\n\nAccess: Check current dining and bar hours before visiting.\n\nSources:\nThe Warehouse Restaurant official site — https://www.mdrwarehouse.com/\n\nReading:\nThe Warehouse Restaurant official site — https://www.mdrwarehouse.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.789112,
+          33.543862
+        ]
+      },
+      "properties": {
+        "name": "The Royal Hawaiian Fire Grill",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "331 North Coast Highway, Laguna Beach, CA 92651",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for historic venue address; coordinates match PointAddress and TikiMap.",
+        "limits": "Geographic pairing in Laguna Beach; no historical involvement with the Brotherhood of Eternal Love.",
+        "access": "Check current dinner and bar hours and reservation policies before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H39",
+          "B15"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.royalhawaiianoc.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B47",
+        "topic_labels": [
+          "Tiki Bars",
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "The Royal Hawaiian official site",
+            "url": "https://www.royalhawaiianoc.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Royal Hawaiian official site",
+            "url": "https://www.royalhawaiianoc.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Historic Laguna Beach tiki bar and restaurant originally opened in 1947 on North Coast Highway, famous for the Lapu Lapu cocktail and restored mid-century Polynesian interiors just up the coast from the former Mystic Arts World site (H39).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.543862,-117.789112",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Historic Laguna Beach tiki bar and restaurant originally opened in 1947 on North Coast Highway, famous for the Lapu Lapu cocktail and restored mid-century Polynesian interiors just up the coast from the former Mystic Arts World site (H39).\n\nEvidence: Strong for historic venue address; coordinates match PointAddress and TikiMap.\n\nLimits: Geographic pairing in Laguna Beach; no historical involvement with the Brotherhood of Eternal Love.\n\nAccess: Check current dinner and bar hours and reservation policies before visiting.\n\nSources:\nThe Royal Hawaiian official site — https://www.royalhawaiianoc.com/\n\nReading:\nThe Royal Hawaiian official site — https://www.royalhawaiianoc.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.369168,
+          34.155436
+        ]
+      },
+      "properties": {
+        "name": "Tiki No",
+        "region": "San Fernando & Verdugo valleys",
+        "category": "Bar",
+        "address": "4657 Lankershim Boulevard, North Hollywood, CA 91602",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address; coordinates match PointAddress and TikiMap.",
+        "limits": "Geographic pairing in the North Hollywood corridor only.",
+        "access": "Check current evening bar hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H35",
+          "B23",
+          "B24"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.tikinobar.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B48",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Tiki No official site",
+            "url": "https://www.tikinobar.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Tiki No official site",
+            "url": "https://www.tikinobar.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "North Hollywood neighborhood tiki lounge on Lankershim Boulevard with pufferfish lamps, carved totems, and toasted-marshmallow cocktails, a few blocks south of Idle Hour (B23) and Church of Scientology of the Valley (H35).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.155436,-118.369168",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "North Hollywood neighborhood tiki lounge on Lankershim Boulevard with pufferfish lamps, carved totems, and toasted-marshmallow cocktails, a few blocks south of Idle Hour (B23) and Church of Scientology of the Valley (H35).\n\nEvidence: Strong for venue address; coordinates match PointAddress and TikiMap.\n\nLimits: Geographic pairing in the North Hollywood corridor only.\n\nAccess: Check current evening bar hours before visiting.\n\nSources:\nTiki No official site — https://www.tikinobar.com/\n\nReading:\nTiki No official site — https://www.tikinobar.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.333205,
+          34.180615
+        ]
+      },
+      "properties": {
+        "name": "The Broken Compass",
+        "region": "San Fernando & Verdugo valleys",
+        "category": "Bar",
+        "address": "2013 West Burbank Boulevard, Burbank, CA 91506",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address; coordinates match PointAddress and TikiMap.",
+        "limits": "East Valley tiki pairing; no historical connection to a movement is asserted.",
+        "access": "Check current opening hours before an outing.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B23",
+          "B39"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.brokencompasstiki.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B49",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "The Broken Compass Tiki official site",
+            "url": "https://www.brokencompasstiki.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Broken Compass Tiki official site",
+            "url": "https://www.brokencompasstiki.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Burbank neighborhood tiki bar and kitchen on Burbank Boulevard with nautical salvage, rum flights, and island comfort food.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.180615,-118.333205",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Burbank neighborhood tiki bar and kitchen on Burbank Boulevard with nautical salvage, rum flights, and island comfort food.\n\nEvidence: Strong for venue address; coordinates match PointAddress and TikiMap.\n\nLimits: East Valley tiki pairing; no historical connection to a movement is asserted.\n\nAccess: Check current opening hours before an outing.\n\nSources:\nThe Broken Compass Tiki official site — https://www.brokencompasstiki.com/\n\nReading:\nThe Broken Compass Tiki official site — https://www.brokencompasstiki.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.417421,
+          33.918525
+        ]
+      },
+      "properties": {
+        "name": "Purple Orchid",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "221 Richmond Street, El Segundo, CA 90245",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address; coordinates match PointAddress and TikiMap.",
+        "limits": "Geographic pairing in the South Bay only; no connection to Manhattan Beach historical events.",
+        "access": "Check current bar hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H27"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://tikimap.com/themap/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B50",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Purple Orchid Tiki Lounge site",
+            "url": "https://tikimap.com/themap/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "TikiMap directory",
+            "url": "https://tikimap.com/themap/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Long-running South Bay dive tiki bar in downtown El Segundo, serving as a coastal pairing near the former McMartin Preschool site in Manhattan Beach (H27).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.918525,-118.417421",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Long-running South Bay dive tiki bar in downtown El Segundo, serving as a coastal pairing near the former McMartin Preschool site in Manhattan Beach (H27).\n\nEvidence: Strong for venue address; coordinates match PointAddress and TikiMap.\n\nLimits: Geographic pairing in the South Bay only; no connection to Manhattan Beach historical events.\n\nAccess: Check current bar hours before visiting.\n\nSources:\nPurple Orchid Tiki Lounge site — https://tikimap.com/themap/\n\nReading:\nTikiMap directory — https://tikimap.com/themap/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.192793,
+          33.769451
+        ]
+      },
+      "properties": {
+        "name": "Secret Island Tiki Restaurant & Lounge",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "209 Pine Avenue, Long Beach, CA 90802",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address; coordinates match PointAddress and TikiMap.",
+        "limits": "Downtown Long Beach tiki pairing; check underground lounge operating nights before visiting.",
+        "access": "Reservations recommended; check weekend/evening schedule before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B21"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.secretislandtiki.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B51",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Secret Island Tiki Lounge official site",
+            "url": "https://www.secretislandtiki.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Secret Island Tiki Lounge official site",
+            "url": "https://www.secretislandtiki.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Subterranean cavern tiki bar and restaurant beneath Shannon’s on Pine in downtown Long Beach, one block west of the 1905 Psychic Temple / Holy Kiss Society building.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.769451,-118.192793",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Subterranean cavern tiki bar and restaurant beneath Shannon’s on Pine in downtown Long Beach, one block west of the 1905 Psychic Temple / Holy Kiss Society building.\n\nEvidence: Strong for venue address; coordinates match PointAddress and TikiMap.\n\nLimits: Downtown Long Beach tiki pairing; check underground lounge operating nights before visiting.\n\nAccess: Reservations recommended; check weekend/evening schedule before visiting.\n\nSources:\nSecret Island Tiki Lounge official site — https://www.secretislandtiki.com/\n\nReading:\nSecret Island Tiki Lounge official site — https://www.secretislandtiki.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86725,
+          33.7493
+        ]
+      },
+      "properties": {
+        "name": "Twisted Tiki",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "340 South Main Street, Santa Ana, CA 92701",
+        "coordinate_basis": "TikiMap verified venue pin and Santa Ana downtown block match",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address; coordinate taken from verified TikiMap placement on 3rd/Main alley.",
+        "limits": "Central Orange County tiki stop; check current entry instructions and hours.",
+        "access": "Rear alley entrance; check current hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B32"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.twistedtikioc.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B52",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Twisted Tiki official site",
+            "url": "https://www.twistedtikioc.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Twisted Tiki official site",
+            "url": "https://www.twistedtikioc.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Back-alley tiki speakeasy in downtown Santa Ana with over 150 rums and classic tropical cocktails.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.7493,-117.86725",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Back-alley tiki speakeasy in downtown Santa Ana with over 150 rums and classic tropical cocktails.\n\nEvidence: Strong for venue address; coordinate taken from verified TikiMap placement on 3rd/Main alley.\n\nLimits: Central Orange County tiki stop; check current entry instructions and hours.\n\nAccess: Rear alley entrance; check current hours before visiting.\n\nSources:\nTwisted Tiki official site — https://www.twistedtikioc.com/\n\nReading:\nTwisted Tiki official site — https://www.twistedtikioc.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.610593,
+          33.425501
+        ]
+      },
+      "properties": {
+        "name": "The Lost Inferno",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "425 South El Camino Real, San Clemente, CA 92672",
+        "coordinate_basis": "Esri World Geocoding Service StreetAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address; coordinates match El Camino Real block and TikiMap.",
+        "limits": "South Orange County tiki pairing; walk-in and reservation policies vary.",
+        "access": "Check current operating hours before an outing.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H39",
+          "B47"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.thelostinferno.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B53",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "The Lost Inferno official site",
+            "url": "https://www.thelostinferno.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Lost Inferno official site",
+            "url": "https://www.thelostinferno.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Immersive pirate-cavern and volcano-themed tiki bar on El Camino Real in San Clemente, anchoring the southern Orange County coast.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.425501,-117.610593",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Immersive pirate-cavern and volcano-themed tiki bar on El Camino Real in San Clemente, anchoring the southern Orange County coast.\n\nEvidence: Strong for venue address; coordinates match El Camino Real block and TikiMap.\n\nLimits: South Orange County tiki pairing; walk-in and reservation policies vary.\n\nAccess: Check current operating hours before an outing.\n\nSources:\nThe Lost Inferno official site — https://www.thelostinferno.com/\n\nReading:\nThe Lost Inferno official site — https://www.thelostinferno.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238548,
+          34.046518
+        ]
+      },
+      "properties": {
+        "name": "The Mermaid",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "428 East 2nd Street, Los Angeles, CA 90012",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; verified against TikiMap",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address; coordinates match PointAddress and TikiMap.",
+        "limits": "Downtown / Little Tokyo watering-hole pairing only.",
+        "access": "Check current evening hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H24",
+          "B25",
+          "B29"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.themermaiddtla.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B54",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "The Mermaid DTLA official site",
+            "url": "https://www.themermaiddtla.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Mermaid DTLA official site",
+            "url": "https://www.themermaiddtla.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Nautical and tropical cocktail dive bar in Little Tokyo / Downtown Los Angeles, listed on TikiMap and convenient to Fort Moore Hill (H24) and Redwood Bar (B25).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.046518,-118.238548",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Nautical and tropical cocktail dive bar in Little Tokyo / Downtown Los Angeles, listed on TikiMap and convenient to Fort Moore Hill (H24) and Redwood Bar (B25).\n\nEvidence: Strong for venue address; coordinates match PointAddress and TikiMap.\n\nLimits: Downtown / Little Tokyo watering-hole pairing only.\n\nAccess: Check current evening hours before visiting.\n\nSources:\nThe Mermaid DTLA official site — https://www.themermaiddtla.com/\n\nReading:\nThe Mermaid DTLA official site — https://www.themermaiddtla.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3701,
+          34.083549
+        ]
+      },
+      "properties": {
+        "name": "Crossroads Kitchen",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "8284 Melrose Avenue, Los Angeles, CA 90046",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic and culinary pairing near West Hollywood / Sunset Strip stops; reservations strongly recommended.",
+        "access": "Reservations recommended; full cocktail bar available.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H05",
+          "B03",
+          "B58"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.crossroadskitchen.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B55",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Crossroads Kitchen official site",
+            "url": "https://www.crossroadskitchen.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Crossroads Kitchen official site",
+            "url": "https://www.crossroadskitchen.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Chef Tal Ronnen’s flagship upscale Mediterranean plant-based restaurant and full cocktail bar on Melrose Avenue—the first white-tablecloth vegan supper club in Los Angeles, just south of the former Source restaurant site (H05).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.083549,-118.3701",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Chef Tal Ronnen’s flagship upscale Mediterranean plant-based restaurant and full cocktail bar on Melrose Avenue—the first white-tablecloth vegan supper club in Los Angeles, just south of the former Source restaurant site (H05).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic and culinary pairing near West Hollywood / Sunset Strip stops; reservations strongly recommended.\n\nAccess: Reservations recommended; full cocktail bar available.\n\nSources:\nCrossroads Kitchen official site — https://www.crossroadskitchen.com/\n\nReading:\nCrossroads Kitchen official site — https://www.crossroadskitchen.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250558,
+          34.056569
+        ]
+      },
+      "properties": {
+        "name": "Au Lac — Downtown Los Angeles",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "710 West 1st Street, Los Angeles, CA 90012",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address and movement-inspired culinary history; coordinates are approximate PointAddress positions.",
+        "limits": "Both a top-tier plant-based dining stop and a genuine spiritual-movement culinary touchstone near Fort Moore Hill (H24).",
+        "access": "Check current lunch and dinner hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H19",
+          "H24",
+          "B25"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.aulac.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B56",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Au Lac official site",
+            "url": "https://www.aulac.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Au Lac story and philosophy",
+            "url": "https://www.aulac.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Acclaimed plant-based Vietnamese and raw-vegan restaurant with a full elixir and cocktail bar across from Walt Disney Concert Hall, founded in 1997 by Mai Nguyen (inspired by Supreme Master Ching Hai’s Quan Yin spiritual movement) and led by Chef Ito.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.056569,-118.250558",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Acclaimed plant-based Vietnamese and raw-vegan restaurant with a full elixir and cocktail bar across from Walt Disney Concert Hall, founded in 1997 by Mai Nguyen (inspired by Supreme Master Ching Hai’s Quan Yin spiritual movement) and led by Chef Ito.\n\nEvidence: Strong for venue address and movement-inspired culinary history; coordinates are approximate PointAddress positions.\n\nLimits: Both a top-tier plant-based dining stop and a genuine spiritual-movement culinary touchstone near Fort Moore Hill (H24).\n\nAccess: Check current lunch and dinner hours before visiting.\n\nSources:\nAu Lac official site — https://www.aulac.com/\n\nReading:\nAu Lac story and philosophy — https://www.aulac.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.428692,
+          33.996731
+        ]
+      },
+      "properties": {
+        "name": "Shojin — Culver City",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "12406 West Washington Boulevard, Los Angeles, CA 90066",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Westside fine-dining vegan pairing near Bigfoot West (B26) and Dear John’s (B40).",
+        "access": "Reservations recommended; check current dinner hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B26",
+          "B40"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.theshojin.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B57",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Shojin Love official site",
+            "url": "https://www.theshojin.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Shojin Love official site",
+            "url": "https://www.theshojin.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Refined organic, macrobiotic, and 100% plant-based Japanese sushi and omakase restaurant on Washington Boulevard on the Westside, named after Shojin Ryori (Zen Buddhist temple cuisine).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.996731,-118.428692",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Refined organic, macrobiotic, and 100% plant-based Japanese sushi and omakase restaurant on Washington Boulevard on the Westside, named after Shojin Ryori (Zen Buddhist temple cuisine).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Westside fine-dining vegan pairing near Bigfoot West (B26) and Dear John’s (B40).\n\nAccess: Reservations recommended; check current dinner hours before visiting.\n\nSources:\nShojin Love official site — https://www.theshojin.com/\n\nReading:\nShojin Love official site — https://www.theshojin.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.369579,
+          34.090449
+        ]
+      },
+      "properties": {
+        "name": "Pura Vita",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "8274 Santa Monica Boulevard, West Hollywood, CA 90046",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "West Hollywood plant-based dining and wine-bar pairing.",
+        "access": "Reservations recommended; check current dinner hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H05",
+          "B03",
+          "B28",
+          "B55"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://puravitalosangeles.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B58",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Pura Vita official site",
+            "url": "https://puravitalosangeles.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Pura Vita official site",
+            "url": "https://puravitalosangeles.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Chef Tara Punzone’s 100% plant-based organic Italian restaurant and biodynamic wine bar on Santa Monica Boulevard in West Hollywood, blocks from the former Source restaurant (H05) and Lucky Tiki (B28).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.090449,-118.369579",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Chef Tara Punzone’s 100% plant-based organic Italian restaurant and biodynamic wine bar on Santa Monica Boulevard in West Hollywood, blocks from the former Source restaurant (H05) and Lucky Tiki (B28).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: West Hollywood plant-based dining and wine-bar pairing.\n\nAccess: Reservations recommended; check current dinner hours before visiting.\n\nSources:\nPura Vita official site — https://puravitalosangeles.com/\n\nReading:\nPura Vita official site — https://puravitalosangeles.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.386937,
+          34.081057
+        ]
+      },
+      "properties": {
+        "name": "Gracias Madre — West Hollywood",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "8905 Melrose Avenue, West Hollywood, CA 90069",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "West Hollywood plant-based dining and cocktail pairing near Dan Tana’s (B44) and Barney’s Beanery (B03).",
+        "access": "Check current dining and bar hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H05",
+          "B03",
+          "B44"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.graciasmadre.co/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B59",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Gracias Madre official site",
+            "url": "https://www.graciasmadre.co/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Gracias Madre official site",
+            "url": "https://www.graciasmadre.co/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Organic plant-based Mexican kitchen and agave-spirits/mezcal bar on Melrose Avenue in West Hollywood with a landmark courtyard patio.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.081057,-118.386937",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Organic plant-based Mexican kitchen and agave-spirits/mezcal bar on Melrose Avenue in West Hollywood with a landmark courtyard patio.\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: West Hollywood plant-based dining and cocktail pairing near Dan Tana’s (B44) and Barney’s Beanery (B03).\n\nAccess: Check current dining and bar hours before visiting.\n\nSources:\nGracias Madre official site — https://www.graciasmadre.co/\n\nReading:\nGracias Madre official site — https://www.graciasmadre.co/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.441875,
+          33.98126
+        ]
+      },
+      "properties": {
+        "name": "Planta Cocina — Marina del Rey",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "4625 Admiralty Way, Marina del Rey, CA 90292",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Westside waterfront plant-based dining and cocktail pairing.",
+        "access": "Reservations recommended; check current hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B01",
+          "B46"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.plantarestaurants.com/location/marina-del-rey/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B60",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Planta Cocina Marina del Rey official page",
+            "url": "https://www.plantarestaurants.com/location/marina-del-rey/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Planta Cocina Marina del Rey official page",
+            "url": "https://www.plantarestaurants.com/location/marina-del-rey/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Waterfront upscale plant-based sushi, Latin-inspired small plates, and cocktail lounge on Admiralty Way in Marina del Rey, directly adjacent to The Warehouse Restaurant (B46).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.98126,-118.441875",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Waterfront upscale plant-based sushi, Latin-inspired small plates, and cocktail lounge on Admiralty Way in Marina del Rey, directly adjacent to The Warehouse Restaurant (B46).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Westside waterfront plant-based dining and cocktail pairing.\n\nAccess: Reservations recommended; check current hours before visiting.\n\nSources:\nPlanta Cocina Marina del Rey official page — https://www.plantarestaurants.com/location/marina-del-rey/\n\nReading:\nPlanta Cocina Marina del Rey official page — https://www.plantarestaurants.com/location/marina-del-rey/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.430907,
+          34.156492
+        ]
+      },
+      "properties": {
+        "name": "Donna Jean — Sherman Oaks",
+        "region": "San Fernando & Verdugo valleys",
+        "category": "Bar",
+        "address": "4720 Woodman Avenue, Sherman Oaks, CA 91423",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "San Fernando Valley plant-based dining pairing near Tonga Hut (B24) and Scientology Valley (H35).",
+        "access": "Check current dining hours and reservations before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H35",
+          "B24",
+          "B48"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://donnajeanrestaurant.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B61",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Donna Jean official site",
+            "url": "https://donnajeanrestaurant.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Donna Jean official site",
+            "url": "https://donnajeanrestaurant.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Scratch-made plant-based Italian comfort restaurant, cast-iron pizzeria, and bar set in a converted Sherman Oaks cottage with patio dining in the San Fernando Valley.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.156492,-118.430907",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Scratch-made plant-based Italian comfort restaurant, cast-iron pizzeria, and bar set in a converted Sherman Oaks cottage with patio dining in the San Fernando Valley.\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: San Fernando Valley plant-based dining pairing near Tonga Hut (B24) and Scientology Valley (H35).\n\nAccess: Check current dining hours and reservations before visiting.\n\nSources:\nDonna Jean official site — https://donnajeanrestaurant.com/\n\nReading:\nDonna Jean official site — https://donnajeanrestaurant.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.283181,
+          34.095202
+        ]
+      },
+      "properties": {
+        "name": "My Vegan Gold",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "4319 Sunset Boulevard, Los Angeles, CA 90029",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Casual plant-based dining stop right next to Tiki-Ti.",
+        "access": "Check current operating hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H06",
+          "H11",
+          "B19"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.myvegangold.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B62",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "My Vegan Gold official site",
+            "url": "https://www.myvegangold.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "My Vegan Gold official site",
+            "url": "https://www.myvegangold.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Beloved Silver Lake / East Hollywood plant-based Thai kitchen on Sunset Boulevard, located one block east of Tiki-Ti (B19) and convenient to Philosophical Research Society (H11) and Scientology Celebrity Centre (H06).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.095202,-118.283181",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Beloved Silver Lake / East Hollywood plant-based Thai kitchen on Sunset Boulevard, located one block east of Tiki-Ti (B19) and convenient to Philosophical Research Society (H11) and Scientology Celebrity Centre (H06).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Casual plant-based dining stop right next to Tiki-Ti.\n\nAccess: Check current operating hours before visiting.\n\nSources:\nMy Vegan Gold official site — https://www.myvegangold.com/\n\nReading:\nMy Vegan Gold official site — https://www.myvegangold.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.95312,
+          33.695326
+        ]
+      },
+      "properties": {
+        "name": "Taste of Beauty",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "18420 Brookhurst Street, Fountain Valley, CA 92708",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Coastal Orange County upscale plant-based dining and cocktail pairing.",
+        "access": "Reservations recommended for tasting menus and dinner service.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H38",
+          "B17"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://thetasteofbeauty.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B63",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Taste of Beauty official site",
+            "url": "https://thetasteofbeauty.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Taste of Beauty official site",
+            "url": "https://thetasteofbeauty.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Theatrical, upscale Asian-fusion plant-based fine-dining restaurant and botanical cocktail lounge in Fountain Valley, convenient to Huntington Beach’s former Light Club site (H38).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.695326,-117.95312",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Theatrical, upscale Asian-fusion plant-based fine-dining restaurant and botanical cocktail lounge in Fountain Valley, convenient to Huntington Beach’s former Light Club site (H38).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Coastal Orange County upscale plant-based dining and cocktail pairing.\n\nAccess: Reservations recommended for tasting menus and dinner service.\n\nSources:\nTaste of Beauty official site — https://thetasteofbeauty.com/\n\nReading:\nTaste of Beauty official site — https://thetasteofbeauty.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.539369,
+          34.201291
+        ]
+      },
+      "properties": {
+        "name": "Vinh Loi Tofu — Reseda",
+        "region": "San Fernando & Verdugo valleys",
+        "category": "Bar",
+        "address": "18625 Sherman Way, Reseda, CA 91335",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "West Valley plant-based dining institution; alcohol is not the focus.",
+        "access": "Check current hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H09",
+          "H18",
+          "H26",
+          "B06"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.vinhloitofu.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "vegan_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B64",
+        "topic_labels": [
+          "Plant-Based & Vegan Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "vegan",
+        "sources": [
+          {
+            "title": "Vinh Loi Tofu official site",
+            "url": "https://www.vinhloitofu.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Vinh Loi Tofu official site",
+            "url": "https://www.vinhloitofu.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Legendary West San Fernando Valley 100% vegan Vietnamese kitchen and house-made tofu institution in Reseda run by Chef Kevin Tran, along the route to Spahn Ranch (H09), Fountain of the World (H18), and Santa Susana Field Lab (H26).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.201291,-118.539369",
+        "marker-color": "#2d7a47",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2d7a47",
+          "showLabel": false
+        },
+        "description": "Legendary West San Fernando Valley 100% vegan Vietnamese kitchen and house-made tofu institution in Reseda run by Chef Kevin Tran, along the route to Spahn Ranch (H09), Fountain of the World (H18), and Santa Susana Field Lab (H26).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: West Valley plant-based dining institution; alcohol is not the focus.\n\nAccess: Check current hours before visiting.\n\nSources:\nVinh Loi Tofu official site — https://www.vinhloitofu.com/\n\nReading:\nVinh Loi Tofu official site — https://www.vinhloitofu.com/"
       }
     }
   ]

@@ -26,6 +26,7 @@ TOPIC_LABELS = {
     'folklore_legends': 'Folklore & Disputed Lore',
     'tiki_bars': 'Tiki Bars',
     'classic_dining': 'Old-School Steakhouses & Dining',
+    'vegan_dining': 'Plant-Based & Vegan Dining',
 }
 
 ROLE_LABELS = {
@@ -48,6 +49,7 @@ PIN_COLORS = {
     'archive': '#7446a2',
     'tiki': '#1f7a6b',
     'dining': '#7c3238',
+    'vegan': '#2d7a47',
     'bar': '#2567a5',
 }
 
@@ -55,6 +57,8 @@ PIN_COLORS = {
 def determine_pin_kind(ident, category, role, topics):
     if 'tiki_bars' in topics:
         return 'tiki'
+    if 'vegan_dining' in topics and (category == 'Bar' or role == 'bar'):
+        return 'vegan'
     if 'classic_dining' in topics:
         return 'dining'
     if category == 'Bar' or role == 'bar':
