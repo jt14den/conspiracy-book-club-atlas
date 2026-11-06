@@ -5482,6 +5482,1207 @@
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: West Hollywood branch above Tail o' the Pup; distinct from the Highland Park branch.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://www.luckytikibar.com/ltweho\n\nReading:\nVenue address source — https://www.luckytikibar.com/ltweho"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "B29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.252953,
+          34.045406
+        ]
+      },
+      "properties": {
+        "name": "Clifton’s Republic / Pacific Seas",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "648 South Broadway, Los Angeles, CA 90014",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address and Clifford Clinton’s historical ownership; coordinates are approximate PointAddress positions.",
+        "limits": "Operating schedule and upstairs Pacific Seas access fluctuate; check current booking/hours before an outing. Downtown geographic pairing for Trinity Auditorium (H19) and Fort Moore Hill (H24).",
+        "access": "Check current opening hours and reservation requirements before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Clifton%27s_Cafeteria",
+        "wikidata_id": "",
+        "related_places": [
+          "H19",
+          "H24"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.cliftonsrepublic.com/",
+        "wiki_relation": "Historic cafeteria and bar building",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "classic_dining",
+          "political_organizing",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B29",
+        "topic_labels": [
+          "Tiki Bars",
+          "Old-School Steakhouses & Dining",
+          "Political Organizing",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Clifton’s Republic official site",
+            "url": "https://www.cliftonsrepublic.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Clifton’s Cafeteria overview",
+            "url": "https://en.wikipedia.org/wiki/Clifton%27s_Cafeteria"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Opened as Clifton’s Brookdale Cafeteria in 1935 by reformer Clifford Clinton—who served on the 1937 grand jury investigating LAPD intelligence-squad corruption—and later restored with the multi-level Pacific Seas tiki bar upstairs.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.045406,-118.252953",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Opened as Clifton’s Brookdale Cafeteria in 1935 by reformer Clifford Clinton—who served on the 1937 grand jury investigating LAPD intelligence-squad corruption—and later restored with the multi-level Pacific Seas tiki bar upstairs.\n\nEvidence: Strong for venue address and Clifford Clinton’s historical ownership; coordinates are approximate PointAddress positions.\n\nLimits: Operating schedule and upstairs Pacific Seas access fluctuate; check current booking/hours before an outing. Downtown geographic pairing for Trinity Auditorium (H19) and Fort Moore Hill (H24).\n\nAccess: Check current opening hours and reservation requirements before visiting.\n\nSources:\nClifton’s Republic official site — https://www.cliftonsrepublic.com/\n\nReading:\nClifton’s Cafeteria overview — https://en.wikipedia.org/wiki/Clifton%27s_Cafeteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.203651,
+          34.120619
+        ]
+      },
+      "properties": {
+        "name": "Lucky Tiki — Highland Park",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "5132 York Boulevard, Los Angeles, CA 90042",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing only; no historical connection to Builders of the Adytum or Highland Park religious sites.",
+        "access": "Check current hours and reservation policy before an outing.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H14",
+          "B28"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.luckytikibar.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B30",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Lucky Tiki Highland Park venue page",
+            "url": "https://www.luckytikibar.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Lucky Tiki Highland Park venue page",
+            "url": "https://www.luckytikibar.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Highland Park neighborhood tiki bar on York Boulevard, distinct from the West Hollywood location (B28). Optional Northeast LA watering-hole pairing after Builders of the Adytum (H14).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.120619,-118.203651",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Highland Park neighborhood tiki bar on York Boulevard, distinct from the West Hollywood location (B28). Optional Northeast LA watering-hole pairing after Builders of the Adytum (H14).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing only; no historical connection to Builders of the Adytum or Highland Park religious sites.\n\nAccess: Check current hours and reservation policy before an outing.\n\nSources:\nLucky Tiki Highland Park venue page — https://www.luckytikibar.com/\n\nReading:\nLucky Tiki Highland Park venue page — https://www.luckytikibar.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.916199,
+          33.833133
+        ]
+      },
+      "properties": {
+        "name": "Strong Water Anaheim",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "270 South Clementine Street, Anaheim, CA 92805",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing only; no historical connection to CSU Fullerton or Orange County movements. Reservations are typically required.",
+        "access": "Reservations strongly recommended; check current schedule before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H41"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.strongwateranaheim.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B31",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Strong Water Anaheim official site",
+            "url": "https://www.strongwateranaheim.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Strong Water Anaheim official site",
+            "url": "https://www.strongwateranaheim.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Immersive nautical tiki bar and dining cabin in Anaheim built around an 1884 sunken-ship aesthetic. North Orange County tiki pairing after the Philip K. Dick papers at CSU Fullerton (H41).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.833133,-117.916199",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Immersive nautical tiki bar and dining cabin in Anaheim built around an 1884 sunken-ship aesthetic. North Orange County tiki pairing after the Philip K. Dick papers at CSU Fullerton (H41).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing only; no historical connection to CSU Fullerton or Orange County movements. Reservations are typically required.\n\nAccess: Reservations strongly recommended; check current schedule before visiting.\n\nSources:\nStrong Water Anaheim official site — https://www.strongwateranaheim.com/\n\nReading:\nStrong Water Anaheim official site — https://www.strongwateranaheim.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.827679,
+          33.733685
+        ]
+      },
+      "properties": {
+        "name": "The Stowaway",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "14401 Newport Avenue, Tustin, CA 92780",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing only; no historical connection to Orange County archival or religious sites.",
+        "access": "Check current opening hours before an outing.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H40",
+          "H41"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://thestowawaytiki.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B32",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "The Stowaway Tiki official site",
+            "url": "https://thestowawaytiki.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Stowaway Tiki official site",
+            "url": "https://thestowawaytiki.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Underground tiki bar and rum hideaway in Tustin. Central Orange County tiki option between CSU Fullerton (H41) and Trabuco College (H40).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.733685,-117.827679",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Underground tiki bar and rum hideaway in Tustin. Central Orange County tiki option between CSU Fullerton (H41) and Trabuco College (H40).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing only; no historical connection to Orange County archival or religious sites.\n\nAccess: Check current opening hours before an outing.\n\nSources:\nThe Stowaway Tiki official site — https://thestowawaytiki.com/\n\nReading:\nThe Stowaway Tiki official site — https://thestowawaytiki.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.927723,
+          33.8086
+        ]
+      },
+      "properties": {
+        "name": "Trader Sam’s Enchanted Tiki Bar",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "1150 Magic Way, Anaheim, CA 92802",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for hotel address; coordinates mark the Disneyland Hotel complex rather than the exact bar room.",
+        "limits": "Geographic pairing only; hotel parking and walk-up waitlists apply.",
+        "access": "Located at the Disneyland Hotel (no theme-park ticket required); check waitlist and reservation policies.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Trader_Sam%27s_Enchanted_Tiki_Bar",
+        "wikidata_id": "",
+        "related_places": [
+          "H41",
+          "B31"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://disneyland.disney.go.com/dining/disneyland-hotel/trader-sams-enchanted-tiki-bar/",
+        "wiki_relation": "Venue article",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B33",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Trader Sam’s Enchanted Tiki Bar official page",
+            "url": "https://disneyland.disney.go.com/dining/disneyland-hotel/trader-sams-enchanted-tiki-bar/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Trader Sam’s Enchanted Tiki Bar overview",
+            "url": "https://en.wikipedia.org/wiki/Trader_Sam%27s_Enchanted_Tiki_Bar"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Classic animatronic tiki bar and outdoor lanai at the Disneyland Hotel in Anaheim, drawing on mid-century Adventureland and Polynesian pop design.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.8086,-117.927723",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Classic animatronic tiki bar and outdoor lanai at the Disneyland Hotel in Anaheim, drawing on mid-century Adventureland and Polynesian pop design.\n\nEvidence: Strong for hotel address; coordinates mark the Disneyland Hotel complex rather than the exact bar room.\n\nLimits: Geographic pairing only; hotel parking and walk-up waitlists apply.\n\nAccess: Located at the Disneyland Hotel (no theme-park ticket required); check waitlist and reservation policies.\n\nSources:\nTrader Sam’s Enchanted Tiki Bar official page — https://disneyland.disney.go.com/dining/disneyland-hotel/trader-sams-enchanted-tiki-bar/\n\nReading:\nTrader Sam’s Enchanted Tiki Bar overview — https://en.wikipedia.org/wiki/Trader_Sam%27s_Enchanted_Tiki_Bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.924685,
+          33.619881
+        ]
+      },
+      "properties": {
+        "name": "Billy’s at the Beach",
+        "region": "Orange County",
+        "category": "Bar",
+        "address": "2751 West Coast Highway, Newport Beach, CA 92663",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing along Coast Highway only; no historical connection to the Light Club or Brotherhood of Eternal Love.",
+        "access": "Check current opening hours and reservations before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H38",
+          "H39"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://billysatthebeach.net/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B34",
+        "topic_labels": [
+          "Tiki Bars",
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "Billy’s at the Beach official site",
+            "url": "https://billysatthebeach.net/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Billy’s at the Beach official site",
+            "url": "https://billysatthebeach.net/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Waterfront Polynesian restaurant and tiki bar on Newport Harbor, known for classic Mai Tais and aloha shirts along Pacific Coast Highway between Huntington Beach (H38) and Laguna Beach (H39).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.619881,-117.924685",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Waterfront Polynesian restaurant and tiki bar on Newport Harbor, known for classic Mai Tais and aloha shirts along Pacific Coast Highway between Huntington Beach (H38) and Laguna Beach (H39).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing along Coast Highway only; no historical connection to the Light Club or Brotherhood of Eternal Love.\n\nAccess: Check current opening hours and reservations before visiting.\n\nSources:\nBilly’s at the Beach official site — https://billysatthebeach.net/\n\nReading:\nBilly’s at the Beach official site — https://billysatthebeach.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.289865,
+          34.281016
+        ]
+      },
+      "properties": {
+        "name": "VenTiki Tiki Lounge & Lanai",
+        "region": "Ventura County",
+        "category": "Bar",
+        "address": "701 East Main Street, Ventura, CA 93001",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing in Ventura County only; requires a drive between coastal Ventura and the Ojai Valley.",
+        "access": "Check current opening hours before an outing.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H42",
+          "H43",
+          "H44"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.ventikiloungeandlanai.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "tiki_bars",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B35",
+        "topic_labels": [
+          "Tiki Bars",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
+        "sources": [
+          {
+            "title": "VenTiki Tiki Lounge & Lanai official site",
+            "url": "https://www.ventikiloungeandlanai.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "VenTiki Tiki Lounge & Lanai official site",
+            "url": "https://www.ventikiloungeandlanai.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Downtown Ventura tiki bar and outdoor lanai on Main Street. Coastal Ventura County tiki pairing for an Ojai esoteric trip (H42, H43, H44).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.281016,-119.289865",
+        "marker-color": "#1f7a6b",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#1f7a6b",
+          "showLabel": false
+        },
+        "description": "Downtown Ventura tiki bar and outdoor lanai on Main Street. Coastal Ventura County tiki pairing for an Ojai esoteric trip (H42, H43, H44).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing in Ventura County only; requires a drive between coastal Ventura and the Ojai Valley.\n\nAccess: Check current opening hours before an outing.\n\nSources:\nVenTiki Tiki Lounge & Lanai official site — https://www.ventikiloungeandlanai.com/\n\nReading:\nVenTiki Tiki Lounge & Lanai official site — https://www.ventikiloungeandlanai.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335377,
+          34.101735
+        ]
+      },
+      "properties": {
+        "name": "The Musso & Frank Grill",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "6667 Hollywood Boulevard, Los Angeles, CA 90028",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for historic venue address; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic and literary-history pairing in Hollywood; no institutional connection to nearby CCHR (H22) or Knickerbocker Hotel (H21).",
+        "access": "Reservations strongly recommended for dining booths; bar counter seating varies.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Musso_%26_Frank_Grill",
+        "wikidata_id": "",
+        "related_places": [
+          "H12",
+          "H21",
+          "H22",
+          "B09"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://mussoandfrank.com/",
+        "wiki_relation": "Historic restaurant article",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B36",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Musso & Frank Grill official site",
+            "url": "https://mussoandfrank.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Musso & Frank Grill history",
+            "url": "https://en.wikipedia.org/wiki/Musso_%26_Frank_Grill"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Hollywood’s oldest restaurant (founded 1919), celebrated for its red leather booths, flannel cakes, prime steaks, and classic martinis, and long frequented by screenwriters and novelists.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.101735,-118.335377",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Hollywood’s oldest restaurant (founded 1919), celebrated for its red leather booths, flannel cakes, prime steaks, and classic martinis, and long frequented by screenwriters and novelists.\n\nEvidence: Strong for historic venue address; coordinates are approximate PointAddress positions.\n\nLimits: Geographic and literary-history pairing in Hollywood; no institutional connection to nearby CCHR (H22) or Knickerbocker Hotel (H21).\n\nAccess: Reservations strongly recommended for dining booths; bar counter seating varies.\n\nSources:\nMusso & Frank Grill official site — https://mussoandfrank.com/\n\nReading:\nMusso & Frank Grill history — https://en.wikipedia.org/wiki/Musso_%26_Frank_Grill"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26438,
+          34.125491
+        ]
+      },
+      "properties": {
+        "name": "Tam O’Shanter",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "2980 Los Feliz Boulevard, Los Angeles, CA 90039",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for historic venue address; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing along Los Feliz Boulevard; no historical connection to Manly P. Hall’s Philosophical Research Society.",
+        "access": "Check current dining and tavern hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Tam_O%27Shanter_Inn",
+        "wikidata_id": "",
+        "related_places": [
+          "H11",
+          "B27"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.lawrysonline.com/tam-oshanter/",
+        "wiki_relation": "Historic restaurant article",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B37",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Tam O’Shanter official site",
+            "url": "https://www.lawrysonline.com/tam-oshanter/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Tam O’Shanter Inn overview",
+            "url": "https://en.wikipedia.org/wiki/Tam_O%27Shanter_Inn"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Opened in 1922 on Los Feliz Boulevard by the Van de Kamp and Frank family (predecessor to Lawry’s), serving prime rib and Scotch in a storybook inn just east of the Philosophical Research Society (H11).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.125491,-118.26438",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Opened in 1922 on Los Feliz Boulevard by the Van de Kamp and Frank family (predecessor to Lawry’s), serving prime rib and Scotch in a storybook inn just east of the Philosophical Research Society (H11).\n\nEvidence: Strong for historic venue address; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing along Los Feliz Boulevard; no historical connection to Manly P. Hall’s Philosophical Research Society.\n\nAccess: Check current dining and tavern hours before visiting.\n\nSources:\nTam O’Shanter official site — https://www.lawrysonline.com/tam-oshanter/\n\nReading:\nTam O’Shanter Inn overview — https://en.wikipedia.org/wiki/Tam_O%27Shanter_Inn"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.302222,
+          34.057837
+        ]
+      },
+      "properties": {
+        "name": "Taylor’s Steakhouse",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "3361 West 8th Street, Los Angeles, CA 90005",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing in the Wilshire/Koreatown corridor only.",
+        "access": "Check current dinner and bar hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H07",
+          "H08",
+          "B02"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://taylorssteakhouse.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B38",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Taylor’s Steakhouse official site",
+            "url": "https://taylorssteakhouse.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Taylor’s Steakhouse official site",
+            "url": "https://taylorssteakhouse.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Operating since 1953, a classic wood-paneled Koreatown steakhouse with deep red leather booths and a downstairs bar, two blocks south of the former Ambassador Hotel site (H07) and HMS Bounty (B02).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.057837,-118.302222",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Operating since 1953, a classic wood-paneled Koreatown steakhouse with deep red leather booths and a downstairs bar, two blocks south of the former Ambassador Hotel site (H07) and HMS Bounty (B02).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing in the Wilshire/Koreatown corridor only.\n\nAccess: Check current dinner and bar hours before visiting.\n\nSources:\nTaylor’s Steakhouse official site — https://taylorssteakhouse.com/\n\nReading:\nTaylor’s Steakhouse official site — https://taylorssteakhouse.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.341347,
+          34.145506
+        ]
+      },
+      "properties": {
+        "name": "The Smoke House",
+        "region": "San Fernando & Verdugo valleys",
+        "category": "Bar",
+        "address": "4420 West Lakeside Drive, Burbank, CA 91505",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing in the East San Fernando Valley only.",
+        "access": "Check current dining and lounge hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Smoke_House_Restaurant",
+        "wikidata_id": "",
+        "related_places": [
+          "H35",
+          "B23"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.smokehouse1946.com/",
+        "wiki_relation": "Historic restaurant article",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B39",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "The Smoke House official site",
+            "url": "https://www.smokehouse1946.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Smoke House Restaurant overview",
+            "url": "https://en.wikipedia.org/wiki/Smoke_House_Restaurant"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Post-WWII Burbank steakhouse and red-booth studio supper club (founded 1946) across from Warner Bros. Studios. Valley steakhouse pairing near Idle Hour (B23) and Church of Scientology of the Valley (H35).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.145506,-118.341347",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Post-WWII Burbank steakhouse and red-booth studio supper club (founded 1946) across from Warner Bros. Studios. Valley steakhouse pairing near Idle Hour (B23) and Church of Scientology of the Valley (H35).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing in the East San Fernando Valley only.\n\nAccess: Check current dining and lounge hours before visiting.\n\nSources:\nThe Smoke House official site — https://www.smokehouse1946.com/\n\nReading:\nSmoke House Restaurant overview — https://en.wikipedia.org/wiki/Smoke_House_Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.409899,
+          34.004198
+        ]
+      },
+      "properties": {
+        "name": "Dear John’s",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "11208 Culver Boulevard, Culver City, CA 90230",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing on the Westside only; check current operating status and reservations.",
+        "access": "Reservations recommended; check current operating schedule before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B26"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.dearjohnsbar.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B40",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Dear John’s Bar official site",
+            "url": "https://www.dearjohnsbar.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Dear John’s Bar official site",
+            "url": "https://www.dearjohnsbar.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Intimate 1962 Culver City steakhouse and supper club with red vinyl booths and tableside Caesar salad, close to Bigfoot West (B26) on the Westside.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.004198,-118.409899",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Intimate 1962 Culver City steakhouse and supper club with red vinyl booths and tableside Caesar salad, close to Bigfoot West (B26) on the Westside.\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing on the Westside only; check current operating status and reservations.\n\nAccess: Reservations recommended; check current operating schedule before visiting.\n\nSources:\nDear John’s Bar official site — https://www.dearjohnsbar.com/\n\nReading:\nDear John’s Bar official site — https://www.dearjohnsbar.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.517761,
+          34.029015
+        ]
+      },
+      "properties": {
+        "name": "The Golden Bull",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "170 West Channel Road, Santa Monica, CA 90402",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing at the foot of Rustic Canyon; no historical connection to the 1930s Murphy Ranch compound.",
+        "access": "Check current dinner and bar hours before an outing.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H03",
+          "B01"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.goldenbullsantamonica.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B41",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "The Golden Bull official site",
+            "url": "https://www.goldenbullsantamonica.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Golden Bull official site",
+            "url": "https://www.goldenbullsantamonica.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Santa Monica Canyon steakhouse and bar operating on West Channel Road since 1949, directly at the mouth of Rustic Canyon below Murphy Ranch (H03).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.029015,-118.517761",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Santa Monica Canyon steakhouse and bar operating on West Channel Road since 1949, directly at the mouth of Rustic Canyon below Murphy Ranch (H03).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing at the foot of Rustic Canyon; no historical connection to the 1930s Murphy Ranch compound.\n\nAccess: Check current dinner and bar hours before an outing.\n\nSources:\nThe Golden Bull official site — https://www.goldenbullsantamonica.com/\n\nReading:\nThe Golden Bull official site — https://www.goldenbullsantamonica.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.073554,
+          34.129202
+        ]
+      },
+      "properties": {
+        "name": "Clearman’s North Woods Inn — San Gabriel",
+        "region": "San Gabriel Valley & mountains",
+        "category": "Bar",
+        "address": "7247 Rosemead Boulevard, San Gabriel, CA 91775",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing in the San Gabriel Valley for Pasadena/Altadena stops (H10, H36); no historical connection to those movements.",
+        "access": "Check current dining and saloon hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H10",
+          "H36",
+          "B07"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://clearmansrestaurants.com/north-woods-inn-san-gabriel/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B42",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Clearman’s North Woods Inn San Gabriel page",
+            "url": "https://clearmansrestaurants.com/north-woods-inn-san-gabriel/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Clearman’s North Woods Inn San Gabriel page",
+            "url": "https://clearmansrestaurants.com/north-woods-inn-san-gabriel/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Programmatic 1960s snow-roofed log-cabin tavern and steakhouse on Rosemead Boulevard in the San Gabriel Valley, known for stained glass, sawdust/peanut-shell floors, and cheese bread.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.129202,-118.073554",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Programmatic 1960s snow-roofed log-cabin tavern and steakhouse on Rosemead Boulevard in the San Gabriel Valley, known for stained glass, sawdust/peanut-shell floors, and cheese bread.\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing in the San Gabriel Valley for Pasadena/Altadena stops (H10, H36); no historical connection to those movements.\n\nAccess: Check current dining and saloon hours before visiting.\n\nSources:\nClearman’s North Woods Inn San Gabriel page — https://clearmansrestaurants.com/north-woods-inn-san-gabriel/\n\nReading:\nClearman’s North Woods Inn San Gabriel page — https://clearmansrestaurants.com/north-woods-inn-san-gabriel/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.09606,
+          33.983043
+        ]
+      },
+      "properties": {
+        "name": "Dal Rae",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "9023 East Washington Boulevard, Pico Rivera, CA 90660",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Southeast LA County classic dining stop; no historical connection to a movement is asserted.",
+        "access": "Reservations recommended; check current hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "B14"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.dalrae.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B43",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Dal Rae Restaurant official site",
+            "url": "https://www.dalrae.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Dal Rae Restaurant official site",
+            "url": "https://www.dalrae.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Opened in 1958 in Pico Rivera, a preserved mid-century continental steakhouse and cocktail lounge with tuxedoed captains, red booths, pepper steak, and tableside flambé service.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.983043,-118.09606",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Opened in 1958 in Pico Rivera, a preserved mid-century continental steakhouse and cocktail lounge with tuxedoed captains, red booths, pepper steak, and tableside flambé service.\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Southeast LA County classic dining stop; no historical connection to a movement is asserted.\n\nAccess: Reservations recommended; check current hours before visiting.\n\nSources:\nDal Rae Restaurant official site — https://www.dalrae.com/\n\nReading:\nDal Rae Restaurant official site — https://www.dalrae.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.38911,
+          34.081804
+        ]
+      },
+      "properties": {
+        "name": "Dan Tana’s",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "9071 Santa Monica Boulevard, West Hollywood, CA 90069",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for venue address from operator website; coordinates are approximate PointAddress positions.",
+        "limits": "Geographic pairing in West Hollywood; reservations are typically essential.",
+        "access": "Reservations required for tables; check current hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dan_Tana%27s",
+        "wikidata_id": "",
+        "related_places": [
+          "H05",
+          "B03",
+          "B28"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.dantanasrestaurant.com/",
+        "wiki_relation": "Historic restaurant article",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B44",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Dan Tana’s official site",
+            "url": "https://www.dantanasrestaurant.com/"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Dan Tana’s overview",
+            "url": "https://en.wikipedia.org/wiki/Dan_Tana%27s"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Opened in 1964 on Santa Monica Boulevard in West Hollywood, an old-school red-booth New York steak and red-sauce Italian institution near Barney’s Beanery (B03) and the former Source site (H05).",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.081804,-118.38911",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Opened in 1964 on Santa Monica Boulevard in West Hollywood, an old-school red-booth New York steak and red-sauce Italian institution near Barney’s Beanery (B03) and the former Source site (H05).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: Geographic pairing in West Hollywood; reservations are typically essential.\n\nAccess: Reservations required for tables; check current hours before visiting.\n\nSources:\nDan Tana’s official site — https://www.dantanasrestaurant.com/\n\nReading:\nDan Tana’s overview — https://en.wikipedia.org/wiki/Dan_Tana%27s"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.249633,
+          34.044876
+        ]
+      },
+      "properties": {
+        "name": "Cole’s French Dip",
+        "region": "Los Angeles & coast",
+        "category": "Bar",
+        "address": "118 East 6th Street, Los Angeles, CA 90014",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match; approximate venue position",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for historic building address; coordinates are approximate PointAddress positions.",
+        "limits": "Downtown Los Angeles saloon and dining pairing near Trinity Auditorium (H19) and Fort Moore Hill (H24).",
+        "access": "Check current operating schedule and back-room speakeasy hours before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet",
+        "wikidata_id": "",
+        "related_places": [
+          "H19",
+          "H24",
+          "B10",
+          "B14"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet",
+        "wiki_relation": "Historic restaurant and saloon article",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining",
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B45",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Cole’s Pacific Electric Buffet overview",
+            "url": "https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Cole’s Pacific Electric Buffet overview",
+            "url": "https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Founded in 1908 on the ground floor of Henry Huntington’s Pacific Electric Building, one of Los Angeles’s oldest saloons and claimants to the invention of the French dip sandwich.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=34.044876,-118.249633",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Founded in 1908 on the ground floor of Henry Huntington’s Pacific Electric Building, one of Los Angeles’s oldest saloons and claimants to the invention of the French dip sandwich.\n\nEvidence: Strong for historic building address; coordinates are approximate PointAddress positions.\n\nLimits: Downtown Los Angeles saloon and dining pairing near Trinity Auditorium (H19) and Fort Moore Hill (H24).\n\nAccess: Check current operating schedule and back-room speakeasy hours before visiting.\n\nSources:\nCole’s Pacific Electric Buffet overview — https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet\n\nReading:\nCole’s Pacific Electric Buffet overview — https://en.wikipedia.org/wiki/Cole%27s_Pacific_Electric_Buffet"
+      }
     }
   ]
 }
