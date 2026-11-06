@@ -8029,6 +8029,1566 @@
         },
         "description": "Legendary West San Fernando Valley 100% vegan Vietnamese kitchen and house-made tofu institution in Reseda run by Chef Kevin Tran, along the route to Spahn Ranch (H09), Fountain of the World (H18), and Santa Susana Field Lab (H26).\n\nEvidence: Strong for venue address from operator website; coordinates are approximate PointAddress positions.\n\nLimits: West Valley plant-based dining institution; alcohol is not the focus.\n\nAccess: Check current hours before visiting.\n\nSources:\nVinh Loi Tofu official site — https://www.vinhloitofu.com/\n\nReading:\nVinh Loi Tofu official site — https://www.vinhloitofu.com/"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "H45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.203936,
+          33.046168
+        ]
+      },
+      "properties": {
+        "name": "Heaven’s Gate — former Rancho Santa Fe property",
+        "region": "San Diego County",
+        "category": "Apocalyptic movement",
+        "address": "18241 Paseo Victoria (formerly 18241 Colina Norte), Rancho Santa Fe, CA 92067",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the group’s history and 1997 deaths: a scholarly reference article and local reporting agree. Moderate for matching the former address to the present parcel: the street-name crosswalk comes from a visitor-history record, rather than a historical parcel survey.",
+        "limits": "The pin represents the current address of a demolished historical property. It does not identify an original room or surviving structure. Religious beliefs and astronomical interpretations are attributed to the movement, not established as facts.",
+        "access": "Private residential property, with no public museum or interior access. Treat this as street context only; do not enter the property.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Heaven's_Gate_(religious_group)",
+        "wikidata_id": "Q46788",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "",
+        "wiki_relation": "associated religious movement; original building demolished",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q46788",
+        "topics": [
+          "religious_esoteric",
+          "conspiracy_beliefs",
+          "folklore_legends"
+        ],
+        "location_role": "event_site",
+        "id": "H45",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Conspiracy Beliefs",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Sarah Harvey: Heaven’s Gate, Critical Dictionary of Apocalyptic and Millenarian Movements (2025)",
+            "url": "https://www.cdamm.org/articles/heavens-gate"
+          },
+          {
+            "title": "ABC 10News: A look at San Diego’s most infamous homes (demolition and rebuilding)",
+            "url": "https://www.10news.com/news/local-news/a-look-at-san-diegos-most-infamous-homes"
+          },
+          {
+            "title": "Roadside America: Heaven’s Gate Cult House (former/current street address)",
+            "url": "https://www.roadsideamerica.com/tip/21896"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=18241+Paseo+Victoria%2C+Rancho+Santa+Fe%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Sarah Harvey: Heaven’s Gate (scholarly overview)",
+            "url": "https://www.cdamm.org/articles/heavens-gate"
+          },
+          {
+            "title": "Suggested book: Benjamin E. Zeller, Heaven’s Gate: America’s UFO Religion (NYU Press, 2014); publisher record checked, full book not consulted",
+            "url": "https://nyupress.org/9781479811137/heavens-gate/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "The Heaven’s Gate religious community occupied a rented Rancho Santa Fe mansion where 39 members died in March 1997. Its teachings combined Christian apocalypticism, UFO beliefs and ideas about leaving the human world. The original house was subsequently demolished; the street was renamed and the property rebuilt.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.046168,-117.203936",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "The Heaven’s Gate religious community occupied a rented Rancho Santa Fe mansion where 39 members died in March 1997. Its teachings combined Christian apocalypticism, UFO beliefs and ideas about leaving the human world. The original house was subsequently demolished; the street was renamed and the property rebuilt.\n\nEvidence: Strong for the group’s history and 1997 deaths: a scholarly reference article and local reporting agree. Moderate for matching the former address to the present parcel: the street-name crosswalk comes from a visitor-history record, rather than a historical parcel survey.\n\nLimits: The pin represents the current address of a demolished historical property. It does not identify an original room or surviving structure. Religious beliefs and astronomical interpretations are attributed to the movement, not established as facts.\n\nAccess: Private residential property, with no public museum or interior access. Treat this as street context only; do not enter the property.\n\nSources:\nSarah Harvey: Heaven’s Gate, Critical Dictionary of Apocalyptic and Millenarian Movements (2025) — https://www.cdamm.org/articles/heavens-gate\nABC 10News: A look at San Diego’s most infamous homes (demolition and rebuilding) — https://www.10news.com/news/local-news/a-look-at-san-diegos-most-infamous-homes\nRoadside America: Heaven’s Gate Cult House (former/current street address) — https://www.roadsideamerica.com/tip/21896\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=18241+Paseo+Victoria%2C+Rancho+Santa+Fe%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nSarah Harvey: Heaven’s Gate (scholarly overview) — https://www.cdamm.org/articles/heavens-gate\nSuggested book: Benjamin E. Zeller, Heaven’s Gate: America’s UFO Religion (NYU Press, 2014); publisher record checked, full book not consulted — https://nyupress.org/9781479811137/heavens-gate/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.962066,
+          32.794129
+        ]
+      },
+      "properties": {
+        "name": "Unarius Academy of Science — El Cajon teaching center",
+        "region": "San Diego County",
+        "category": "UFO religion",
+        "address": "145 S. Magnolia Avenue, El Cajon, CA 92020",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the current address, founders and teachings as the organization describes them: official contact, history and extraterrestrial-intelligence pages agree. These are primary accounts of belief, not independent tests of the claims.",
+        "limits": "The word Science is part of the institution’s name. These sources do not establish its extraterrestrial contacts, past-life memories or therapeutic claims as scientific findings.",
+        "access": "The center publishes visitor sessions and appointment arrangements. Check the contact page before going; programs and hours can change.",
+        "bar_pairing": "B65 (nearby downtown El Cajon pairing; geographic proximity only)",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Unarius_Academy_of_Science",
+        "wikidata_id": "Q7882305",
+        "related_places": [
+          "B65"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://unarius.org/",
+        "wiki_relation": "associated organization; teaching-center address is separately sourced",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q7882305",
+        "topics": [
+          "religious_esoteric",
+          "folklore_legends"
+        ],
+        "location_role": "organizational_office",
+        "id": "H46",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Unarius: What is Unarius?",
+            "url": "https://unarius.org/what-is-unarius/"
+          },
+          {
+            "title": "Unarius: contact and visitor arrangements",
+            "url": "https://unarius.org/contact/"
+          },
+          {
+            "title": "Unarius: Extraterrestrial Intelligence (primary statement of beliefs)",
+            "url": "https://unarius.org/extraterrestrial-intelligence/"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=145+S+Magnolia+Avenue%2C+El+Cajon%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Unarius: What is Unarius?",
+            "url": "https://unarius.org/what-is-unarius/"
+          },
+          {
+            "title": "Unarius: contact and visitor arrangements",
+            "url": "https://unarius.org/contact/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Ernest and Ruth Norman founded Unarius in 1954. The El Cajon teaching center presents a spiritual system involving reincarnation, past-life therapy and communication with extraterrestrial Space Brothers. Its continuing classes and visual culture make this a living UFO-religion stop rather than a vanished historical site.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.794129,-116.962066",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Ernest and Ruth Norman founded Unarius in 1954. The El Cajon teaching center presents a spiritual system involving reincarnation, past-life therapy and communication with extraterrestrial Space Brothers. Its continuing classes and visual culture make this a living UFO-religion stop rather than a vanished historical site.\n\nEvidence: Strong for the current address, founders and teachings as the organization describes them: official contact, history and extraterrestrial-intelligence pages agree. These are primary accounts of belief, not independent tests of the claims.\n\nLimits: The word Science is part of the institution’s name. These sources do not establish its extraterrestrial contacts, past-life memories or therapeutic claims as scientific findings.\n\nAccess: The center publishes visitor sessions and appointment arrangements. Check the contact page before going; programs and hours can change.\n\nSources:\nUnarius: What is Unarius? — https://unarius.org/what-is-unarius/\nUnarius: contact and visitor arrangements — https://unarius.org/contact/\nUnarius: Extraterrestrial Intelligence (primary statement of beliefs) — https://unarius.org/extraterrestrial-intelligence/\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=145+S+Magnolia+Avenue%2C+El+Cajon%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nUnarius: What is Unarius? — https://unarius.org/what-is-unarius/\nUnarius: contact and visitor arrangements — https://unarius.org/contact/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.250364,
+          32.717614
+        ]
+      },
+      "properties": {
+        "name": "Lomaland — former Theosophical community at Point Loma",
+        "region": "San Diego County",
+        "category": "Esoteric movement",
+        "address": "3900 Lomaland Drive, San Diego, CA 92106",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the community’s dates, cultural program and lost buildings: SDSU’s archival exhibition and Save Our Heritage Organisation provide independent historical accounts. The coordinate is the present university campus address.",
+        "limits": "This is a broad campus pin, not the footprint of the vanished Temple of Peace. The current university is a separate institution. SDSU’s cited Lomaland exhibition ended in 2019; its web page remains a research source.",
+        "access": "Working university campus. Check university visitor and parking rules; access to particular buildings is not assumed.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lomaland",
+        "wikidata_id": "Q1253418",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://www.pointloma.edu/",
+        "wiki_relation": "former community and campus; pin is approximate campus context",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q1253418",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual",
+          "arts_music",
+          "communal_counterculture"
+        ],
+        "location_role": "landscape",
+        "id": "H47",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual",
+          "Arts, Music & Literature",
+          "Communes & Counterculture"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "SDSU Special Collections: Revisiting a Visionary Utopia — Lomaland (archival exhibition, 2019)",
+            "url": "https://library.sdsu.edu/scua/exhibits/revisiting-visionary-utopia-lomaland"
+          },
+          {
+            "title": "Save Our Heritage Organisation: Theosophical Institute, lost buildings",
+            "url": "https://www.sohosandiego.org/lostsd/theo.htm"
+          },
+          {
+            "title": "Point Loma Nazarene University: current campus address",
+            "url": "https://www.pointloma.edu/schools-departments-colleges"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=3900+Lomaland+Drive%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "SDSU Special Collections: Revisiting a Visionary Utopia — Lomaland (archival exhibition, 2019)",
+            "url": "https://library.sdsu.edu/scua/exhibits/revisiting-visionary-utopia-lomaland"
+          },
+          {
+            "title": "Save Our Heritage Organisation: Theosophical Institute, lost buildings",
+            "url": "https://www.sohosandiego.org/lostsd/theo.htm"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Katherine Tingley’s Lomaland was a Theosophical intentional community at Point Loma, active from 1898 to 1942. Education, theater, music and art were central to the settlement. The former grounds now form part of Point Loma Nazarene University; the principal domed buildings were destroyed by fire in 1952.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.717614,-117.250364",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Katherine Tingley’s Lomaland was a Theosophical intentional community at Point Loma, active from 1898 to 1942. Education, theater, music and art were central to the settlement. The former grounds now form part of Point Loma Nazarene University; the principal domed buildings were destroyed by fire in 1952.\n\nEvidence: Strong for the community’s dates, cultural program and lost buildings: SDSU’s archival exhibition and Save Our Heritage Organisation provide independent historical accounts. The coordinate is the present university campus address.\n\nLimits: This is a broad campus pin, not the footprint of the vanished Temple of Peace. The current university is a separate institution. SDSU’s cited Lomaland exhibition ended in 2019; its web page remains a research source.\n\nAccess: Working university campus. Check university visitor and parking rules; access to particular buildings is not assumed.\n\nSources:\nSDSU Special Collections: Revisiting a Visionary Utopia — Lomaland (archival exhibition, 2019) — https://library.sdsu.edu/scua/exhibits/revisiting-visionary-utopia-lomaland\nSave Our Heritage Organisation: Theosophical Institute, lost buildings — https://www.sohosandiego.org/lostsd/theo.htm\nPoint Loma Nazarene University: current campus address — https://www.pointloma.edu/schools-departments-colleges\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=3900+Lomaland+Drive%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nSDSU Special Collections: Revisiting a Visionary Utopia — Lomaland (archival exhibition, 2019) — https://library.sdsu.edu/scua/exhibits/revisiting-visionary-utopia-lomaland\nSave Our Heritage Organisation: Theosophical Institute, lost buildings — https://www.sohosandiego.org/lostsd/theo.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.359729,
+          33.210429
+        ]
+      },
+      "properties": {
+        "name": "Mount Ecclesia — Rosicrucian Fellowship",
+        "region": "San Diego County",
+        "category": "Esoteric movement",
+        "address": "2222 Mission Avenue, Oceanside, CA 92058",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the historical campus and address: the National Park Service register entry and nomination document identify the district and its development. The geocode provides general address context rather than an exact temple entrance.",
+        "limits": "National Register listing documents historical significance, not the truth of spiritual or healing claims. Individual structures, entrances and current visitor arrangements require separate checks.",
+        "access": "Contact the Fellowship for current visiting arrangements. Do not assume every campus building is open.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Ecclesia",
+        "wikidata_id": "Q6920544",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://www.rosicrucianfellowship.org/",
+        "wiki_relation": "physical headquarters campus; approximate address pin",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q6920544",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
+        "id": "H48",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "National Park Service: Rosicrucian Fellowship Temple, NRIS 95000390",
+            "url": "https://npgallery.nps.gov/AssetDetail/NRIS/95000390"
+          },
+          {
+            "title": "National Register nomination: Rosicrucian Fellowship Temple district (historical campus documentation)",
+            "url": "https://npgallery.nps.gov/GetAsset/26e1e58f-4d35-4aba-8f61-219ac04f2e2a"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=2222+Mission+Avenue%2C+Oceanside%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "National Park Service: Rosicrucian Fellowship Temple, NRIS 95000390",
+            "url": "https://npgallery.nps.gov/AssetDetail/NRIS/95000390"
+          },
+          {
+            "title": "National Register nomination: Rosicrucian Fellowship Temple district (historical campus documentation)",
+            "url": "https://npgallery.nps.gov/GetAsset/26e1e58f-4d35-4aba-8f61-219ac04f2e2a"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Mount Ecclesia became the headquarters of Max Heindel’s Rosicrucian Fellowship after the property was acquired in 1911. Its landscape and temple express an esoteric Christian tradition. The Rosicrucian Fellowship Temple district entered the National Register of Historic Places in 1995.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.210429,-117.359729",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Mount Ecclesia became the headquarters of Max Heindel’s Rosicrucian Fellowship after the property was acquired in 1911. Its landscape and temple express an esoteric Christian tradition. The Rosicrucian Fellowship Temple district entered the National Register of Historic Places in 1995.\n\nEvidence: Strong for the historical campus and address: the National Park Service register entry and nomination document identify the district and its development. The geocode provides general address context rather than an exact temple entrance.\n\nLimits: National Register listing documents historical significance, not the truth of spiritual or healing claims. Individual structures, entrances and current visitor arrangements require separate checks.\n\nAccess: Contact the Fellowship for current visiting arrangements. Do not assume every campus building is open.\n\nSources:\nNational Park Service: Rosicrucian Fellowship Temple, NRIS 95000390 — https://npgallery.nps.gov/AssetDetail/NRIS/95000390\nNational Register nomination: Rosicrucian Fellowship Temple district (historical campus documentation) — https://npgallery.nps.gov/GetAsset/26e1e58f-4d35-4aba-8f61-219ac04f2e2a\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=2222+Mission+Avenue%2C+Oceanside%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nNational Park Service: Rosicrucian Fellowship Temple, NRIS 95000390 — https://npgallery.nps.gov/AssetDetail/NRIS/95000390\nNational Register nomination: Rosicrucian Fellowship Temple district (historical campus documentation) — https://npgallery.nps.gov/GetAsset/26e1e58f-4d35-4aba-8f61-219ac04f2e2a"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.93793,
+          33.009355
+        ]
+      },
+      "properties": {
+        "name": "Lemurian Fellowship — Ramona headquarters and craft tradition",
+        "region": "San Diego County",
+        "category": "Esoteric movement",
+        "address": "17201 Highway 67, Ramona, CA 92065",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the street address: California’s public registration records identify the Fellowship at 17201 Highway 67. Moderate for the historical narrative: KPBS reporting and the Fellowship’s account agree on the community and craft program, with limited archival checking in this pass.",
+        "limits": "Lemuria and the Fellowship’s spiritual authorities are beliefs, not demonstrated lost-continent history. The public contact address is a post-office box; the highway coordinate is campus address context, not an invitation to enter.",
+        "access": "Contact the organization before any visit. No drop-in tour or public access to residences and workshops has been verified.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lemurian_Fellowship",
+        "wikidata_id": "Q24942076",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://www.lemurianfellowship.org/",
+        "wiki_relation": "associated organization; street address independently documented",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q24942076",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual",
+          "arts_music"
+        ],
+        "location_role": "organizational_office",
+        "id": "H49",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "KPBS, Dave Hampton: Ancient to Modern — The Lost Crafts of the Lemurians (2010)",
+            "url": "https://www.kpbs.org/news/arts-culture/2010/08/04/ancient-modern-lost-crafts-lemurians"
+          },
+          {
+            "title": "Lemurian Fellowship: institutional account of the Ramona property",
+            "url": "https://www.lemurianfellowship.org/purpose-of-life/the-lemurian-fellowship/"
+          },
+          {
+            "title": "California DIR pressure-vessel public register: Lemurian Fellowship, 17201 Highway 67 (address evidence)",
+            "url": "https://www.dir.ca.gov/databases/dosh-pv/DOSH-PV.ASP?City=&County=&PERM_EXP_D=&RP_Name=mur&State_nbr=&Street_1=&ZIP5=&sortfield=Name"
+          },
+          {
+            "title": "Lemurian Fellowship: contact information",
+            "url": "https://www.lemurianfellowship.org/contact/"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=17201+Highway+67%2C+Ramona%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "KPBS, Dave Hampton: Ancient to Modern — The Lost Crafts of the Lemurians (2010)",
+            "url": "https://www.kpbs.org/news/arts-culture/2010/08/04/ancient-modern-lost-crafts-lemurians"
+          },
+          {
+            "title": "Lemurian Fellowship: institutional account of the Ramona property",
+            "url": "https://www.lemurianfellowship.org/purpose-of-life/the-lemurian-fellowship/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Robert D. Stelle founded the Lemurian Fellowship in 1936; the group acquired its Ramona property in 1941. Its teachings invoke Lemuria and spiritual development. A parallel craft program produced distinctive modern furniture and small objects, connecting this esoteric community to Southern California design history.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.009355,-116.93793",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Robert D. Stelle founded the Lemurian Fellowship in 1936; the group acquired its Ramona property in 1941. Its teachings invoke Lemuria and spiritual development. A parallel craft program produced distinctive modern furniture and small objects, connecting this esoteric community to Southern California design history.\n\nEvidence: Strong for the street address: California’s public registration records identify the Fellowship at 17201 Highway 67. Moderate for the historical narrative: KPBS reporting and the Fellowship’s account agree on the community and craft program, with limited archival checking in this pass.\n\nLimits: Lemuria and the Fellowship’s spiritual authorities are beliefs, not demonstrated lost-continent history. The public contact address is a post-office box; the highway coordinate is campus address context, not an invitation to enter.\n\nAccess: Contact the organization before any visit. No drop-in tour or public access to residences and workshops has been verified.\n\nSources:\nKPBS, Dave Hampton: Ancient to Modern — The Lost Crafts of the Lemurians (2010) — https://www.kpbs.org/news/arts-culture/2010/08/04/ancient-modern-lost-crafts-lemurians\nLemurian Fellowship: institutional account of the Ramona property — https://www.lemurianfellowship.org/purpose-of-life/the-lemurian-fellowship/\nCalifornia DIR pressure-vessel public register: Lemurian Fellowship, 17201 Highway 67 (address evidence) — https://www.dir.ca.gov/databases/dosh-pv/DOSH-PV.ASP?City=&County=&PERM_EXP_D=&RP_Name=mur&State_nbr=&Street_1=&ZIP5=&sortfield=Name\nLemurian Fellowship: contact information — https://www.lemurianfellowship.org/contact/\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=17201+Highway+67%2C+Ramona%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nKPBS, Dave Hampton: Ancient to Modern — The Lost Crafts of the Lemurians (2010) — https://www.kpbs.org/news/arts-culture/2010/08/04/ancient-modern-lost-crafts-lemurians\nLemurian Fellowship: institutional account of the Ramona property — https://www.lemurianfellowship.org/purpose-of-life/the-lemurian-fellowship/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.135455,
+          33.095347
+        ]
+      },
+      "properties": {
+        "name": "Harmony Grove Spiritualist Association — historic camp",
+        "region": "San Diego County",
+        "category": "Spiritualism",
+        "address": "2975 Washington Circle, Escondido, CA 92029",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Moderate for the early chronology: the association publishes a detailed institutional history, not a full independent archival reconstruction. Strong for its current public address and self-described practices, confirmed in current institutional event information.",
+        "limits": "An institutional history establishes what the community records about itself. It does not establish communication with spirits or healing effects. The address pin does not imply that all original camp buildings survive.",
+        "access": "Use the association’s published public services and events. Check arrangements before visiting; residential areas are separate from public programs.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://harmonygrovespiritual.org/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
+        "id": "H50",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Harmony Grove Spiritualist Association: Origins and History",
+            "url": "https://harmonygrovespiritual.org/orgins-and-history"
+          },
+          {
+            "title": "Harmony Grove Spiritualist Association: 130th anniversary and public address (2026)",
+            "url": "https://harmonygrovespiritual.org/130th-anniversary"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=2975+Washington+Circle%2C+Escondido%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Harmony Grove Spiritualist Association: Origins and History",
+            "url": "https://harmonygrovespiritual.org/orgins-and-history"
+          },
+          {
+            "title": "Harmony Grove Spiritualist Association: 130th anniversary and public address (2026)",
+            "url": "https://harmonygrovespiritual.org/130th-anniversary"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Harmony Grove’s Spiritualist association dates to 1896, with its first camp meeting held that July. The organization describes a continuing community organized around mediumship, spiritual healing and religious services. It is a useful North County continuation of the nineteenth-century Spiritualist-camp tradition.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.095347,-117.135455",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Harmony Grove’s Spiritualist association dates to 1896, with its first camp meeting held that July. The organization describes a continuing community organized around mediumship, spiritual healing and religious services. It is a useful North County continuation of the nineteenth-century Spiritualist-camp tradition.\n\nEvidence: Moderate for the early chronology: the association publishes a detailed institutional history, not a full independent archival reconstruction. Strong for its current public address and self-described practices, confirmed in current institutional event information.\n\nLimits: An institutional history establishes what the community records about itself. It does not establish communication with spirits or healing effects. The address pin does not imply that all original camp buildings survive.\n\nAccess: Use the association’s published public services and events. Check arrangements before visiting; residential areas are separate from public programs.\n\nSources:\nHarmony Grove Spiritualist Association: Origins and History — https://harmonygrovespiritual.org/orgins-and-history\nHarmony Grove Spiritualist Association: 130th anniversary and public address (2026) — https://harmonygrovespiritual.org/130th-anniversary\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=2975+Washington+Circle%2C+Escondido%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nHarmony Grove Spiritualist Association: Origins and History — https://harmonygrovespiritual.org/orgins-and-history\nHarmony Grove Spiritualist Association: 130th anniversary and public address (2026) — https://harmonygrovespiritual.org/130th-anniversary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.164608,
+          33.089098
+        ]
+      },
+      "properties": {
+        "name": "Questhaven Retreat — Christward Ministry",
+        "region": "San Diego County",
+        "category": "Esoteric movement",
+        "address": "20560 Questhaven Road, San Marcos, CA 92078",
+        "coordinate_basis": "Destination pin in Google Maps reached through Questhaven’s official address link, checked 2026-11-06 (33.0890981, -117.1646084); approximate address context, not the map viewport center or a surveyed building footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the present institutional address and self-described lineage: official history and visiting pages identify both. Moderate for the founding chronology, which has not been independently reconstructed here. The coordinate comes from the institution’s own published map link.",
+        "limits": "The coordinate identifies the published address, not a particular historical building. No asylum story, hidden crime or supernatural phenomenon has been verified by these sources.",
+        "access": "Follow Questhaven’s current visitor, program and retreat-reservation arrangements. Grounds and accommodation are not assumed to be freely accessible at all times.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://www.questhaven.org/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
+        "id": "H51",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Questhaven: About the Christward Ministry",
+            "url": "https://www.questhaven.org/render/954e44e6-f455-450a-a023-8496859bca43"
+          },
+          {
+            "title": "Questhaven: visiting and retreat information",
+            "url": "https://www.questhaven.org/render/b001a1ba-5f90-4258-b16d-ec0e6466e08d"
+          },
+          {
+            "title": "Questhaven: official site and address/map link",
+            "url": "https://www.questhaven.org/"
+          },
+          {
+            "title": "Questhaven’s published Google Maps destination pin",
+            "url": "https://maps.app.goo.gl/FNV5ub7Gijm4AcMy7"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Questhaven: About the Christward Ministry",
+            "url": "https://www.questhaven.org/render/954e44e6-f455-450a-a023-8496859bca43"
+          },
+          {
+            "title": "Questhaven: visiting and retreat information",
+            "url": "https://www.questhaven.org/render/b001a1ba-5f90-4258-b16d-ec0e6466e08d"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Flower A. Newhouse and Lawrence Newhouse founded the Christward Ministry in 1940. Questhaven is its retreat landscape, associated with Christian mysticism, nature, meditation and Newhouse’s teachings. This entry follows the documented religious institution rather than circulating stories about the surrounding roads.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.089098,-117.164608",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Flower A. Newhouse and Lawrence Newhouse founded the Christward Ministry in 1940. Questhaven is its retreat landscape, associated with Christian mysticism, nature, meditation and Newhouse’s teachings. This entry follows the documented religious institution rather than circulating stories about the surrounding roads.\n\nEvidence: Strong for the present institutional address and self-described lineage: official history and visiting pages identify both. Moderate for the founding chronology, which has not been independently reconstructed here. The coordinate comes from the institution’s own published map link.\n\nLimits: The coordinate identifies the published address, not a particular historical building. No asylum story, hidden crime or supernatural phenomenon has been verified by these sources.\n\nAccess: Follow Questhaven’s current visitor, program and retreat-reservation arrangements. Grounds and accommodation are not assumed to be freely accessible at all times.\n\nSources:\nQuesthaven: About the Christward Ministry — https://www.questhaven.org/render/954e44e6-f455-450a-a023-8496859bca43\nQuesthaven: visiting and retreat information — https://www.questhaven.org/render/b001a1ba-5f90-4258-b16d-ec0e6466e08d\nQuesthaven: official site and address/map link — https://www.questhaven.org/\nQuesthaven’s published Google Maps destination pin — https://maps.app.goo.gl/FNV5ub7Gijm4AcMy7\n\nReading:\nQuesthaven: About the Christward Ministry — https://www.questhaven.org/render/954e44e6-f455-450a-a023-8496859bca43\nQuesthaven: visiting and retreat information — https://www.questhaven.org/render/b001a1ba-5f90-4258-b16d-ec0e6466e08d"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.293774,
+          33.036363
+        ]
+      },
+      "properties": {
+        "name": "Self-Realization Fellowship — Encinitas Hermitage and Meditation Gardens",
+        "region": "San Diego County",
+        "category": "Religious movement",
+        "address": "215 W. K Street, Encinitas, CA 92024",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the current gardens address and the Fellowship’s account of Yogananda’s residence and writing: its official Encinitas history identifies the site. The historical interpretation relies chiefly on institutional sources.",
+        "limits": "This pin is the hermitage/gardens address. The Encinitas temple on Second Street and the Coast Highway bookshop are separate locations. Public garden access does not imply access to the historic residence.",
+        "access": "Check the Fellowship’s current garden hours and hermitage reservation rules. Respect the quiet-use arrangements.",
+        "bar_pairing": "B67 (nearby Encinitas pairing; geographic proximity only)",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Self-Realization_Fellowship",
+        "wikidata_id": "Q676438",
+        "related_places": [
+          "B67"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://yogananda.org/encinitas-temple",
+        "wiki_relation": "associated organization; not a distinct building entity",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q676438",
+        "topics": [
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "residence",
+        "id": "H52",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Residence / Compound",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Self-Realization Fellowship: Encinitas history and distinct local facilities",
+            "url": "https://yogananda.org/encinitas-temple"
+          },
+          {
+            "title": "Self-Realization Fellowship: Encinitas Hermitage, Retreat and Gardens address",
+            "url": "https://yogananda.org/locations/encinitas-hermitage-retreat-gardens"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=215+West+K+Street%2C+Encinitas%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Self-Realization Fellowship: Encinitas history and distinct local facilities",
+            "url": "https://yogananda.org/encinitas-temple"
+          },
+          {
+            "title": "Self-Realization Fellowship: Encinitas Hermitage, Retreat and Gardens address",
+            "url": "https://yogananda.org/locations/encinitas-hermitage-retreat-gardens"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "The Encinitas ashram was established for Paramahansa Yogananda in 1937. He lived and wrote at the coastal hermitage, including work on Autobiography of a Yogi. The meditation gardens connect the region’s esoteric history to a continuing international yoga and devotional movement.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.036363,-117.293774",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "The Encinitas ashram was established for Paramahansa Yogananda in 1937. He lived and wrote at the coastal hermitage, including work on Autobiography of a Yogi. The meditation gardens connect the region’s esoteric history to a continuing international yoga and devotional movement.\n\nEvidence: Strong for the current gardens address and the Fellowship’s account of Yogananda’s residence and writing: its official Encinitas history identifies the site. The historical interpretation relies chiefly on institutional sources.\n\nLimits: This pin is the hermitage/gardens address. The Encinitas temple on Second Street and the Coast Highway bookshop are separate locations. Public garden access does not imply access to the historic residence.\n\nAccess: Check the Fellowship’s current garden hours and hermitage reservation rules. Respect the quiet-use arrangements.\n\nSources:\nSelf-Realization Fellowship: Encinitas history and distinct local facilities — https://yogananda.org/encinitas-temple\nSelf-Realization Fellowship: Encinitas Hermitage, Retreat and Gardens address — https://yogananda.org/locations/encinitas-hermitage-retreat-gardens\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=215+West+K+Street%2C+Encinitas%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nSelf-Realization Fellowship: Encinitas history and distinct local facilities — https://yogananda.org/encinitas-temple\nSelf-Realization Fellowship: Encinitas Hermitage, Retreat and Gardens address — https://yogananda.org/locations/encinitas-hermitage-retreat-gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.240805,
+          33.201622
+        ]
+      },
+      "properties": {
+        "name": "Yellow Deli — Vista / Twelve Tribes community",
+        "region": "San Diego County",
+        "category": "Controversial movement",
+        "address": "315 East Broadway, Vista, CA 92084",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the address and Twelve Tribes affiliation: the community explicitly identifies the Vista restaurant. Independent San Diego Reader reporting discusses the same community and its local businesses, including critical and participant accounts.",
+        "limits": "Affiliation is documented; allegations concerning the wider movement are not findings about this particular restaurant or every worker. A restaurant visit is not evidence of the conditions inside residential communities.",
+        "access": "Operating restaurant. Check current opening times. Keep any research conversations voluntary and separate from staff service duties.",
+        "bar_pairing": "B68 (nearby independent Vista pub; no organizational connection claimed)",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Twelve_Tribes_communities",
+        "wikidata_id": "Q245182",
+        "related_places": [
+          "H54",
+          "B68"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://twelvetribes.org/community/vista-deli",
+        "wiki_relation": "associated religious movement; not the restaurant building",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q245182",
+        "topics": [
+          "religious_esoteric",
+          "communal_counterculture"
+        ],
+        "location_role": "organizational_office",
+        "id": "H53",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Communes & Counterculture"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Twelve Tribes: Vista Deli community page",
+            "url": "https://twelvetribes.org/community/vista-deli"
+          },
+          {
+            "title": "San Diego Reader: Yellow Deli People — mellow believers or cult of opportunists? (2013)",
+            "url": "https://www.sandiegoreader.com/news/2013/jan/02/cover-yellow-deli-people/"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=315+East+Broadway%2C+Vista%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Twelve Tribes: Vista Deli community page",
+            "url": "https://twelvetribes.org/community/vista-deli"
+          },
+          {
+            "title": "San Diego Reader: Yellow Deli People — mellow believers or cult of opportunists? (2013)",
+            "url": "https://www.sandiegoreader.com/news/2013/jan/02/cover-yellow-deli-people/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "The Vista Yellow Deli opened in 2010 and publicly identifies with the Twelve Tribes communal religious movement. Its operator links restaurant work to the community’s shared life. It offers a public-facing entry point for researching the relationship between religious communalism and commercial hospitality.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.201622,-117.240805",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "The Vista Yellow Deli opened in 2010 and publicly identifies with the Twelve Tribes communal religious movement. Its operator links restaurant work to the community’s shared life. It offers a public-facing entry point for researching the relationship between religious communalism and commercial hospitality.\n\nEvidence: Strong for the address and Twelve Tribes affiliation: the community explicitly identifies the Vista restaurant. Independent San Diego Reader reporting discusses the same community and its local businesses, including critical and participant accounts.\n\nLimits: Affiliation is documented; allegations concerning the wider movement are not findings about this particular restaurant or every worker. A restaurant visit is not evidence of the conditions inside residential communities.\n\nAccess: Operating restaurant. Check current opening times. Keep any research conversations voluntary and separate from staff service duties.\n\nSources:\nTwelve Tribes: Vista Deli community page — https://twelvetribes.org/community/vista-deli\nSan Diego Reader: Yellow Deli People — mellow believers or cult of opportunists? (2013) — https://www.sandiegoreader.com/news/2013/jan/02/cover-yellow-deli-people/\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=315+East+Broadway%2C+Vista%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nTwelve Tribes: Vista Deli community page — https://twelvetribes.org/community/vista-deli\nSan Diego Reader: Yellow Deli People — mellow believers or cult of opportunists? (2013) — https://www.sandiegoreader.com/news/2013/jan/02/cover-yellow-deli-people/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.060938,
+          33.294175
+        ]
+      },
+      "properties": {
+        "name": "Morning Star Ranch — Twelve Tribes community",
+        "region": "San Diego County",
+        "category": "Controversial movement",
+        "address": "12458 Keys Creek Road, Valley Center, CA 92082",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the address, agricultural use and affiliation: the movement’s community page and farm website identify the ranch. Independent local reporting also places Morning Star Ranch within the Yellow Deli community.",
+        "limits": "This is the Keys Creek Road ranch, not the separate deli/farmstand on Lilac Road. Sources here establish affiliation and public descriptions, not adjudicated local wrongdoing or unrestricted public access.",
+        "access": "Working residential farm. Contact the ranch about any advertised gathering or visit; do not treat the property as an open tourist attraction.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Twelve_Tribes_communities",
+        "wikidata_id": "Q245182",
+        "related_places": [
+          "H53"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.msrfarm.com/",
+        "wiki_relation": "associated religious movement; not the ranch parcel",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q245182",
+        "topics": [
+          "religious_esoteric",
+          "communal_counterculture"
+        ],
+        "location_role": "residence",
+        "id": "H54",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Communes & Counterculture"
+        ],
+        "location_role_label": "Residence / Compound",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Twelve Tribes: Morning Star Ranch community page",
+            "url": "https://www.twelvetribes.org/community/morning-star-ranch"
+          },
+          {
+            "title": "Morning Star Ranch farm: current contact and address",
+            "url": "https://www.msrfarm.com/"
+          },
+          {
+            "title": "San Diego Reader: Yellow Deli People (local communal network, 2013)",
+            "url": "https://www.sandiegoreader.com/news/2013/jan/02/cover-yellow-deli-people/"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=12458+Keys+Creek+Road%2C+Valley+Center%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Twelve Tribes: Morning Star Ranch community page",
+            "url": "https://www.twelvetribes.org/community/morning-star-ranch"
+          },
+          {
+            "title": "Morning Star Ranch farm: current contact and address",
+            "url": "https://www.msrfarm.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Morning Star Ranch is a Twelve Tribes residential and agricultural community in Valley Center. The movement’s own community page identifies the ranch and describes its shared religious life. Together with the Vista Yellow Deli, it makes a documented local connection between a farm, a communal residence and a restaurant.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.294175,-117.060938",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Morning Star Ranch is a Twelve Tribes residential and agricultural community in Valley Center. The movement’s own community page identifies the ranch and describes its shared religious life. Together with the Vista Yellow Deli, it makes a documented local connection between a farm, a communal residence and a restaurant.\n\nEvidence: Strong for the address, agricultural use and affiliation: the movement’s community page and farm website identify the ranch. Independent local reporting also places Morning Star Ranch within the Yellow Deli community.\n\nLimits: This is the Keys Creek Road ranch, not the separate deli/farmstand on Lilac Road. Sources here establish affiliation and public descriptions, not adjudicated local wrongdoing or unrestricted public access.\n\nAccess: Working residential farm. Contact the ranch about any advertised gathering or visit; do not treat the property as an open tourist attraction.\n\nSources:\nTwelve Tribes: Morning Star Ranch community page — https://www.twelvetribes.org/community/morning-star-ranch\nMorning Star Ranch farm: current contact and address — https://www.msrfarm.com/\nSan Diego Reader: Yellow Deli People (local communal network, 2013) — https://www.sandiegoreader.com/news/2013/jan/02/cover-yellow-deli-people/\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=12458+Keys+Creek+Road%2C+Valley+Center%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nTwelve Tribes: Morning Star Ranch community page — https://www.twelvetribes.org/community/morning-star-ranch\nMorning Star Ranch farm: current contact and address — https://www.msrfarm.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.898026,
+          33.294999
+        ]
+      },
+      "properties": {
+        "name": "George Adamski / Palomar Gardens — present Oak Knoll campground",
+        "region": "San Diego County",
+        "category": "Movement history",
+        "address": "31718 South Grade Road, Pauma Valley, CA 92061",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Moderate for the historical location match: a San Diego Reader retrospective identifies Palomar Gardens with Oak Knoll and its street address. Strong for the present campground address, published by the operator. A historical parcel or original café footprint has not been established.",
+        "limits": "Adamski’s extraterrestrial encounters are claims, not verified events. This pin is not Palomar Observatory, an observatory employment claim, or a documented spacecraft landing site. Current operators have no demonstrated association with his beliefs.",
+        "access": "Operating private campground. Arrange a booking or ask the operator about permitted historical interest visits; no access to a specific Adamski structure is confirmed.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/George_Adamski",
+        "wikidata_id": "Q437335",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://www.oakknollrvandcampground.com/",
+        "wiki_relation": "associated person; not the current campground entity",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q437335",
+        "topics": [
+          "folklore_legends",
+          "religious_esoteric"
+        ],
+        "location_role": "residence",
+        "id": "H55",
+        "topic_labels": [
+          "Folklore & Disputed Lore",
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Residence / Compound",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "San Diego Reader: Classic San Diego (12 April 2007), Palomar Gardens/Oak Knoll address match",
+            "url": "https://www.sandiegoreader.com/news/2007/apr/12/classic-san-diego/"
+          },
+          {
+            "title": "Oak Knoll RV & Campground: current office address",
+            "url": "https://www.oakknollrvandcampground.com/"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=31718+South+Grade+Road%2C+Pauma+Valley%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "San Diego Reader: Classic San Diego (12 April 2007), Palomar Gardens/Oak Knoll address match",
+            "url": "https://www.sandiegoreader.com/news/2007/apr/12/classic-san-diego/"
+          },
+          {
+            "title": "Oak Knoll RV & Campground: current office address",
+            "url": "https://www.oakknollrvandcampground.com/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "UFO contactee George Adamski lived and worked at Palomar Gardens, identified in local historical reporting with today’s Oak Knoll campground. His photographs and accounts helped popularize the 1950s contactee movement. This is a foothill residence-and-workplace connection, rather than the location of his claimed desert encounter.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.294999,-116.898026",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "UFO contactee George Adamski lived and worked at Palomar Gardens, identified in local historical reporting with today’s Oak Knoll campground. His photographs and accounts helped popularize the 1950s contactee movement. This is a foothill residence-and-workplace connection, rather than the location of his claimed desert encounter.\n\nEvidence: Moderate for the historical location match: a San Diego Reader retrospective identifies Palomar Gardens with Oak Knoll and its street address. Strong for the present campground address, published by the operator. A historical parcel or original café footprint has not been established.\n\nLimits: Adamski’s extraterrestrial encounters are claims, not verified events. This pin is not Palomar Observatory, an observatory employment claim, or a documented spacecraft landing site. Current operators have no demonstrated association with his beliefs.\n\nAccess: Operating private campground. Arrange a booking or ask the operator about permitted historical interest visits; no access to a specific Adamski structure is confirmed.\n\nSources:\nSan Diego Reader: Classic San Diego (12 April 2007), Palomar Gardens/Oak Knoll address match — https://www.sandiegoreader.com/news/2007/apr/12/classic-san-diego/\nOak Knoll RV & Campground: current office address — https://www.oakknollrvandcampground.com/\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=31718+South+Grade+Road%2C+Pauma+Valley%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nSan Diego Reader: Classic San Diego (12 April 2007), Palomar Gardens/Oak Knoll address match — https://www.sandiegoreader.com/news/2007/apr/12/classic-san-diego/\nOak Knoll RV & Campground: current office address — https://www.oakknollrvandcampground.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.116642,
+          32.763487
+        ]
+      },
+      "properties": {
+        "name": "Borderland Sciences Research Associates — former Adams Avenue headquarters",
+        "region": "San Diego County",
+        "category": "Occult history",
+        "address": "3524 Adams Avenue, San Diego, CA 92116",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the historical office address and the 1959 relocation notice: the contemporary publication names both addresses. Moderate for matching that address to the present building: the coordinate is a modern address geocode, without a building-survival or parcel-history check.",
+        "limits": "This is a former address, not a verified current office or visitor attraction. The publication documents circulating ideas, not proof of its paranormal claims. The present foundation’s Eureka mailing address is a separate location.",
+        "access": "Street context only unless the current occupant independently invites a visit. Current interior use and original-building survival are unverified.",
+        "bar_pairing": "B66 (nearby Adams Avenue pairing; no historical connection claimed)",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Meade_Layne",
+        "wikidata_id": "Q6803166",
+        "related_places": [
+          "B66"
+        ],
+        "research_date": "2026-11-06",
+        "website": "",
+        "wiki_relation": "associated founder; Wikipedia redirect resolves to a person, not the office",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q6803166",
+        "topics": [
+          "occult_spiritual",
+          "folklore_legends"
+        ],
+        "location_role": "organizational_office",
+        "id": "H56",
+        "topic_labels": [
+          "Occult & Ritual",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Round Robin of Borderland Research, volume 15 no. 6 (November 1959): masthead and move notice",
+            "url": "https://borderlandsciences.org/journal/vol/15/n06/index.html"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=3524+Adams+Avenue%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Round Robin of Borderland Research, volume 15 no. 6 (November 1959): masthead and move notice",
+            "url": "https://borderlandsciences.org/journal/vol/15/n06/index.html"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Borderland Sciences Research Associates published material connecting occult research, altered dimensions and unconventional explanations of unusual phenomena. Its Round Robin masthead lists 3524 Adams Avenue as headquarters, while announcing a move to Vista in 1959. This is a documented former office in San Diego’s mid-century esoteric publishing network.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.763487,-117.116642",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Borderland Sciences Research Associates published material connecting occult research, altered dimensions and unconventional explanations of unusual phenomena. Its Round Robin masthead lists 3524 Adams Avenue as headquarters, while announcing a move to Vista in 1959. This is a documented former office in San Diego’s mid-century esoteric publishing network.\n\nEvidence: Strong for the historical office address and the 1959 relocation notice: the contemporary publication names both addresses. Moderate for matching that address to the present building: the coordinate is a modern address geocode, without a building-survival or parcel-history check.\n\nLimits: This is a former address, not a verified current office or visitor attraction. The publication documents circulating ideas, not proof of its paranormal claims. The present foundation’s Eureka mailing address is a separate location.\n\nAccess: Street context only unless the current occupant independently invites a visit. Current interior use and original-building survival are unverified.\n\nSources:\nRound Robin of Borderland Research, volume 15 no. 6 (November 1959): masthead and move notice — https://borderlandsciences.org/journal/vol/15/n06/index.html\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=3524+Adams+Avenue%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nRound Robin of Borderland Research, volume 15 no. 6 (November 1959): masthead and move notice — https://borderlandsciences.org/journal/vol/15/n06/index.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.146092,
+          32.708134
+        ]
+      },
+      "properties": {
+        "name": "Villa Montezuma — Jesse Shepard’s Spiritualist salon",
+        "region": "San Diego County",
+        "category": "Spiritualism",
+        "address": "1925 K Street, San Diego, CA 92102",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the building address and Shepard association: Library of Congress building documentation and the History Center’s archival finding aid provide independent support. Archival descriptions document Shepard’s Spiritualist reputation, not supernatural events.",
+        "limits": "The house and Shepard archive are different places. This pin is the residence, not the repository. Ghost stories and spirit-inspired performance claims remain accounts or interpretations rather than verified phenomena.",
+        "access": "Historic house museum. Use the museum’s current tour booking arrangements; do not assume unscheduled interior entry.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Villa_Montezuma",
+        "wikidata_id": "Q35757299",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://villamontezumamuseum.org/",
+        "wiki_relation": "physical historic house",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q35757299",
+        "topics": [
+          "occult_spiritual",
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "residence",
+        "id": "H57",
+        "topic_labels": [
+          "Occult & Ritual",
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Residence / Compound",
+        "pin_kind": "esoteric",
+        "sources": [
+          {
+            "title": "Library of Congress, Historic American Buildings Survey: Villa Montezuma, 1925 K Street",
+            "url": "https://www.loc.gov/item/ca0614/"
+          },
+          {
+            "title": "San Diego History Center: Jesse Shepard Papers, MS 55 (1868–1959)",
+            "url": "https://sandiegohistory.org/archives/archivalcollections/ms55/"
+          },
+          {
+            "title": "Villa Montezuma Museum: history and current visitor information",
+            "url": "https://villamontezumamuseum.org/"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=1925+K+Street%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "San Diego History Center: Jesse Shepard Papers, MS 55 — archival research starting point",
+            "url": "https://sandiegohistory.org/archives/archivalcollections/ms55/"
+          },
+          {
+            "title": "Journal of San Diego History: Jesse Shepard and the Villa Montezuma (1970)",
+            "url": "https://sandiegohistory.org/journal/1970/july/shepard/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Villa Montezuma, built in 1887, was home to musician, writer and Spiritualist Jesse Shepard, later known as Francis Grierson. The house connects musical performance, literary culture and claims of spirit inspiration. The surviving residence is now interpreted as a historic house museum; Shepard’s papers are held by the San Diego History Center.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.708134,-117.146092",
+        "marker-color": "#bc6128",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#bc6128",
+          "showLabel": false
+        },
+        "description": "Villa Montezuma, built in 1887, was home to musician, writer and Spiritualist Jesse Shepard, later known as Francis Grierson. The house connects musical performance, literary culture and claims of spirit inspiration. The surviving residence is now interpreted as a historic house museum; Shepard’s papers are held by the San Diego History Center.\n\nEvidence: Strong for the building address and Shepard association: Library of Congress building documentation and the History Center’s archival finding aid provide independent support. Archival descriptions document Shepard’s Spiritualist reputation, not supernatural events.\n\nLimits: The house and Shepard archive are different places. This pin is the residence, not the repository. Ghost stories and spirit-inspired performance claims remain accounts or interpretations rather than verified phenomena.\n\nAccess: Historic house museum. Use the museum’s current tour booking arrangements; do not assume unscheduled interior entry.\n\nSources:\nLibrary of Congress, Historic American Buildings Survey: Villa Montezuma, 1925 K Street — https://www.loc.gov/item/ca0614/\nSan Diego History Center: Jesse Shepard Papers, MS 55 (1868–1959) — https://sandiegohistory.org/archives/archivalcollections/ms55/\nVilla Montezuma Museum: history and current visitor information — https://villamontezumamuseum.org/\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=1925+K+Street%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nSan Diego History Center: Jesse Shepard Papers, MS 55 — archival research starting point — https://sandiegohistory.org/archives/archivalcollections/ms55/\nJournal of San Diego History: Jesse Shepard and the Villa Montezuma (1970) — https://sandiegohistory.org/journal/1970/july/shepard/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071884,
+          32.775846
+        ]
+      },
+      "properties": {
+        "name": "Secret Army Organization / Peter Bohmer papers — SDSU research stop",
+        "region": "San Diego County",
+        "category": "Archive and reading",
+        "address": "Malcolm A. Love Library, 5500 Campanile Drive, San Diego State University, San Diego, CA 92182",
+        "coordinate_basis": "Esri World Geocoding Service POI match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the attack and the archive’s connection: a published court opinion and SDSU’s finding aid are independent documentary sources. The pin identifies the library as a research-access point; no attempt was made to reconstruct the shooting address.",
+        "limits": "This is not the shooting site. The court record establishes a specific informant relationship, not a blanket finding that the FBI directed every SAO action. Holdings must be requested; the cited materials are not necessarily on display.",
+        "access": "Arrange access with SDSU Special Collections and University Archives and request MS-0334. Check registration, appointment and material-access requirements before travel.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Secret_Army_Organization",
+        "wikidata_id": "Q85800198",
+        "related_places": [],
+        "research_date": "2026-11-06",
+        "website": "https://library.sdsu.edu/scua",
+        "wiki_relation": "associated organization; pin is an archive, not an operational or attack site",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q85800198",
+        "topics": [
+          "intelligence_research",
+          "documented_conspiracies",
+          "political_violence",
+          "political_organizing"
+        ],
+        "location_role": "archive",
+        "id": "H58",
+        "topic_labels": [
+          "Intelligence & Research",
+          "Documented Conspiracies",
+          "Political Violence",
+          "Political Organizing"
+        ],
+        "location_role_label": "Archive / Museum Collection",
+        "pin_kind": "archive",
+        "sources": [
+          {
+            "title": "SDSU Special Collections: Peter Bohmer Papers, MS-0334 — finding aid",
+            "url": "https://archives.sdsu.edu/repositories/2/resources/141"
+          },
+          {
+            "title": "California Supreme Court: People v. Hoover, 12 Cal.3d 875 (1974)",
+            "url": "https://scocal.stanford.edu/opinion/people-v-hoover-22978/"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Malcolm+A+Love+Library%2C+San+Diego+State+University%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "SDSU Special Collections: Peter Bohmer Papers, MS-0334 — finding aid",
+            "url": "https://archives.sdsu.edu/repositories/2/resources/141"
+          },
+          {
+            "title": "California Supreme Court: People v. Hoover, 12 Cal.3d 875 (1974)",
+            "url": "https://scocal.stanford.edu/opinion/people-v-hoover-22978/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "SDSU’s Peter Bohmer Papers (MS-0334) document campus investigations, activism and responses to the 1972 Secret Army Organization shooting at Bohmer’s home, which injured Paula Tharp. The published California Supreme Court opinion People v. Hoover independently describes the attack and an FBI informant’s role in the organization.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.775846,-117.071884",
+        "marker-color": "#7446a2",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#7446a2",
+          "showLabel": false
+        },
+        "description": "SDSU’s Peter Bohmer Papers (MS-0334) document campus investigations, activism and responses to the 1972 Secret Army Organization shooting at Bohmer’s home, which injured Paula Tharp. The published California Supreme Court opinion People v. Hoover independently describes the attack and an FBI informant’s role in the organization.\n\nEvidence: Strong for the attack and the archive’s connection: a published court opinion and SDSU’s finding aid are independent documentary sources. The pin identifies the library as a research-access point; no attempt was made to reconstruct the shooting address.\n\nLimits: This is not the shooting site. The court record establishes a specific informant relationship, not a blanket finding that the FBI directed every SAO action. Holdings must be requested; the cited materials are not necessarily on display.\n\nAccess: Arrange access with SDSU Special Collections and University Archives and request MS-0334. Check registration, appointment and material-access requirements before travel.\n\nSources:\nSDSU Special Collections: Peter Bohmer Papers, MS-0334 — finding aid — https://archives.sdsu.edu/repositories/2/resources/141\nCalifornia Supreme Court: People v. Hoover, 12 Cal.3d 875 (1974) — https://scocal.stanford.edu/opinion/people-v-hoover-22978/\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=Malcolm+A+Love+Library%2C+San+Diego+State+University%2C+San+Diego%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nSDSU Special Collections: Peter Bohmer Papers, MS-0334 — finding aid — https://archives.sdsu.edu/repositories/2/resources/141\nCalifornia Supreme Court: People v. Hoover, 12 Cal.3d 875 (1974) — https://scocal.stanford.edu/opinion/people-v-hoover-22978/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "H60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.994364,
+          32.750108
+        ]
+      },
+      "properties": {
+        "name": "Faith Chapel — Dale Akiki ritual-abuse prosecution and acquittal",
+        "region": "San Diego County",
+        "category": "Satanic Panic",
+        "address": "9400 Campo Road, Spring Valley, CA 91977",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the acquittal: PBS FRONTLINE’s case summary and a later federal appellate dissent independently report it. The current church publishes the same street location; contemporary reporting places the historical church in the 9400 block of Campo Road.",
+        "limits": "The allegations are not established ritual-abuse facts. The federal reference is Judge Reinhardt’s dissent in Guam v. McGravey, not the Akiki trial judgment. The pin marks church-campus context, not a verified former nursery room. H27 is a comparison, not a claimed shared network.",
+        "access": "Active church and childcare setting. Use public street context or normal invited church visits; no investigative access to childcare areas is assumed.",
+        "bar_pairing": "",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Faith_Chapel_Church_ritual_abuse_case",
+        "wikidata_id": "Q5431162",
+        "related_places": [
+          "H27"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://www.faithchapelsd.com/",
+        "wiki_relation": "associated legal case; not the church as an entity",
+        "wikidata_url": "https://www.wikidata.org/wiki/Q5431162",
+        "topics": [
+          "conspiracy_beliefs",
+          "crime_legal"
+        ],
+        "location_role": "event_site",
+        "id": "H60",
+        "topic_labels": [
+          "Conspiracy Beliefs",
+          "Crime & Legal History"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "lore",
+        "sources": [
+          {
+            "title": "PBS FRONTLINE: other ritual-abuse cases, including Dale Akiki",
+            "url": "https://www.pbs.org/wgbh/pages/frontline/shows/innocence/etc/other.html"
+          },
+          {
+            "title": "Guam v. McGravey, 14 F.3d 1344 (9th Cir. 1994): Reinhardt dissent referencing Akiki’s acquittal",
+            "url": "https://law.justia.com/cases/federal/appellate-courts/F3/14/1344/612814/"
+          },
+          {
+            "title": "Faith Chapel: current church address",
+            "url": "https://www.faithchapelsd.com/"
+          },
+          {
+            "title": "Los Angeles Times, 14 May 1991: historical church location in the 9400 block of Campo Road",
+            "url": "https://www.latimes.com/archives/la-xpm-1991-05-14-me-1781-story.html"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=9400+Campo+Road%2C+Spring+Valley%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "PBS FRONTLINE: other ritual-abuse cases, including Dale Akiki",
+            "url": "https://www.pbs.org/wgbh/pages/frontline/shows/innocence/etc/other.html"
+          },
+          {
+            "title": "Guam v. McGravey, 14 F.3d 1344 (9th Cir. 1994): Reinhardt dissent referencing Akiki’s acquittal",
+            "url": "https://law.justia.com/cases/federal/appellate-courts/F3/14/1344/612814/"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Volunteer childcare worker Dale Akiki was prosecuted over allegations associated with Faith Chapel and acquitted of all 35 counts in 1993. The case belongs on the map as a documented ritual-abuse prosecution and acquittal. It is a San Diego counterpart for comparing the wider Satanic Panic with the McMartin case.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.750108,-116.994364",
+        "marker-color": "#a44b2d",
+        "marker-symbol": "circle",
+        "_umap_options": {
+          "color": "#a44b2d",
+          "showLabel": false
+        },
+        "description": "Volunteer childcare worker Dale Akiki was prosecuted over allegations associated with Faith Chapel and acquitted of all 35 counts in 1993. The case belongs on the map as a documented ritual-abuse prosecution and acquittal. It is a San Diego counterpart for comparing the wider Satanic Panic with the McMartin case.\n\nEvidence: Strong for the acquittal: PBS FRONTLINE’s case summary and a later federal appellate dissent independently report it. The current church publishes the same street location; contemporary reporting places the historical church in the 9400 block of Campo Road.\n\nLimits: The allegations are not established ritual-abuse facts. The federal reference is Judge Reinhardt’s dissent in Guam v. McGravey, not the Akiki trial judgment. The pin marks church-campus context, not a verified former nursery room. H27 is a comparison, not a claimed shared network.\n\nAccess: Active church and childcare setting. Use public street context or normal invited church visits; no investigative access to childcare areas is assumed.\n\nSources:\nPBS FRONTLINE: other ritual-abuse cases, including Dale Akiki — https://www.pbs.org/wgbh/pages/frontline/shows/innocence/etc/other.html\nGuam v. McGravey, 14 F.3d 1344 (9th Cir. 1994): Reinhardt dissent referencing Akiki’s acquittal — https://law.justia.com/cases/federal/appellate-courts/F3/14/1344/612814/\nFaith Chapel: current church address — https://www.faithchapelsd.com/\nLos Angeles Times, 14 May 1991: historical church location in the 9400 block of Campo Road — https://www.latimes.com/archives/la-xpm-1991-05-14-me-1781-story.html\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=9400+Campo+Road%2C+Spring+Valley%2C+CA&f=json&maxLocations=3&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326\n\nReading:\nPBS FRONTLINE: other ritual-abuse cases, including Dale Akiki — https://www.pbs.org/wgbh/pages/frontline/shows/innocence/etc/other.html\nGuam v. McGravey, 14 F.3d 1344 (9th Cir. 1994): Reinhardt dissent referencing Akiki’s acquittal — https://law.justia.com/cases/federal/appellate-courts/F3/14/1344/612814/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.955767,
+          32.795258
+        ]
+      },
+      "properties": {
+        "name": "Main Tap Tavern — El Cajon",
+        "region": "San Diego County",
+        "category": "Bar",
+        "address": "518 East Main Street, El Cajon, CA 92020",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the listed venue address: operator and downtown-association listings agree. The pin is an approximate contemporary address geocode.",
+        "limits": "Geographic pairing only. No historical or organizational connection with Unarius has been established. No route, step-free access or current menu has been audited.",
+        "access": "Check current operating hours and entry rules with the venue before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H46"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://maintaptavern.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining"
+        ],
+        "location_role": "bar",
+        "id": "B65",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Main Tap Tavern: official contact page",
+            "url": "https://maintaptavern.com/contact-us/"
+          },
+          {
+            "title": "Downtown El Cajon association: Main Tap Tavern",
+            "url": "https://www.downtownelcajon.com/go/main-tap-tavern"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=518+East+Main+Street%2C+El+Cajon%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Main Tap Tavern: official contact page",
+            "url": "https://maintaptavern.com/contact-us/"
+          },
+          {
+            "title": "Downtown El Cajon association: Main Tap Tavern",
+            "url": "https://www.downtownelcajon.com/go/main-tap-tavern"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Downtown El Cajon tavern and dining stop, paired geographically with the Unarius teaching center on South Magnolia Avenue. The venue’s contact page and the downtown association identify the Main Street address.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.795258,-116.955767",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Downtown El Cajon tavern and dining stop, paired geographically with the Unarius teaching center on South Magnolia Avenue. The venue’s contact page and the downtown association identify the Main Street address.\n\nEvidence: Strong for the listed venue address: operator and downtown-association listings agree. The pin is an approximate contemporary address geocode.\n\nLimits: Geographic pairing only. No historical or organizational connection with Unarius has been established. No route, step-free access or current menu has been audited.\n\nAccess: Check current operating hours and entry rules with the venue before visiting.\n\nSources:\nMain Tap Tavern: official contact page — https://maintaptavern.com/contact-us/\nDowntown El Cajon association: Main Tap Tavern — https://www.downtownelcajon.com/go/main-tap-tavern\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=518+East+Main+Street%2C+El+Cajon%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1\n\nReading:\nMain Tap Tavern: official contact page — https://maintaptavern.com/contact-us/\nDowntown El Cajon association: Main Tap Tavern — https://www.downtownelcajon.com/go/main-tap-tavern"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.121218,
+          32.763225
+        ]
+      },
+      "properties": {
+        "name": "The Ould Sod — Adams Avenue",
+        "region": "San Diego County",
+        "category": "Bar",
+        "address": "3373 Adams Avenue, San Diego, CA 92116",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the current address and pub identity: the operator lists the venue, and the traditional-session organizer independently supplies the same address and music program.",
+        "limits": "The pairing is based on location. No historical relationship with Borderland Sciences has been established. Session times and operating arrangements may change.",
+        "access": "Check current hours and music listings. The session organizer identifies the bar as a 21-and-over venue.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H56"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://theouldsod.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B66",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "bar",
+        "sources": [
+          {
+            "title": "The Ould Sod: official venue website",
+            "url": "https://theouldsod.com/"
+          },
+          {
+            "title": "Michael Eskin: The Ould Sod Traditional Irish Session",
+            "url": "https://michaeleskin.com/theouldsod.html"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=3373+Adams+Avenue%2C+San+Diego%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "The Ould Sod: official venue website",
+            "url": "https://theouldsod.com/"
+          },
+          {
+            "title": "Michael Eskin: The Ould Sod Traditional Irish Session",
+            "url": "https://michaeleskin.com/theouldsod.html"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Adams Avenue Irish pub with traditional music sessions and bar games. It makes a nearby social stop for the former Borderland Sciences Research Associates office at 3524 Adams Avenue.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=32.763225,-117.121218",
+        "marker-color": "#2567a5",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2567a5",
+          "showLabel": false
+        },
+        "description": "Adams Avenue Irish pub with traditional music sessions and bar games. It makes a nearby social stop for the former Borderland Sciences Research Associates office at 3524 Adams Avenue.\n\nEvidence: Strong for the current address and pub identity: the operator lists the venue, and the traditional-session organizer independently supplies the same address and music program.\n\nLimits: The pairing is based on location. No historical relationship with Borderland Sciences has been established. Session times and operating arrangements may change.\n\nAccess: Check current hours and music listings. The session organizer identifies the bar as a 21-and-over venue.\n\nSources:\nThe Ould Sod: official venue website — https://theouldsod.com/\nMichael Eskin: The Ould Sod Traditional Irish Session — https://michaeleskin.com/theouldsod.html\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=3373+Adams+Avenue%2C+San+Diego%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1\n\nReading:\nThe Ould Sod: official venue website — https://theouldsod.com/\nMichael Eskin: The Ould Sod Traditional Irish Session — https://michaeleskin.com/theouldsod.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.293839,
+          33.043919
+        ]
+      },
+      "properties": {
+        "name": "1st Street Bar — Encinitas",
+        "region": "San Diego County",
+        "category": "Bar",
+        "address": "656 South Coast Highway 101, Encinitas, CA 92024",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the current venue address and music/bar identity: the official site and Encinitas 101 MainStreet listing agree. The coordinate is approximate address context.",
+        "limits": "Geographic pairing only; no organizational or historical connection with the Fellowship is established. This is a separate venue from the former D Street Bar.",
+        "access": "Check current hours, event schedules and entry requirements before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H52"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://1ststreetbar.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
+        "id": "B67",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "bar",
+        "sources": [
+          {
+            "title": "1st Street Bar: official website, address and live music",
+            "url": "https://1ststreetbar.com/"
+          },
+          {
+            "title": "Encinitas 101 MainStreet Association: 1st Street Bar",
+            "url": "https://www.encinitas101.com/restaurants/1st-street-bar"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=656+South+Coast+Highway+101%2C+Encinitas%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "1st Street Bar: official website, address and live music",
+            "url": "https://1ststreetbar.com/"
+          },
+          {
+            "title": "Encinitas 101 MainStreet Association: 1st Street Bar",
+            "url": "https://www.encinitas101.com/restaurants/1st-street-bar"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Encinitas bar with live music and billiards, along the Coast Highway corridor north of the Self-Realization Fellowship hermitage and meditation gardens. This is a nearby gathering stop for the coastal portion of the itinerary.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.043919,-117.293839",
+        "marker-color": "#2567a5",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#2567a5",
+          "showLabel": false
+        },
+        "description": "Encinitas bar with live music and billiards, along the Coast Highway corridor north of the Self-Realization Fellowship hermitage and meditation gardens. This is a nearby gathering stop for the coastal portion of the itinerary.\n\nEvidence: Strong for the current venue address and music/bar identity: the official site and Encinitas 101 MainStreet listing agree. The coordinate is approximate address context.\n\nLimits: Geographic pairing only; no organizational or historical connection with the Fellowship is established. This is a separate venue from the former D Street Bar.\n\nAccess: Check current hours, event schedules and entry requirements before visiting.\n\nSources:\n1st Street Bar: official website, address and live music — https://1ststreetbar.com/\nEncinitas 101 MainStreet Association: 1st Street Bar — https://www.encinitas101.com/restaurants/1st-street-bar\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=656+South+Coast+Highway+101%2C+Encinitas%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1\n\nReading:\n1st Street Bar: official website, address and live music — https://1ststreetbar.com/\nEncinitas 101 MainStreet Association: 1st Street Bar — https://www.encinitas101.com/restaurants/1st-street-bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "B68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.242111,
+          33.202681
+        ]
+      },
+      "properties": {
+        "name": "Vista Village Pub",
+        "region": "San Diego County",
+        "category": "Bar",
+        "address": "224 Main Street, Vista, CA 92084",
+        "coordinate_basis": "Esri World Geocoding Service PointAddress match of the cited address, retrieved 2026-11-06; approximate address context, not a surveyed historical footprint.",
+        "geo_precision": "approximate; see coordinate_basis",
+        "publication_status": "ready_next_export",
+        "checked": false,
+        "checked_as_of": "",
+        "evidence": "Strong for the listed venue address: the operator’s contact page and Vista Chamber of Commerce listing agree. The point is an approximate current address geocode.",
+        "limits": "Proximity is the only connection asserted. No affiliation with Twelve Tribes is established. A nearby pub should not be treated as evidence about the religious community.",
+        "access": "Check current hours, service and entry rules with the venue before visiting.",
+        "bar_pairing": "",
+        "wikipedia_url": "",
+        "wikidata_id": "",
+        "related_places": [
+          "H53"
+        ],
+        "research_date": "2026-11-06",
+        "website": "https://vista-pub.com/",
+        "wiki_relation": "No exact encyclopedia entity resolved in this update",
+        "wikidata_url": "",
+        "topics": [
+          "classic_dining"
+        ],
+        "location_role": "bar",
+        "id": "B68",
+        "topic_labels": [
+          "Old-School Steakhouses & Dining"
+        ],
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
+        "sources": [
+          {
+            "title": "Vista Village Pub: official contact page",
+            "url": "https://vista-pub.com/page/contact-us"
+          },
+          {
+            "title": "Vista Chamber of Commerce: Vista Village Pub",
+            "url": "https://business.vistachamber.org/list/member/vista-village-pub-3800"
+          },
+          {
+            "title": "Esri World Geocoding Service: address/POI result, 2026-11-06",
+            "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=224+Main+Street%2C+Vista%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1"
+          }
+        ],
+        "reading_list": [
+          {
+            "title": "Vista Village Pub: official contact page",
+            "url": "https://vista-pub.com/page/contact-us"
+          },
+          {
+            "title": "Vista Chamber of Commerce: Vista Village Pub",
+            "url": "https://business.vistachamber.org/list/member/vista-village-pub-3800"
+          }
+        ],
+        "checked_status": "Not marked visited",
+        "story": "Downtown Vista pub and restaurant, close to the Vista Yellow Deli. It supplies an independent nearby meeting place for discussing the Twelve Tribes restaurant/community research thread.",
+        "maps_url": "https://www.google.com/maps/search/?api=1&query=33.202681,-117.242111",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
+        "_umap_options": {
+          "color": "#7c3238",
+          "showLabel": false
+        },
+        "description": "Downtown Vista pub and restaurant, close to the Vista Yellow Deli. It supplies an independent nearby meeting place for discussing the Twelve Tribes restaurant/community research thread.\n\nEvidence: Strong for the listed venue address: the operator’s contact page and Vista Chamber of Commerce listing agree. The point is an approximate current address geocode.\n\nLimits: Proximity is the only connection asserted. No affiliation with Twelve Tribes is established. A nearby pub should not be treated as evidence about the religious community.\n\nAccess: Check current hours, service and entry rules with the venue before visiting.\n\nSources:\nVista Village Pub: official contact page — https://vista-pub.com/page/contact-us\nVista Chamber of Commerce: Vista Village Pub — https://business.vistachamber.org/list/member/vista-village-pub-3800\nEsri World Geocoding Service: address/POI result, 2026-11-06 — https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=224+Main+Street%2C+Vista%2C+CA&f=json&outFields=Match_addr%2CAddr_type%2CPlaceName&outSR=4326&maxLocations=1\n\nReading:\nVista Village Pub: official contact page — https://vista-pub.com/page/contact-us\nVista Chamber of Commerce: Vista Village Pub — https://business.vistachamber.org/list/member/vista-village-pub-3800"
+      }
     }
   ]
 }
