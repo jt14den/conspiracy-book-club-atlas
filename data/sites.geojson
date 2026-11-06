@@ -33,7 +33,18 @@
         "website": "",
         "wiki_relation": "associated organization",
         "wikidata_url": "https://www.wikidata.org/wiki/Q861141",
+        "topics": [
+          "intelligence_research",
+          "documented_conspiracies"
+        ],
+        "location_role": "organizational_office",
         "id": "H01",
+        "topic_labels": [
+          "Intelligence & Research",
+          "Documented Conspiracies"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "intel",
         "sources": [
           {
             "title": "Ellsberg: Pentagon Papers",
@@ -61,10 +72,10 @@
         "checked_status": "Not marked visited",
         "story": "Daniel Ellsberg removed and copied the Pentagon Papers while working at RAND. The original headquarters building was demolished in 2007. This is the historical site, distinct from the current RAND building.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.01165,-118.49246",
-        "marker-color": "#bc6128",
+        "marker-color": "#233b32",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#233b32",
           "showLabel": false
         },
         "description": "Daniel Ellsberg removed and copied the Pentagon Papers while working at RAND. The original headquarters building was demolished in 2007. This is the historical site, distinct from the current RAND building.\n\nEvidence: Strong: Ellsberg’s first-person account and institutional building history.\n\nLimits: Chez Jay’s precise Table 10 handoff story remains reported lore; proximity to RAND does not authenticate it.\n\nAccess: Former building; geographic/exterior stop.\n\nSources:\nEllsberg: Pentagon Papers — https://www.ellsberg.net/pentagon-papers/\nOriginal RAND headquarters history — https://www.informs.org/Explore/History-of-O.R.-Excellence/Non-Academic-Institutions/RAND-Corporation/RAND-Slideshow/RAND-Headquarters-1700-Main-Street-Santa-Monica\n\nReading:\nEllsberg: Pentagon Papers — https://www.ellsberg.net/pentagon-papers/\nOriginal RAND headquarters history — https://www.informs.org/Explore/History-of-O.R.-Excellence/Non-Academic-Institutions/RAND-Corporation/RAND-Slideshow/RAND-Headquarters-1700-Main-Street-Santa-Monica\nSuggested book: Daniel Ellsberg, Secrets: A Memoir of Vietnam and the Pentagon Papers — https://www.penguinrandomhouse.com/books/288995/secrets-by-daniel-ellsberg/"
@@ -101,7 +112,18 @@
         "website": "",
         "wiki_relation": "building",
         "wikidata_url": "https://www.wikidata.org/wiki/Q5047943",
+        "topics": [
+          "communal_counterculture",
+          "crime_legal"
+        ],
+        "location_role": "organizational_office",
         "id": "H02",
+        "topic_labels": [
+          "Communes & Counterculture",
+          "Crime & Legal History"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "Hotel history",
@@ -125,10 +147,10 @@
         "checked_status": "Not marked visited",
         "story": "The beachfront building housed Synanon beginning in 1967. This is a documented institutional association with the former rehabilitation movement. The building is now a hotel.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.006419,-118.491266",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "The beachfront building housed Synanon beginning in 1967. This is a documented institutional association with the former rehabilitation movement. The building is now a hotel.\n\nEvidence: Strong: current hotel history and Santa Monica Conservancy agree.\n\nLimits: The historic association does not imply that current hotel operations are connected to Synanon.\n\nAccess: Surviving hotel; visitor access follows current hotel rules.\n\nSources:\nHotel history — https://www.hotelcasadelmar.com/about/\nSanta Monica Conservancy — https://smconservancy.org/property/casa-del-mar/\n\nReading:\nHotel history — https://www.hotelcasadelmar.com/about/\nSanta Monica Conservancy — https://smconservancy.org/property/casa-del-mar/"
@@ -165,7 +187,18 @@
         "website": "",
         "wiki_relation": "site",
         "wikidata_url": "https://www.wikidata.org/wiki/Q16895566",
+        "topics": [
+          "political_organizing",
+          "folklore_legends"
+        ],
+        "location_role": "landscape",
         "id": "H03",
+        "topic_labels": [
+          "Political Organizing",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "lore",
         "sources": [
           {
             "title": "City historic-resources survey",
@@ -181,10 +214,10 @@
         "checked_status": "Not marked visited",
         "story": "The ruins are famous as a supposed Nazi compound. The city’s historic survey uses the qualified description that development was perhaps intended for Nazi sympathizers.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.0704,-118.5144",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "The ruins are famous as a supposed Nazi compound. The city’s historic survey uses the qualified description that development was perhaps intended for Nazi sympathizers.\n\nEvidence: Strong for the property’s documented history; limited for the complete popular Nazi-compound narrative.\n\nLimits: Do not convert the city’s qualification into proof of a coordinated takeover plan. Current trail access and surviving features require a separate check.\n\nAccess: Historical outdoor site; current entry/trail conditions not verified.\n\nSources:\nCity historic-resources survey — https://planning.lacity.org/odocument/81cda6d0-e485-4041-aef7-6c156710c6d4/Brentwood_Pacific_Palisades_Districts.pdf\n\nReading:\nCity historic-resources survey — https://planning.lacity.org/odocument/81cda6d0-e485-4041-aef7-6c156710c6d4/Brentwood_Pacific_Palisades_Districts.pdf"
@@ -221,7 +254,18 @@
         "website": "",
         "wiki_relation": "site",
         "wikidata_url": "https://www.wikidata.org/wiki/Q6675494",
+        "topics": [
+          "intelligence_research",
+          "documented_conspiracies"
+        ],
+        "location_role": "organizational_office",
         "id": "H04",
+        "topic_labels": [
+          "Intelligence & Research",
+          "Documented Conspiracies"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "intel",
         "sources": [
           {
             "title": "Lookout America",
@@ -253,10 +297,10 @@
         "checked_status": "Not marked visited",
         "story": "A real military film facility produced classified imagery, including nuclear-test documentation. It provides a substantial Cold War story without requiring the unsupported claim that intelligence agencies manufactured Laurel Canyon’s music scene.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.108571,-118.388394",
-        "marker-color": "#bc6128",
+        "marker-color": "#233b32",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#233b32",
           "showLabel": false
         },
         "description": "A real military film facility produced classified imagery, including nuclear-test documentation. It provides a substantial Cold War story without requiring the unsupported claim that intelligence agencies manufactured Laurel Canyon’s music scene.\n\nEvidence: Strong: designation records, Defense Department documents and historical research.\n\nLimits: The intelligence-engineered-counterculture theory is not established by the laboratory’s existence.\n\nAccess: Private property; exterior context only.\n\nSources:\nLookout America — https://www.lookoutamerica.org/about\nCity designation file — https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?cfnumber=15-1172&fa=ccfi.viewrecord\nReleased Defense Department records — https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Homeland_Defense/13-F-0865_Lookout_Mountain_Laboratory.pdf\n\nReading:\nLookout America — https://www.lookoutamerica.org/about\nCity designation file — https://cityclerk.lacity.org/lacityclerkconnect/index.cfm?cfnumber=15-1172&fa=ccfi.viewrecord\nReleased Defense Department records — https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Homeland_Defense/13-F-0865_Lookout_Mountain_Laboratory.pdf"
@@ -293,7 +337,20 @@
         "website": "",
         "wiki_relation": "associated person",
         "wikidata_url": "https://www.wikidata.org/wiki/Q5437668",
+        "topics": [
+          "communal_counterculture",
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "event_site",
         "id": "H05",
+        "topic_labels": [
+          "Communes & Counterculture",
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "LAist history",
@@ -317,10 +374,10 @@
         "checked_status": "Not marked visited",
         "story": "Father Yod’s Source Family operated a vegetarian restaurant here, linking communal spirituality, celebrity dining and psychedelic music. A particularly good reading theme is the relationship between charismatic authority and California wellness culture.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.096686,-118.370517",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "Father Yod’s Source Family operated a vegetarian restaurant here, linking communal spirituality, celebrity dining and psychedelic music. A particularly good reading theme is the relationship between charismatic authority and California wellness culture.\n\nEvidence: Strong for the restaurant and Source Family association.\n\nLimits: Former location; do not assume original interiors or current organizational presence.\n\nAccess: Former commercial site; inspect from public space.\n\nSources:\nLAist history — https://laist.com/news/la-history/source-family-restaurant-vegetarian-dinner-gratitude-kitchen-dec-5\nArchival collection summary — https://library.usi.edu/record/1510507/files/CS%20544%20-%20Source%20Family%20Collection.pdf\n\nReading:\nLAist history — https://laist.com/news/la-history/source-family-restaurant-vegetarian-dinner-gratitude-kitchen-dec-5\nArchival collection summary — https://library.usi.edu/record/1510507/files/CS%20544%20-%20Source%20Family%20Collection.pdf"
@@ -357,7 +414,18 @@
         "website": "",
         "wiki_relation": "associated institution",
         "wikidata_url": "https://www.wikidata.org/wiki/Q5057704",
+        "topics": [
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "organizational_office",
         "id": "H06",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Institutional description",
@@ -417,7 +485,20 @@
         "website": "",
         "wiki_relation": "former building",
         "wikidata_url": "https://www.wikidata.org/wiki/Q456685",
+        "topics": [
+          "political_violence",
+          "political_organizing",
+          "crime_legal"
+        ],
+        "location_role": "event_site",
         "id": "H07",
+        "topic_labels": [
+          "Political Violence",
+          "Political Organizing",
+          "Crime & Legal History"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "lore",
         "sources": [
           {
             "title": "LA Conservancy",
@@ -481,7 +562,20 @@
         "website": "",
         "wiki_relation": "associated organization",
         "wikidata_url": "https://www.wikidata.org/wiki/Q477125",
+        "topics": [
+          "religious_esoteric",
+          "communal_counterculture",
+          "crime_legal"
+        ],
+        "location_role": "organizational_office",
         "id": "H08",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Communes & Counterculture",
+          "Crime & Legal History"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "SDSU building history",
@@ -505,10 +599,10 @@
         "checked_status": "Not marked visited",
         "story": "Jim Jones’s Los Angeles congregation used this church. Its local history complicates the usual account centered only on San Francisco and Guyana.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.045301,-118.283564",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "Jim Jones’s Los Angeles congregation used this church. Its local history complicates the usual account centered only on San Francisco and Guyana.\n\nEvidence: Strong: archival building inventory and institutional history.\n\nLimits: Some archival pages give 1336; the historical inventory and building-history page give 1366. The pin follows the inventory.\n\nAccess: Former institutional site; respect the current congregation and its entry rules.\n\nSources:\nSDSU building history — https://jonestown.sdsu.edu/?page_id=65658\nHistoric inventory — https://jonestown.sdsu.edu/images/jtr10/11-01-LAPTrecords.pdf\n\nReading:\nSDSU building history — https://jonestown.sdsu.edu/?page_id=65658\nHistoric inventory — https://jonestown.sdsu.edu/images/jtr10/11-01-LAPTrecords.pdf"
@@ -545,7 +639,20 @@
         "website": "",
         "wiki_relation": "site",
         "wikidata_url": "https://www.wikidata.org/wiki/Q7572840",
+        "topics": [
+          "communal_counterculture",
+          "crime_legal",
+          "arts_music"
+        ],
+        "location_role": "landscape",
         "id": "H09",
+        "topic_labels": [
+          "Communes & Counterculture",
+          "Crime & Legal History",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "California State Parks brochure",
@@ -573,10 +680,10 @@
         "checked_status": "Not marked visited",
         "story": "The Manson Family lived at the former movie ranch. California State Parks places it within Santa Susana Pass State Historic Park.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.2717,-118.6164",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "The Manson Family lived at the former movie ranch. California State Parks places it within Santa Susana Pass State Historic Park.\n\nEvidence: Strong for the historic association and park location.\n\nLimits: Ranch buildings are gone. A large former property cannot be represented precisely by one pin.\n\nAccess: Outdoor historical area; pin is not a verified trailhead.\n\nSources:\nCalifornia State Parks brochure — https://www.parks.ca.gov/pages/611/files/SantaSusanaPassSHPWebBrochure2010Rev.pdf\nHistorical account — https://www.history.com/articles/spahn-ranch-manson-family\n\nReading:\nCalifornia State Parks brochure — https://www.parks.ca.gov/pages/611/files/SantaSusanaPassSHPWebBrochure2010Rev.pdf\nHistorical account — https://www.history.com/articles/spahn-ranch-manson-family\nSuggested book: Tom O’Neill with Dan Piepenbring, CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties — https://www.hachettebookgroup.com/titles/tom-oneill/chaos/9780316477574/?lens=little-brown"
@@ -613,7 +720,18 @@
         "website": "",
         "wiki_relation": "associated person",
         "wikidata_url": "https://www.wikidata.org/wiki/Q331497",
+        "topics": [
+          "occult_spiritual",
+          "arts_music"
+        ],
+        "location_role": "residence",
         "id": "H10",
+        "topic_labels": [
+          "Occult & Ritual",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Residence / Compound",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Atlas Obscura historical entry",
@@ -681,7 +799,18 @@
         "website": "",
         "wiki_relation": "institution",
         "wikidata_url": "https://www.wikidata.org/wiki/Q7186181",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
         "id": "H11",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "About PRS",
@@ -755,7 +884,18 @@
         "website": "",
         "wiki_relation": "associated organization",
         "wikidata_url": "https://www.wikidata.org/wiki/Q164594",
+        "topics": [
+          "religious_esoteric",
+          "folklore_legends"
+        ],
+        "location_role": "organizational_office",
         "id": "H12",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "American headquarters and visiting",
@@ -837,7 +977,18 @@
         "website": "",
         "wiki_relation": "associated organization; current institute is in Ojai",
         "wikidata_url": "https://www.wikidata.org/wiki/Q6439082",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
         "id": "H13",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "LA Conservancy",
@@ -909,7 +1060,18 @@
         "website": "",
         "wiki_relation": "associated organization",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1003008",
+        "topics": [
+          "occult_spiritual",
+          "religious_esoteric"
+        ],
+        "location_role": "organizational_office",
         "id": "H14",
+        "topic_labels": [
+          "Occult & Ritual",
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Temple and public schedule",
@@ -977,7 +1139,16 @@
         "website": "",
         "wiki_relation": "associated person",
         "wikidata_url": "https://www.wikidata.org/wiki/Q4766638",
+        "topics": [
+          "religious_esoteric"
+        ],
+        "location_role": "organizational_office",
         "id": "H15",
+        "topic_labels": [
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Foundation history",
@@ -1053,7 +1224,16 @@
         "website": "",
         "wiki_relation": "associated organization",
         "wikidata_url": "https://www.wikidata.org/wiki/Q17090965",
+        "topics": [
+          "religious_esoteric"
+        ],
+        "location_role": "organizational_office",
         "id": "H16",
+        "topic_labels": [
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Official visitor page",
@@ -1129,7 +1309,18 @@
         "website": "",
         "wiki_relation": "associated person: King Camp Gillette; not a Wikidata building identity",
         "wikidata_url": "https://www.wikidata.org/wiki/Q314000",
+        "topics": [
+          "religious_esoteric",
+          "communal_counterculture"
+        ],
+        "location_role": "landscape",
         "id": "H17",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Communes & Counterculture"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "MRCA park information",
@@ -1165,10 +1356,10 @@
         "checked_status": "Not marked visited",
         "story": "This estate served as Church Universal and Triumphant’s Camelot headquarters before its 1986 sale and move to Montana. It connects ascended-master teachings with Cold War survivalism. The ranch is now public parkland with historic structures.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.0997627,-118.7055812",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "This estate served as Church Universal and Triumphant’s Camelot headquarters before its 1986 sale and move to Montana. It connects ascended-master teachings with Cold War survivalism. The ranch is now public parkland with historic structures.\n\nEvidence: Strong: contemporary reporting, historical scholarship and the park operator’s information.\n\nLimits: The best-known later fallout-shelter episode occurred in Montana; do not relocate those events to this California property.\n\nAccess: Public park and visitor-center setting; specific building entry is separate.\n\nSources:\nMRCA park information — https://mrca.ca.gov/parks/park-listing/king-gillette-ranch/\nContemporary 1986 sale report — https://www.upi.com/Archives/1986/07/05/The-controversial-Church-Universal-and-Triumphant-has-sold-its/2215520920000/\nCritical Dictionary history — Erin Prophet — https://www.cdamm.org/articles/CUT-TSL\n\nReading:\nMRCA park information — https://mrca.ca.gov/parks/park-listing/king-gillette-ranch/\nContemporary 1986 sale report — https://www.upi.com/Archives/1986/07/05/The-controversial-Church-Universal-and-Triumphant-has-sold-its/2215520920000/\nCritical Dictionary history — Erin Prophet — https://www.cdamm.org/articles/CUT-TSL\nSuggested book: Erin Prophet, Prophet’s Daughter: My Life with Elizabeth Clare Prophet inside the Church Universal and Triumphant — author interview — https://dianerehm.org/shows/2008-10-20/erin-prophet-prophets-daughter-lyons-press/"
@@ -1205,7 +1396,20 @@
         "website": "",
         "wiki_relation": "associated person",
         "wikidata_url": "https://www.wikidata.org/wiki/Q12061046",
+        "topics": [
+          "communal_counterculture",
+          "religious_esoteric",
+          "crime_legal"
+        ],
+        "location_role": "landscape",
         "id": "H18",
+        "topic_labels": [
+          "Communes & Counterculture",
+          "Religious & Esoteric",
+          "Crime & Legal History"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "Chatsworth Historical Society illustrated history",
@@ -1221,10 +1425,10 @@
         "checked_status": "Not marked visited",
         "story": "The Chatsworth Historical Society documents Krishna Venta’s WKFL Fountain of the World at two Box Canyon locations. The upper site was associated with the 1958 bombing that killed Venta and others; a lower Boulder Shelter was at 60 Box Canyon Road.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.250208,-118.6496615",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "The Chatsworth Historical Society documents Krishna Venta’s WKFL Fountain of the World at two Box Canyon locations. The upper site was associated with the 1958 bombing that killed Venta and others; a lower Boulder Shelter was at 60 Box Canyon Road.\n\nEvidence: Strong for the historical locations and bombing, grounded in local historical documentation.\n\nLimits: Border-area Ventura County stop, separate from Spahn Ranch. Accounts of a later Manson stay need their own sourcing.\n\nAccess: Private historical property; research/exterior context, not a confirmed attraction.\n\nSources:\nChatsworth Historical Society illustrated history — https://www.chatsworthhistory.com/Program%20Downloads/WKFL%20Fountain%20of%20the%20World.pdf\n\nReading:\nChatsworth Historical Society illustrated history — https://www.chatsworthhistory.com/Program%20Downloads/WKFL%20Fountain%20of%20the%20World.pdf"
@@ -1261,7 +1465,16 @@
         "website": "",
         "wiki_relation": "building",
         "wikidata_url": "https://www.wikidata.org/wiki/Q22025731",
+        "topics": [
+          "religious_esoteric"
+        ],
+        "location_role": "event_site",
         "id": "H19",
+        "topic_labels": [
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Movement’s historical timeline",
@@ -1329,7 +1542,18 @@
         "website": "",
         "wiki_relation": "building",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2463876",
+        "topics": [
+          "religious_esoteric",
+          "crime_legal"
+        ],
+        "location_role": "organizational_office",
         "id": "H20",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Crime & Legal History"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "National Park Service biography",
@@ -1401,7 +1625,18 @@
         "website": "",
         "wiki_relation": "building",
         "wikidata_url": "https://www.wikidata.org/wiki/Q6422056",
+        "topics": [
+          "occult_spiritual",
+          "folklore_legends"
+        ],
+        "location_role": "event_site",
         "id": "H21",
+        "topic_labels": [
+          "Occult & Ritual",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Library of Congress essay",
@@ -1465,7 +1700,18 @@
         "website": "",
         "wiki_relation": "associated organization: Citizens Commission on Human Rights; museum is a program",
         "wikidata_url": "https://www.wikidata.org/wiki/Q677232",
+        "topics": [
+          "conspiracy_beliefs",
+          "religious_esoteric"
+        ],
+        "location_role": "archive",
         "id": "H22",
+        "topic_labels": [
+          "Conspiracy Beliefs",
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Archive / Museum Collection",
+        "pin_kind": "archive",
         "sources": [
           {
             "title": "Museum operator",
@@ -1493,10 +1739,10 @@
         "checked_status": "Not marked visited",
         "story": "A Scientology-associated advocacy museum that makes sweeping claims about psychiatry. Its own presentation is useful material for a book-club session on evidence, framing and institutional persuasion.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.0978074,-118.3339175",
-        "marker-color": "#bc6128",
+        "marker-color": "#7446a2",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#7446a2",
           "showLabel": false
         },
         "description": "A Scientology-associated advocacy museum that makes sweeping claims about psychiatry. Its own presentation is useful material for a book-club session on evidence, framing and institutional persuasion.\n\nEvidence: Strong for the location, sponsorship and displayed advocacy.\n\nLimits: The museum’s assertions are first-party advocacy, not independent medical or historical conclusions.\n\nAccess: The operator advertises public visits and group tours; verify current arrangements.\n\nSources:\nMuseum operator — https://www.cchrmuseum.org/\nScientology announcement of the museum — https://www.scientology-fso.org/how-we-help/citizens-commission-on-human-rights/cchr-museum-grand-opening.html\n\nReading:\nMuseum operator — https://www.cchrmuseum.org/\nScientology announcement of the museum — https://www.scientology-fso.org/how-we-help/citizens-commission-on-human-rights/cchr-museum-grand-opening.html\nSuggested book: Lawrence Wright, Going Clear: Scientology, Hollywood, and the Prison of Belief — https://www.penguinrandomhouse.com/books/212925/going-clear-by-lawrence-wright/9780307745309/"
@@ -1533,7 +1779,18 @@
         "website": "",
         "wiki_relation": "associated military site",
         "wikidata_url": "https://www.wikidata.org/wiki/Q5471564",
+        "topics": [
+          "intelligence_research",
+          "folklore_legends"
+        ],
+        "location_role": "archive",
         "id": "H23",
+        "topic_labels": [
+          "Intelligence & Research",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Archive / Museum Collection",
+        "pin_kind": "archive",
         "sources": [
           {
             "title": "City museum listing",
@@ -1565,10 +1822,10 @@
         "checked_status": "Not marked visited",
         "story": "Use the surviving harbor defenses and museum to examine the February 1942 air-raid scare. The antiaircraft barrage was real; subsequent UFO interpretations require separate evidence.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.7123663,-118.2939544",
-        "marker-color": "#bc6128",
+        "marker-color": "#7446a2",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#7446a2",
           "showLabel": false
         },
         "description": "Use the surviving harbor defenses and museum to examine the February 1942 air-raid scare. The antiaircraft barrage was real; subsequent UFO interpretations require separate evidence.\n\nEvidence: Strong for the military site and barrage; limited for alien explanations.\n\nLimits: The barrage occurred across a wider area, not at a single museum pin. No alien craft is established by the records cited here.\n\nAccess: City-listed museum; confirm operating days before travel.\n\nSources:\nCity museum listing — https://recreation.parks.lacity.gov/museum/fort-macarthur-museum\nNaval History and Heritage Command account — https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-6.html\nMuseum context — https://sanpedro.com/san-pedro-area-points-interest/fort-macarthur-military-museum/\n\nReading:\nCity museum listing — https://recreation.parks.lacity.gov/museum/fort-macarthur-museum\nNaval History and Heritage Command account — https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-6.html\nMuseum context — https://sanpedro.com/san-pedro-area-points-interest/fort-macarthur-military-museum/"
@@ -1605,7 +1862,16 @@
         "website": "",
         "wiki_relation": "geographic context, not the alleged tunnel system",
         "wikidata_url": "https://www.wikidata.org/wiki/Q5471706",
+        "topics": [
+          "folklore_legends"
+        ],
+        "location_role": "landscape",
         "id": "H24",
+        "topic_labels": [
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "lore",
         "sources": [
           {
             "title": "Original 1934 newspaper item",
@@ -1637,10 +1903,10 @@
         "checked_status": "Not marked visited",
         "story": "A 1934 Los Angeles Times front page described G. Warren Shufelt’s search for a supposed underground Lizard People city beneath Fort Moore Hill. The modern memorial supplies a public geographic anchor; it is not the claimed dig entrance.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.0582365,-118.2419434",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "A 1934 Los Angeles Times front page described G. Warren Shufelt’s search for a supposed underground Lizard People city beneath Fort Moore Hill. The modern memorial supplies a public geographic anchor; it is not the claimed dig entrance.\n\nEvidence: Strong for the published story and search; limited for the lost-city claim.\n\nLimits: This pin marks contextual geography, not a discovered tunnel or an exact excavation shaft. Central Library holds a relevant vertical file.\n\nAccess: Public memorial context; archive work at Central Library is a useful companion.\n\nSources:\nOriginal 1934 newspaper item — https://documents.latimes.com/jan-29-1934-lizard-people/\nCounty memorial address — https://www.lacountyarts.org/fort-moore-pioneer-memorial-re-dedication\nLAPL research leads and vertical file — https://www.lapl.org/index.php/news-stories/podcasts/past-due-100-years-central-library/past-due-100-years-central-library-7\n\nReading:\nOriginal 1934 newspaper item — https://documents.latimes.com/jan-29-1934-lizard-people/\nCounty memorial address — https://www.lacountyarts.org/fort-moore-pioneer-memorial-re-dedication\nLAPL research leads and vertical file — https://www.lapl.org/index.php/news-stories/podcasts/past-due-100-years-central-library/past-due-100-years-central-library-7"
@@ -1677,7 +1943,18 @@
         "website": "",
         "wiki_relation": "site",
         "wikidata_url": "https://www.wikidata.org/wiki/Q18168354",
+        "topics": [
+          "intelligence_research",
+          "documented_conspiracies"
+        ],
+        "location_role": "landscape",
         "id": "H25",
+        "topic_labels": [
+          "Intelligence & Research",
+          "Documented Conspiracies"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "intel",
         "sources": [
           {
             "title": "MRCA park history",
@@ -1693,10 +1970,10 @@
         "checked_status": "Not marked visited",
         "story": "A surviving Cold War air-defense site with interpretive displays. The mountaintop held radar and control systems guiding missiles launched from the Sepulveda Basin. The original radar tower is a tangible feature.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.1281597,-118.5135162",
-        "marker-color": "#bc6128",
+        "marker-color": "#233b32",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#233b32",
           "showLabel": false
         },
         "description": "A surviving Cold War air-defense site with interpretive displays. The mountaintop held radar and control systems guiding missiles launched from the Sepulveda Basin. The original radar tower is a tangible feature.\n\nEvidence: Strong: park operator’s history and surviving infrastructure.\n\nLimits: This was the control/radar location, not the missile launch area. No evidence reviewed identifies it as West’s proposed violence-center site.\n\nAccess: Public park listing; check current closures and trail access.\n\nSources:\nMRCA park history — https://mrca.ca.gov/parks/park-listing/san-vicente-mountain-park/\n\nReading:\nMRCA park history — https://mrca.ca.gov/parks/park-listing/san-vicente-mountain-park/"
@@ -1733,7 +2010,16 @@
         "website": "",
         "wiki_relation": "large site; pin is approximate approach context",
         "wikidata_url": "https://www.wikidata.org/wiki/Q618556",
+        "topics": [
+          "intelligence_research"
+        ],
+        "location_role": "landscape",
         "id": "H26",
+        "topic_labels": [
+          "Intelligence & Research"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "intel",
         "sources": [
           {
             "title": "DOE history and site responsibilities",
@@ -1765,10 +2051,10 @@
         "checked_status": "Not marked visited",
         "story": "A real Cold War research site in adjacent Ventura County. DOE documents the July 1959 Sodium Reactor Experiment accident and ongoing cleanup. This belongs in the documented-secrecy and public-accountability layer.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.231,-118.7015",
-        "marker-color": "#bc6128",
+        "marker-color": "#233b32",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#233b32",
           "showLabel": false
         },
         "description": "A real Cold War research site in adjacent Ventura County. DOE documents the July 1959 Sodium Reactor Experiment accident and ongoing cleanup. This belongs in the documented-secrecy and public-accountability layer.\n\nEvidence: Strong for the accident and cleanup; wider health-impact and release claims require specialist review.\n\nLimits: Do not convert disputed exposure estimates into settled facts. The large facility is not publicly navigable from this pin.\n\nAccess: Restricted cleanup property; research-first, no casual entry assumed.\n\nSources:\nDOE history and site responsibilities — https://www.energy.gov/etec/about-etec\nDOE accident account — https://www.energy.gov/etec/sodium-reactor-experiment-sre-accident\nDOE historical document library — https://www.energy.gov/etec/historical-documents\n\nReading:\nDOE history and site responsibilities — https://www.energy.gov/etec/about-etec\nDOE accident account — https://www.energy.gov/etec/sodium-reactor-experiment-sre-accident\nDOE historical document library — https://www.energy.gov/etec/historical-documents"
@@ -1805,7 +2091,20 @@
         "website": "",
         "wiki_relation": "associated case",
         "wikidata_url": "https://www.wikidata.org/wiki/Q2529568",
+        "topics": [
+          "conspiracy_beliefs",
+          "crime_legal",
+          "folklore_legends"
+        ],
+        "location_role": "event_site",
         "id": "H27",
+        "topic_labels": [
+          "Conspiracy Beliefs",
+          "Crime & Legal History",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "lore",
         "sources": [
           {
             "title": "PBS FRONTLINE case account",
@@ -1837,10 +2136,10 @@
         "checked_status": "Not marked visited",
         "story": "A crucial counterpoint to actual cult sites: this was the location at the center of allegations of a secret ritual-abuse network. The prosecutions produced no convictions. A published critical analysis disputes the claimed tunnel evidence.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.887461,-118.399388",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "A crucial counterpoint to actual cult sites: this was the location at the center of allegations of a secret ritual-abuse network. The prosecutions produced no convictions. A published critical analysis disputes the claimed tunnel evidence.\n\nEvidence: Strong for the case outcome and historical site; the alleged satanic network was not established.\n\nLimits: The building is gone. The neighboring 927 parcel is sometimes confused with the school address; the scholarly article distinguishes them.\n\nAccess: Former commercial site; current interior use not verified.\n\nSources:\nPBS FRONTLINE case account — https://www.pbs.org/wgbh/pages/frontline/shows/innocence/etc/other.html\nW. Joseph Wyatt, 2002 — university repository — https://mds.marshall.edu/psychology_faculty/7/\nArticle PDF identifying the parcels — https://citeseerx.ist.psu.edu/document?doi=47e71a1a8dcdfc2e6b2b303e92e60d399fba3a5c&repid=rep1&type=pdf\n\nReading:\nPBS FRONTLINE case account — https://www.pbs.org/wgbh/pages/frontline/shows/innocence/etc/other.html\nW. Joseph Wyatt, 2002 — university repository — https://mds.marshall.edu/psychology_faculty/7/\nArticle PDF identifying the parcels — https://citeseerx.ist.psu.edu/document?doi=47e71a1a8dcdfc2e6b2b303e92e60d399fba3a5c&repid=rep1&type=pdf"
@@ -1877,7 +2176,16 @@
         "website": "",
         "wiki_relation": "associated organization",
         "wikidata_url": "https://www.wikidata.org/wiki/Q361848",
+        "topics": [
+          "religious_esoteric"
+        ],
+        "location_role": "organizational_office",
         "id": "H28",
+        "topic_labels": [
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "1952 magazine — printed temple address",
@@ -1945,7 +2253,18 @@
         "website": "",
         "wiki_relation": "associated person; pin is institutional context",
         "wikidata_url": "https://www.wikidata.org/wiki/Q3262335",
+        "topics": [
+          "intelligence_research",
+          "documented_conspiracies"
+        ],
+        "location_role": "organizational_office",
         "id": "H29",
+        "topic_labels": [
+          "Intelligence & Research",
+          "Documented Conspiracies"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "intel",
         "sources": [
           {
             "title": "West papers finding aid",
@@ -1989,10 +2308,10 @@
         "checked_status": "Not marked visited",
         "story": "West headed UCLA psychiatry and the Neuropsychiatric Institute from 1969 to 1989. This pin marks the institution’s current administrative building and historical campus context, not a verified former office or experiment room.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.065767,-118.4442777",
-        "marker-color": "#7446a2",
+        "marker-color": "#233b32",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#7446a2",
+          "color": "#233b32",
           "showLabel": false
         },
         "description": "West headed UCLA psychiatry and the Neuropsychiatric Institute from 1969 to 1989. This pin marks the institution’s current administrative building and historical campus context, not a verified former office or experiment room.\n\nEvidence: Strong for his leadership and the institution’s address.\n\nLimits: His earlier Oklahoma research, the proposed violence center, and later Manson-related theories require distinct evidence. The pin does not establish MKULTRA experiments at this building.\n\nAccess: Working clinical/research campus; public exterior context only.\n\nSources:\nWest papers finding aid — https://oac.cdlib.org/findaid/ark%3A%2F13030%2Fc84j0hcd\nSemel/NPI building description — https://teams.semel.ucla.edu/site/semel-institutenpi\nJAMA Psychiatry obituary — https://jamanetwork.com/journals/jamapsychiatry/fullarticle/205144\nContemporary critique of violence-center proposal — https://archive.scienceforthepeople.org/vol-6/v6n3/violence-center/\n\nReading:\nWest papers finding aid — https://oac.cdlib.org/findaid/ark%3A%2F13030%2Fc84j0hcd\nSemel/NPI building description — https://teams.semel.ucla.edu/site/semel-institutenpi\nJAMA Psychiatry obituary — https://jamanetwork.com/journals/jamapsychiatry/fullarticle/205144\nContemporary critique of violence-center proposal — https://archive.scienceforthepeople.org/vol-6/v6n3/violence-center/\nSuggested book: Tom O’Neill with Dan Piepenbring, CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties — https://www.hachettebookgroup.com/titles/tom-oneill/chaos/9780316477574/?lens=little-brown"
@@ -2029,7 +2348,18 @@
         "website": "",
         "wiki_relation": "building; collection is a separate archival entity",
         "wikidata_url": "https://www.wikidata.org/wiki/Q5077208",
+        "topics": [
+          "intelligence_research",
+          "documented_conspiracies"
+        ],
+        "location_role": "archive",
         "id": "H30",
+        "topic_labels": [
+          "Intelligence & Research",
+          "Documented Conspiracies"
+        ],
+        "location_role_label": "Archive / Museum Collection",
+        "pin_kind": "archive",
         "sources": [
           {
             "title": "Collection 590 finding aid",
@@ -2113,7 +2443,16 @@
         "website": "",
         "wiki_relation": "building/institution if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q5503499",
+        "topics": [
+          "religious_esoteric"
+        ],
+        "location_role": "event_site",
         "id": "H31",
+        "topic_labels": [
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Movement chronology",
@@ -2189,7 +2528,16 @@
         "website": "",
         "wiki_relation": "building",
         "wikidata_url": "https://www.wikidata.org/wiki/Q731437",
+        "topics": [
+          "religious_esoteric"
+        ],
+        "location_role": "event_site",
         "id": "H32",
+        "topic_labels": [
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Event / Venue Site",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Movement chronology",
@@ -2257,7 +2605,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q136211111",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B01",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Chez Jay — operator or district listing",
@@ -2317,7 +2674,16 @@
         "website": "https://www.thehmsbounty.com/",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B02",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "HMS Bounty — operator or district listing",
@@ -2373,7 +2739,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q4861664",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B03",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Barney’s Beanery — operator or district listing",
@@ -2429,7 +2804,16 @@
         "website": "https://hollywoodpartnership.com/go/frolic-room",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q130453805",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B04",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Frolic Room — operator or district listing",
@@ -2485,7 +2869,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q6310847",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B05",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Jumbo’s Clown Room — operator or district listing",
@@ -2541,7 +2934,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B06",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Cowboy Palace Saloon — operator or district listing",
@@ -2597,7 +2999,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B07",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Old Towne Pub — operator or district listing",
@@ -2653,7 +3064,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B08",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "La Cuevita — operator or district listing",
@@ -2709,7 +3129,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q130131020",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B09",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Boardner’s — operator or district listing",
@@ -2765,7 +3194,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B10",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Golden Gopher — operator or district listing",
@@ -2821,7 +3259,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B11",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Little Joy — operator or district listing",
@@ -2877,7 +3324,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B12",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Damon’s — operator or district listing",
@@ -2933,7 +3389,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q122451898",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B13",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Saddle Peak Lodge — operator or district listing",
@@ -2989,7 +3454,16 @@
         "website": "",
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B14",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "La Cita — operator or district listing",
@@ -3047,7 +3521,20 @@
         "website": "",
         "wiki_relation": "associated person: Carlos Castaneda; not the private building",
         "wikidata_url": "https://www.wikidata.org/wiki/Q158878",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual",
+          "communal_counterculture"
+        ],
+        "location_role": "residence",
         "id": "H33",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual",
+          "Communes & Counterculture"
+        ],
+        "location_role_label": "Residence / Compound",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "LAist: The Witches of Westwood and Carlos Castaneda’s Sinister Legacy (2021)",
@@ -3130,7 +3617,18 @@
         "website": "",
         "wiki_relation": "physical museum; Castaneda collection is an associated holding",
         "wikidata_url": "https://www.wikidata.org/wiki/Q7864026",
+        "topics": [
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "archive",
         "id": "H34",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Archive / Museum Collection",
+        "pin_kind": "archive",
         "sources": [
           {
             "title": "Fowler: The Yaqui Masks of Carlos Castaneda, May–August 2014",
@@ -3162,10 +3660,10 @@
         "checked_status": "Not marked visited",
         "story": "The Fowler exhibited Yaqui masks and rattles collected by Castaneda in the 1960s in a 2014 exhibition. It provides a tangible UCLA research connection and a way to separate documented collecting from the disputed don Juan narratives.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.0728,-118.443",
-        "marker-color": "#bc6128",
+        "marker-color": "#7446a2",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#7446a2",
           "showLabel": false
         },
         "description": "The Fowler exhibited Yaqui masks and rattles collected by Castaneda in the 1960s in a 2014 exhibition. It provides a tangible UCLA research connection and a way to separate documented collecting from the disputed don Juan narratives.\n\nEvidence: Strong: the museum’s exhibition record identifies the collector, objects and exhibition dates. UCLA’s biographical file also records his degrees and dissertation.\n\nLimits: The 2014 exhibition is over. Collection holdings do not mean the objects are currently on display, nor do they validate Castaneda’s descriptions of shamanic training.\n\nAccess: Public museum; consult current exhibitions before visiting for this subject. Request collection or archival research access separately.\n\nSources:\nFowler: The Yaqui Masks of Carlos Castaneda, May–August 2014 — https://fowler.ucla.edu/exhibitions/fowler-in-focus-the-yaqui-masks-of-carlos-castaneda/\nUCLA University Archives: Carlos Arana Castaneda biographical file — https://oac.cdlib.org/findaid/ark%3A/13030/kt9c6023ds_aspace_ref173_kbm\n\nReading:\nFowler: The Yaqui Masks of Carlos Castaneda, May–August 2014 — https://fowler.ucla.edu/exhibitions/fowler-in-focus-the-yaqui-masks-of-carlos-castaneda/\nUCLA University Archives: Carlos Arana Castaneda biographical file — https://oac.cdlib.org/findaid/ark%3A/13030/kt9c6023ds_aspace_ref173_kbm\nSuggested book: Ru Marshall, American Trickster: The Hidden Lives of Carlos Castaneda (2026) — https://orbooks.com/catalog/american-trickster/\nSuggested book: Amy Wallace, Sorcerer’s Apprentice: My Life with Carlos Castaneda — participant memoir — https://www.northatlanticbooks.com/shop/sorcerers-apprentice/"
@@ -3202,7 +3700,16 @@
         "website": "",
         "wiki_relation": "associated religious movement; not a resolved building entity",
         "wikidata_url": "https://www.wikidata.org/wiki/Q131036",
+        "topics": [
+          "religious_esoteric"
+        ],
+        "location_role": "organizational_office",
         "id": "H35",
+        "topic_labels": [
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Church of Scientology of the Valley: address and directions",
@@ -3270,7 +3777,18 @@
         "website": "",
         "wiki_relation": "former physical library",
         "wikidata_url": "https://www.wikidata.org/wiki/Q132200512",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
         "id": "H36",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Altadena Historical Society: Theosophical Society in Altadena",
@@ -3348,7 +3866,18 @@
         "website": "",
         "wiki_relation": "physical mountain; not an exact ritual location",
         "wikidata_url": "https://www.wikidata.org/wiki/Q128657",
+        "topics": [
+          "religious_esoteric",
+          "folklore_legends"
+        ],
+        "location_role": "landscape",
         "id": "H37",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Folklore & Disputed Lore"
+        ],
+        "location_role_label": "Ranch / Landscape Site",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Aetherius Society Los Angeles: Mount Baldy pilgrimages",
@@ -3416,7 +3945,18 @@
         "website": "",
         "wiki_relation": "associated movement; its historical names and practices changed",
         "wikidata_url": "https://www.wikidata.org/wiki/Q536890",
+        "topics": [
+          "religious_esoteric",
+          "communal_counterculture"
+        ],
+        "location_role": "organizational_office",
         "id": "H38",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Communes & Counterculture"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "James McNabb Jr., Daily Pilot, December 12, 1968 — reproduced by the movement",
@@ -3448,10 +3988,10 @@
         "checked_status": "Not marked visited",
         "story": "The Huntington Beach Light Club was an early base for David Berg’s movement in 1968. A contemporary newspaper account places the Teens for Christ headquarters at 116 Main Street.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.657585426074,-118.001379723661",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "The Huntington Beach Light Club was an early base for David Berg’s movement in 1968. A contemporary newspaper account places the Teens for Christ headquarters at 116 Main Street.\n\nEvidence: Strong for the early address: a reproduced December 12, 1968 Daily Pilot article states it explicitly. Independent university finding aids document the movement’s 1968 origins.\n\nLimits: The newspaper transcription is hosted by the group itself. Later controversies require their own evidence; they should not be attributed to current businesses at this address.\n\nAccess: Historical commercial address in downtown Huntington Beach. No surviving Light Club interior or public historical display has been established.\n\nSources:\nJames McNabb Jr., Daily Pilot, December 12, 1968 — reproduced by the movement — https://www.childrenofgod.com/en/history/news-articles/teens-picket/\nUCSB: Children of God collection finding aid — https://archives.library.ucsb.edu/repositories/2/resources/36\nUniversity of Southern Indiana: Children of God Collection, CS 096 — https://library.usi.edu/record/1510954/files/CS%20096%20-%20Children%20of%20God%20Collection.pdf\n\nReading:\nJames McNabb Jr., Daily Pilot, December 12, 1968 — reproduced by the movement — https://www.childrenofgod.com/en/history/news-articles/teens-picket/\nUCSB: Children of God collection finding aid — https://archives.library.ucsb.edu/repositories/2/resources/36\nUniversity of Southern Indiana: Children of God Collection, CS 096 — https://library.usi.edu/record/1510954/files/CS%20096%20-%20Children%20of%20God%20Collection.pdf"
@@ -3488,7 +4028,18 @@
         "website": "",
         "wiki_relation": "associated organization; not a current business at the address",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1336403",
+        "topics": [
+          "communal_counterculture",
+          "religious_esoteric"
+        ],
+        "location_role": "organizational_office",
         "id": "H39",
+        "topic_labels": [
+          "Communes & Counterculture",
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "commune",
         "sources": [
           {
             "title": "OC Weekly: “Mystic Arts” Returns to Laguna Beach",
@@ -3516,10 +4067,10 @@
         "checked_status": "Not marked visited",
         "story": "Mystic Arts World opened in 1967 as an art and counterculture center associated with the Brotherhood of Eternal Love. It connects Laguna’s artistic community with a movement that pursued psychedelic transformation and became involved in large-scale drug distribution.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.538470954419,-117.779875527034",
-        "marker-color": "#bc6128",
+        "marker-color": "#a44b2d",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "Mystic Arts World opened in 1967 as an art and counterculture center associated with the Brotherhood of Eternal Love. It connects Laguna’s artistic community with a movement that pursued psychedelic transformation and became involved in large-scale drug distribution.\n\nEvidence: Strong for the address and institutional association: local reporting identifies 670 South Coast Highway, while PBS SoCal documents the counterculture center and its Brotherhood connection.\n\nLimits: The former shop and later similarly named businesses are distinct. “Hippie Mafia” is a journalistic nickname; it does not establish every visitor’s involvement in illegal activity.\n\nAccess: Former commercial site on Coast Highway; a street-context stop. The original shop is no longer operating.\n\nSources:\nOC Weekly: “Mystic Arts” Returns to Laguna Beach — https://www.ocweekly.com/mystic-arts-returns-to-laguna-beach-6459119/\nPBS SoCal Artbound: Laguna Beach in the Sixties — https://www.pbssocal.org/shows/artbound/laguna-beach-in-the-sixties-a-colony-for-the-arts\n\nReading:\nOC Weekly: “Mystic Arts” Returns to Laguna Beach — https://www.ocweekly.com/mystic-arts-returns-to-laguna-beach-6459119/\nPBS SoCal Artbound: Laguna Beach in the Sixties — https://www.pbssocal.org/shows/artbound/laguna-beach-in-the-sixties-a-colony-for-the-arts\nSuggested book: Nicholas Schou, Orange Sunshine: The Brotherhood of Eternal Love and Its Quest to Spread Peace, Love, and Acid to the World — https://us.macmillan.com/books/9780312607173/orangesunshine/"
@@ -3556,7 +4107,18 @@
         "website": "",
         "wiki_relation": "associated founder: Gerald Heard; not a building entity",
         "wikidata_url": "https://www.wikidata.org/wiki/Q1606714",
+        "topics": [
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "organizational_office",
         "id": "H40",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Ramakrishna Monastery: history of Trabuco College and the monastery",
@@ -3634,7 +4196,18 @@
         "website": "",
         "wiki_relation": "associated author; archive is a research-access point",
         "wikidata_url": "https://www.wikidata.org/wiki/Q171091",
+        "topics": [
+          "arts_music",
+          "religious_esoteric"
+        ],
+        "location_role": "archive",
         "id": "H41",
+        "topic_labels": [
+          "Arts, Music & Literature",
+          "Religious & Esoteric"
+        ],
+        "location_role_label": "Archive / Museum Collection",
+        "pin_kind": "archive",
         "sources": [
           {
             "title": "CSU Fullerton finding aid: Philip K. Dick papers, 1959–1985",
@@ -3678,10 +4251,10 @@
         "checked_status": "Not marked visited",
         "story": "Dick’s Orange County years offer a literary thread through paranoia, surveillance and religious experience. His papers at Pollak Library give the club an archival starting point for studying that work and its local setting.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.879803,-117.885233",
-        "marker-color": "#bc6128",
+        "marker-color": "#7446a2",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#bc6128",
+          "color": "#7446a2",
           "showLabel": false
         },
         "description": "Dick’s Orange County years offer a literary thread through paranoia, surveillance and religious experience. His papers at Pollak Library give the club an archival starting point for studying that work and its local setting.\n\nEvidence: Strong for the archive: CSU Fullerton’s finding aid identifies the collection and repository, supported by recent reporting. The university’s literary map supplies additional residential and fictional settings.\n\nLimits: This is a research-access pin, not the site of Dick’s 1974 experiences. His novels are fiction, and their conspiracies are not evidence of real operations. The Synanon connection is a comparative reading thread about fictional rehabilitation in A Scanner Darkly, not a claim that Dick lived at the Santa Monica facility.\n\nAccess: University library. Arrange Special Collections access and request materials in advance; not all collection material is on display.\n\nSources:\nCSU Fullerton finding aid: Philip K. Dick papers, 1959–1985 — https://oac.cdlib.org/findaid/ark%3A%2F13030%2Fc8fr0273\nLAist: Philip K. Dick’s OC legacy and Fullerton archive (2026) — https://laist.com/news/los-angeles-activities/philip-k-dick-festival-cal-state-fullerton\nCSU Fullerton project: Philip K. Dick in the OC — literary maps — https://sites.google.com/a/fullerton.edu/philip-k-dick-in-the-oc/pkd-in-the-oc-in-the-media/literary-maps\nFiction pairing: VALIS and A Scanner Darkly — LAPL reading guide — https://lapl.org/collections-resources/blogs/lapl/reading-works-philip-k-dick\n\nReading:\nCSU Fullerton finding aid: Philip K. Dick papers, 1959–1985 — https://oac.cdlib.org/findaid/ark%3A%2F13030%2Fc8fr0273\nLAist: Philip K. Dick’s OC legacy and Fullerton archive (2026) — https://laist.com/news/los-angeles-activities/philip-k-dick-festival-cal-state-fullerton\nCSU Fullerton project: Philip K. Dick in the OC — literary maps — https://sites.google.com/a/fullerton.edu/philip-k-dick-in-the-oc/pkd-in-the-oc-in-the-media/literary-maps\nFiction pairing: VALIS and A Scanner Darkly — LAPL reading guide — https://lapl.org/collections-resources/blogs/lapl/reading-works-philip-k-dick\nSuggested book: Erik Davis, The Visionary State: A Journey Through California’s Spiritual Landscape (photographs by Michael Rauner) — https://openlibrary.org/books/OL3404595M/The_visionary_state"
@@ -3720,7 +4293,18 @@
         "website": "",
         "wiki_relation": "associated institution; Ojai successor to the Hollywood colony",
         "wikidata_url": "https://www.wikidata.org/wiki/Q6439082",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
         "id": "H42",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Krotona Institute: centennial history",
@@ -3796,7 +4380,18 @@
         "website": "",
         "wiki_relation": "associated teacher; campus contains several distinct historic buildings",
         "wikidata_url": "https://www.wikidata.org/wiki/Q179266",
+        "topics": [
+          "religious_esoteric",
+          "arts_music"
+        ],
+        "location_role": "organizational_office",
         "id": "H43",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Krishnamurti Foundation of America: historic houses, campus and addresses",
@@ -3864,7 +4459,18 @@
         "website": "",
         "wiki_relation": "physical meditation center",
         "wikidata_url": "",
+        "topics": [
+          "religious_esoteric",
+          "occult_spiritual"
+        ],
+        "location_role": "organizational_office",
         "id": "H44",
+        "topic_labels": [
+          "Religious & Esoteric",
+          "Occult & Ritual"
+        ],
+        "location_role_label": "Institution / Headquarters",
+        "pin_kind": "esoteric",
         "sources": [
           {
             "title": "Meditation Mount: institutional history",
@@ -3940,7 +4546,16 @@
         "website": "",
         "wiki_relation": "No exact encyclopedia entity resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B15",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Sandpiper Lounge: official site",
@@ -4004,7 +4619,16 @@
         "website": "",
         "wiki_relation": "No exact encyclopedia entity resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B16",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Ojai Deer Lodge: official site",
@@ -4068,7 +4692,16 @@
         "website": "",
         "wiki_relation": "No exact encyclopedia entity resolved",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B17",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Johnny’s Saloon: official site and address",
@@ -4132,7 +4765,16 @@
         "website": "https://theformosacafe.com/location",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B18",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4188,7 +4830,16 @@
         "website": "https://www.discoverlosangeles.com/eat-drink/tiki-ti",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B19",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4244,7 +4895,16 @@
         "website": "https://thechowderbarge.com/",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B20",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4300,7 +4960,16 @@
         "website": "https://www.bambooclublb.com/",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B21",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4356,7 +5025,16 @@
         "website": "https://www.thewoodshollywood.com/",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B22",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4412,7 +5090,16 @@
         "website": "https://www.discoverlosangeles.com/eat-drink/idle-hour-bar",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B23",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4468,7 +5155,16 @@
         "website": "https://www.tongahut.com/north-hollywood.html",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B24",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4524,7 +5220,16 @@
         "website": "https://www.theredwoodbar.com/",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B25",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4580,7 +5285,16 @@
         "website": "https://www.bigfootwest.com/contact-us",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B26",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4636,7 +5350,16 @@
         "website": "https://www.1933group.com/bigfoot-lodge/",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B27",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
@@ -4692,7 +5415,16 @@
         "website": "https://www.luckytikibar.com/ltweho",
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
+        "topics": [
+          "arts_music"
+        ],
+        "location_role": "bar",
         "id": "B28",
+        "topic_labels": [
+          "Arts, Music & Literature"
+        ],
+        "location_role_label": "Watering Hole",
+        "pin_kind": "bar",
         "sources": [
           {
             "title": "Venue address source",
