@@ -24,6 +24,8 @@ TOPIC_LABELS = {
     'communal_counterculture': 'Communes & Counterculture',
     'arts_music': 'Arts, Music & Literature',
     'folklore_legends': 'Folklore & Disputed Lore',
+    'tiki_bars': 'Tiki Bars',
+    'classic_dining': 'Old-School Steakhouses & Dining',
 }
 
 ROLE_LABELS = {
@@ -35,11 +37,26 @@ ROLE_LABELS = {
     'archive': 'Archive / Museum Collection',
     'memorial_site': 'Memorial Site',
     'landscape': 'Ranch / Landscape Site',
-    'bar': 'Watering Hole',
+    'bar': 'Watering Hole & Dining',
+}
+
+PIN_COLORS = {
+    'esoteric': '#bc6128',
+    'intel': '#233b32',
+    'commune': '#9e5a24',
+    'lore': '#a44b2d',
+    'archive': '#7446a2',
+    'tiki': '#1f7a6b',
+    'dining': '#7c3238',
+    'bar': '#2567a5',
 }
 
 
 def determine_pin_kind(ident, category, role, topics):
+    if 'tiki_bars' in topics:
+        return 'tiki'
+    if 'classic_dining' in topics:
+        return 'dining'
     if category == 'Bar' or role == 'bar':
         return 'bar'
     if role == 'archive' or ident in {'H30', 'H34', 'H41'}:
@@ -133,9 +150,9 @@ def export(source, destination):
         props['story'] = props.pop('history', '')
         props['related_places'] = [x.strip() for x in row.get('related_places', '').split(',') if x.strip()]
         props['maps_url'] = f'https://www.google.com/maps/search/?api=1&query={lat},{lon}'
-        color = '#27824c' if props['checked'] else '#7446a2' if props['pin_kind'] == 'archive' else '#233b32' if props['pin_kind'] == 'intel' else '#2567a5' if props['pin_kind'] == 'bar' else '#a44b2d' if props['pin_kind'] in {'lore', 'commune'} else '#bc6128'
+        color = PIN_COLORS.get(props['pin_kind'], '#bc6128')
         props['marker-color'] = color
-        props['marker-symbol'] = 'star' if props['checked'] else 'bar' if row.get('category') == 'Bar' else 'circle'
+        props['marker-symbol'] = 'bar' if row.get('category') == 'Bar' else 'circle'
         props['_umap_options'] = {'color': color, 'showLabel': False}
         text = [props['story']]
         for label, key in [('Evidence', 'evidence'), ('Limits', 'limits'), ('Access', 'access')]:

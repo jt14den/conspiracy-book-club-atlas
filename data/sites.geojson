@@ -147,10 +147,10 @@
         "checked_status": "Not marked visited",
         "story": "The beachfront building housed Synanon beginning in 1967. This is a documented institutional association with the former rehabilitation movement. The building is now a hotel.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.006419,-118.491266",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "The beachfront building housed Synanon beginning in 1967. This is a documented institutional association with the former rehabilitation movement. The building is now a hotel.\n\nEvidence: Strong: current hotel history and Santa Monica Conservancy agree.\n\nLimits: The historic association does not imply that current hotel operations are connected to Synanon.\n\nAccess: Surviving hotel; visitor access follows current hotel rules.\n\nSources:\nHotel history — https://www.hotelcasadelmar.com/about/\nSanta Monica Conservancy — https://smconservancy.org/property/casa-del-mar/\n\nReading:\nHotel history — https://www.hotelcasadelmar.com/about/\nSanta Monica Conservancy — https://smconservancy.org/property/casa-del-mar/"
@@ -374,10 +374,10 @@
         "checked_status": "Not marked visited",
         "story": "Father Yod’s Source Family operated a vegetarian restaurant here, linking communal spirituality, celebrity dining and psychedelic music. A particularly good reading theme is the relationship between charismatic authority and California wellness culture.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.096686,-118.370517",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "Father Yod’s Source Family operated a vegetarian restaurant here, linking communal spirituality, celebrity dining and psychedelic music. A particularly good reading theme is the relationship between charismatic authority and California wellness culture.\n\nEvidence: Strong for the restaurant and Source Family association.\n\nLimits: Former location; do not assume original interiors or current organizational presence.\n\nAccess: Former commercial site; inspect from public space.\n\nSources:\nLAist history — https://laist.com/news/la-history/source-family-restaurant-vegetarian-dinner-gratitude-kitchen-dec-5\nArchival collection summary — https://library.usi.edu/record/1510507/files/CS%20544%20-%20Source%20Family%20Collection.pdf\n\nReading:\nLAist history — https://laist.com/news/la-history/source-family-restaurant-vegetarian-dinner-gratitude-kitchen-dec-5\nArchival collection summary — https://library.usi.edu/record/1510507/files/CS%20544%20-%20Source%20Family%20Collection.pdf"
@@ -522,10 +522,10 @@
         "checked_status": "Checked off by club",
         "story": "Senator Robert F. Kennedy was shot in the hotel pantry in June 1968. The hotel was demolished in 2005–06; Robert F. Kennedy Community Schools occupies the property.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.061673,-118.298262",
-        "marker-color": "#27824c",
-        "marker-symbol": "star",
+        "marker-color": "#a44b2d",
+        "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#27824c",
+          "color": "#a44b2d",
           "showLabel": false
         },
         "description": "Senator Robert F. Kennedy was shot in the hotel pantry in June 1968. The hotel was demolished in 2005–06; Robert F. Kennedy Community Schools occupies the property.\n\nEvidence: Strong for the event, former building and replacement campus.\n\nLimits: The documented assassination is distinct from competing claims about responsibility. This pin does not endorse a second-gunman or intelligence-operation theory.\n\nAccess: School property; exterior/public frontage stop.\n\nSources:\nLA Conservancy — https://www.laconservancy.org/learn/historic-places/ambassador-hotel-demolished/\nSchool history — https://rfkcos.lausd.org/apps/pages/index.jsp?uREC_ID=3838354&type=d&pREC_ID=2474138\n\nReading:\nLA Conservancy — https://www.laconservancy.org/learn/historic-places/ambassador-hotel-demolished/\nSchool history — https://rfkcos.lausd.org/apps/pages/index.jsp?uREC_ID=3838354&type=d&pREC_ID=2474138"
@@ -599,10 +599,10 @@
         "checked_status": "Not marked visited",
         "story": "Jim Jones’s Los Angeles congregation used this church. Its local history complicates the usual account centered only on San Francisco and Guyana.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.045301,-118.283564",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "Jim Jones’s Los Angeles congregation used this church. Its local history complicates the usual account centered only on San Francisco and Guyana.\n\nEvidence: Strong: archival building inventory and institutional history.\n\nLimits: Some archival pages give 1336; the historical inventory and building-history page give 1366. The pin follows the inventory.\n\nAccess: Former institutional site; respect the current congregation and its entry rules.\n\nSources:\nSDSU building history — https://jonestown.sdsu.edu/?page_id=65658\nHistoric inventory — https://jonestown.sdsu.edu/images/jtr10/11-01-LAPTrecords.pdf\n\nReading:\nSDSU building history — https://jonestown.sdsu.edu/?page_id=65658\nHistoric inventory — https://jonestown.sdsu.edu/images/jtr10/11-01-LAPTrecords.pdf"
@@ -680,10 +680,10 @@
         "checked_status": "Not marked visited",
         "story": "The Manson Family lived at the former movie ranch. California State Parks places it within Santa Susana Pass State Historic Park.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.2717,-118.6164",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "The Manson Family lived at the former movie ranch. California State Parks places it within Santa Susana Pass State Historic Park.\n\nEvidence: Strong for the historic association and park location.\n\nLimits: Ranch buildings are gone. A large former property cannot be represented precisely by one pin.\n\nAccess: Outdoor historical area; pin is not a verified trailhead.\n\nSources:\nCalifornia State Parks brochure — https://www.parks.ca.gov/pages/611/files/SantaSusanaPassSHPWebBrochure2010Rev.pdf\nHistorical account — https://www.history.com/articles/spahn-ranch-manson-family\n\nReading:\nCalifornia State Parks brochure — https://www.parks.ca.gov/pages/611/files/SantaSusanaPassSHPWebBrochure2010Rev.pdf\nHistorical account — https://www.history.com/articles/spahn-ranch-manson-family\nSuggested book: Tom O’Neill with Dan Piepenbring, CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties — https://www.hachettebookgroup.com/titles/tom-oneill/chaos/9780316477574/?lens=little-brown"
@@ -1356,10 +1356,10 @@
         "checked_status": "Not marked visited",
         "story": "This estate served as Church Universal and Triumphant’s Camelot headquarters before its 1986 sale and move to Montana. It connects ascended-master teachings with Cold War survivalism. The ranch is now public parkland with historic structures.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.0997627,-118.7055812",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "This estate served as Church Universal and Triumphant’s Camelot headquarters before its 1986 sale and move to Montana. It connects ascended-master teachings with Cold War survivalism. The ranch is now public parkland with historic structures.\n\nEvidence: Strong: contemporary reporting, historical scholarship and the park operator’s information.\n\nLimits: The best-known later fallout-shelter episode occurred in Montana; do not relocate those events to this California property.\n\nAccess: Public park and visitor-center setting; specific building entry is separate.\n\nSources:\nMRCA park information — https://mrca.ca.gov/parks/park-listing/king-gillette-ranch/\nContemporary 1986 sale report — https://www.upi.com/Archives/1986/07/05/The-controversial-Church-Universal-and-Triumphant-has-sold-its/2215520920000/\nCritical Dictionary history — Erin Prophet — https://www.cdamm.org/articles/CUT-TSL\n\nReading:\nMRCA park information — https://mrca.ca.gov/parks/park-listing/king-gillette-ranch/\nContemporary 1986 sale report — https://www.upi.com/Archives/1986/07/05/The-controversial-Church-Universal-and-Triumphant-has-sold-its/2215520920000/\nCritical Dictionary history — Erin Prophet — https://www.cdamm.org/articles/CUT-TSL\nSuggested book: Erin Prophet, Prophet’s Daughter: My Life with Elizabeth Clare Prophet inside the Church Universal and Triumphant — author interview — https://dianerehm.org/shows/2008-10-20/erin-prophet-prophets-daughter-lyons-press/"
@@ -1425,10 +1425,10 @@
         "checked_status": "Not marked visited",
         "story": "The Chatsworth Historical Society documents Krishna Venta’s WKFL Fountain of the World at two Box Canyon locations. The upper site was associated with the 1958 bombing that killed Venta and others; a lower Boulder Shelter was at 60 Box Canyon Road.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.250208,-118.6496615",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "The Chatsworth Historical Society documents Krishna Venta’s WKFL Fountain of the World at two Box Canyon locations. The upper site was associated with the 1958 bombing that killed Venta and others; a lower Boulder Shelter was at 60 Box Canyon Road.\n\nEvidence: Strong for the historical locations and bombing, grounded in local historical documentation.\n\nLimits: Border-area Ventura County stop, separate from Spahn Ranch. Accounts of a later Manson stay need their own sourcing.\n\nAccess: Private historical property; research/exterior context, not a confirmed attraction.\n\nSources:\nChatsworth Historical Society illustrated history — https://www.chatsworthhistory.com/Program%20Downloads/WKFL%20Fountain%20of%20the%20World.pdf\n\nReading:\nChatsworth Historical Society illustrated history — https://www.chatsworthhistory.com/Program%20Downloads/WKFL%20Fountain%20of%20the%20World.pdf"
@@ -2606,15 +2606,19 @@
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q136211111",
         "topics": [
+          "classic_dining",
+          "folklore_legends",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B01",
         "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Folklore & Disputed Lore",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
         "sources": [
           {
             "title": "Chez Jay — operator or district listing",
@@ -2634,10 +2638,10 @@
         "checked_status": "Not marked visited",
         "story": "Historic restaurant/bar. The Table 10 Pentagon Papers handoff is repeated with qualifying language; treat it as lore.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.010464,-118.493251",
-        "marker-color": "#2567a5",
+        "marker-color": "#7c3238",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#7c3238",
           "showLabel": false
         },
         "description": "Historic restaurant/bar. The Table 10 Pentagon Papers handoff is repeated with qualifying language; treat it as lore.\n\nEvidence: Strong for current published address; historical connections only where separately stated.\n\nLimits: Bar proximity does not establish a historical connection.\n\nAccess: Check current hours and event/entry rules.\n\nSources:\nChez Jay — operator or district listing — https://chezjay.com/history\n\nReading:\nChez Jay — operator or district listing — https://chezjay.com/history\nSuggested book: Daniel Ellsberg, Secrets: A Memoir of Vietnam and the Pentagon Papers — https://www.penguinrandomhouse.com/books/288995/secrets-by-daniel-ellsberg/"
@@ -2675,15 +2679,19 @@
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
         "topics": [
+          "classic_dining",
+          "political_organizing",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B02",
         "topic_labels": [
+          "Old-School Steakhouses & Dining",
+          "Political Organizing",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
         "sources": [
           {
             "title": "HMS Bounty — operator or district listing",
@@ -2699,10 +2707,10 @@
         "checked_status": "Checked off by club",
         "story": "Across from the Ambassador site; historical reporting records an Ambassador farewell gathering here.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.062,-118.2969",
-        "marker-color": "#27824c",
-        "marker-symbol": "star",
+        "marker-color": "#7c3238",
+        "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#27824c",
+          "color": "#7c3238",
           "showLabel": false
         },
         "description": "Across from the Ambassador site; historical reporting records an Ambassador farewell gathering here.\n\nEvidence: Strong for current published address; historical connections only where separately stated.\n\nLimits: Bar proximity does not establish a historical connection.\n\nAccess: Check current hours and event/entry rules.\n\nSources:\nHMS Bounty — operator or district listing — https://www.thehmsbounty.com/\n\nReading:\nHMS Bounty — operator or district listing — https://www.thehmsbounty.com/"
@@ -2740,14 +2748,16 @@
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q4861664",
         "topics": [
-          "arts_music"
+          "arts_music",
+          "communal_counterculture"
         ],
         "location_role": "bar",
         "id": "B03",
         "topic_labels": [
-          "Arts, Music & Literature"
+          "Arts, Music & Literature",
+          "Communes & Counterculture"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -2812,7 +2822,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -2877,7 +2887,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -2942,7 +2952,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -3007,7 +3017,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -3072,7 +3082,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -3137,7 +3147,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -3202,7 +3212,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -3267,7 +3277,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -3325,15 +3335,19 @@
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "",
         "topics": [
+          "tiki_bars",
+          "classic_dining",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B12",
         "topic_labels": [
+          "Tiki Bars",
+          "Old-School Steakhouses & Dining",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
         "sources": [
           {
             "title": "Damon’s — operator or district listing",
@@ -3349,10 +3363,10 @@
         "checked_status": "Not marked visited",
         "story": "Tiki steakhouse and bar in downtown Glendale; regional pairing for Niscience, not a dive.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.1506509,-118.2554803",
-        "marker-color": "#2567a5",
+        "marker-color": "#1f7a6b",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#1f7a6b",
           "showLabel": false
         },
         "description": "Tiki steakhouse and bar in downtown Glendale; regional pairing for Niscience, not a dive.\n\nEvidence: Strong for current published address; historical connections only where separately stated.\n\nLimits: Bar proximity does not establish a historical connection.\n\nAccess: Check current hours and event/entry rules.\n\nSources:\nDamon’s — operator or district listing — https://www.damonsglendale.com/\n\nReading:\nDamon’s — operator or district listing — https://www.damonsglendale.com/"
@@ -3390,15 +3404,17 @@
         "wiki_relation": "bar itself if resolved",
         "wikidata_url": "https://www.wikidata.org/wiki/Q122451898",
         "topics": [
+          "classic_dining",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B13",
         "topic_labels": [
+          "Old-School Steakhouses & Dining",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
         "sources": [
           {
             "title": "Saddle Peak Lodge — operator or district listing",
@@ -3414,10 +3430,10 @@
         "checked_status": "Not marked visited",
         "story": "Restaurant/bar near the broader King Gillette area; requires a separate trip from the ranch, not an adjacent dive.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.0781791,-118.6931551",
-        "marker-color": "#2567a5",
+        "marker-color": "#7c3238",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#7c3238",
           "showLabel": false
         },
         "description": "Restaurant/bar near the broader King Gillette area; requires a separate trip from the ranch, not an adjacent dive.\n\nEvidence: Strong for current published address; historical connections only where separately stated.\n\nLimits: Bar proximity does not establish a historical connection.\n\nAccess: Check current hours and event/entry rules.\n\nSources:\nSaddle Peak Lodge — operator or district listing — https://www.saddlepeaklodge.com/location/saddle-peak-lodge/\n\nReading:\nSaddle Peak Lodge — operator or district listing — https://www.saddlepeaklodge.com/location/saddle-peak-lodge/"
@@ -3462,7 +3478,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -3988,10 +4004,10 @@
         "checked_status": "Not marked visited",
         "story": "The Huntington Beach Light Club was an early base for David Berg’s movement in 1968. A contemporary newspaper account places the Teens for Christ headquarters at 116 Main Street.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.657585426074,-118.001379723661",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "The Huntington Beach Light Club was an early base for David Berg’s movement in 1968. A contemporary newspaper account places the Teens for Christ headquarters at 116 Main Street.\n\nEvidence: Strong for the early address: a reproduced December 12, 1968 Daily Pilot article states it explicitly. Independent university finding aids document the movement’s 1968 origins.\n\nLimits: The newspaper transcription is hosted by the group itself. Later controversies require their own evidence; they should not be attributed to current businesses at this address.\n\nAccess: Historical commercial address in downtown Huntington Beach. No surviving Light Club interior or public historical display has been established.\n\nSources:\nJames McNabb Jr., Daily Pilot, December 12, 1968 — reproduced by the movement — https://www.childrenofgod.com/en/history/news-articles/teens-picket/\nUCSB: Children of God collection finding aid — https://archives.library.ucsb.edu/repositories/2/resources/36\nUniversity of Southern Indiana: Children of God Collection, CS 096 — https://library.usi.edu/record/1510954/files/CS%20096%20-%20Children%20of%20God%20Collection.pdf\n\nReading:\nJames McNabb Jr., Daily Pilot, December 12, 1968 — reproduced by the movement — https://www.childrenofgod.com/en/history/news-articles/teens-picket/\nUCSB: Children of God collection finding aid — https://archives.library.ucsb.edu/repositories/2/resources/36\nUniversity of Southern Indiana: Children of God Collection, CS 096 — https://library.usi.edu/record/1510954/files/CS%20096%20-%20Children%20of%20God%20Collection.pdf"
@@ -4067,10 +4083,10 @@
         "checked_status": "Not marked visited",
         "story": "Mystic Arts World opened in 1967 as an art and counterculture center associated with the Brotherhood of Eternal Love. It connects Laguna’s artistic community with a movement that pursued psychedelic transformation and became involved in large-scale drug distribution.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.538470954419,-117.779875527034",
-        "marker-color": "#a44b2d",
+        "marker-color": "#9e5a24",
         "marker-symbol": "circle",
         "_umap_options": {
-          "color": "#a44b2d",
+          "color": "#9e5a24",
           "showLabel": false
         },
         "description": "Mystic Arts World opened in 1967 as an art and counterculture center associated with the Brotherhood of Eternal Love. It connects Laguna’s artistic community with a movement that pursued psychedelic transformation and became involved in large-scale drug distribution.\n\nEvidence: Strong for the address and institutional association: local reporting identifies 670 South Coast Highway, while PBS SoCal documents the counterculture center and its Brotherhood connection.\n\nLimits: The former shop and later similarly named businesses are distinct. “Hippie Mafia” is a journalistic nickname; it does not establish every visitor’s involvement in illegal activity.\n\nAccess: Former commercial site on Coast Highway; a street-context stop. The original shop is no longer operating.\n\nSources:\nOC Weekly: “Mystic Arts” Returns to Laguna Beach — https://www.ocweekly.com/mystic-arts-returns-to-laguna-beach-6459119/\nPBS SoCal Artbound: Laguna Beach in the Sixties — https://www.pbssocal.org/shows/artbound/laguna-beach-in-the-sixties-a-colony-for-the-arts\n\nReading:\nOC Weekly: “Mystic Arts” Returns to Laguna Beach — https://www.ocweekly.com/mystic-arts-returns-to-laguna-beach-6459119/\nPBS SoCal Artbound: Laguna Beach in the Sixties — https://www.pbssocal.org/shows/artbound/laguna-beach-in-the-sixties-a-colony-for-the-arts\nSuggested book: Nicholas Schou, Orange Sunshine: The Brotherhood of Eternal Love and Its Quest to Spread Peace, Love, and Acid to the World — https://us.macmillan.com/books/9780312607173/orangesunshine/"
@@ -4547,14 +4563,16 @@
         "wiki_relation": "No exact encyclopedia entity resolved",
         "wikidata_url": "",
         "topics": [
-          "arts_music"
+          "arts_music",
+          "communal_counterculture"
         ],
         "location_role": "bar",
         "id": "B15",
         "topic_labels": [
-          "Arts, Music & Literature"
+          "Arts, Music & Literature",
+          "Communes & Counterculture"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -4620,15 +4638,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved",
         "wikidata_url": "",
         "topics": [
+          "classic_dining",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B16",
         "topic_labels": [
+          "Old-School Steakhouses & Dining",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
         "sources": [
           {
             "title": "Ojai Deer Lodge: official site",
@@ -4652,10 +4672,10 @@
         "checked_status": "Not marked visited",
         "story": "Historic Ojai tavern and restaurant, a separate regional stop after Krotona or an Ojai reading session.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.454206113915,-119.277479555121",
-        "marker-color": "#2567a5",
+        "marker-color": "#7c3238",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#7c3238",
           "showLabel": false
         },
         "description": "Historic Ojai tavern and restaurant, a separate regional stop after Krotona or an Ojai reading session.\n\nEvidence: Strong for the venue and address: official venue information and Ventura County’s facility list agree.\n\nLimits: Geographic pairing only; no particular teacher’s patronage has been established. It is a tavern and restaurant rather than a strict dive-bar classification.\n\nAccess: Operating venue; consult the current program and opening information.\n\nSources:\nOjai Deer Lodge: official site — https://www.deerlodgeojai.com/\nVentura County permitted food-facility list — https://rma.venturacounty.gov/wp-content/uploads/2024/01/permitted-food-facility-list.pdf\n\nReading:\nOjai Deer Lodge: official site — https://www.deerlodgeojai.com/\nVentura County permitted food-facility list — https://rma.venturacounty.gov/wp-content/uploads/2024/01/permitted-food-facility-list.pdf"
@@ -4700,7 +4720,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -4766,15 +4786,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
         "topics": [
+          "classic_dining",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B18",
         "topic_labels": [
+          "Old-School Steakhouses & Dining",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
         "sources": [
           {
             "title": "Venue address source",
@@ -4790,10 +4812,10 @@
         "checked_status": "Not marked visited",
         "story": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.090571996798,-118.345304968928",
-        "marker-color": "#2567a5",
+        "marker-color": "#7c3238",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#7c3238",
           "showLabel": false
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: Original Fairfax label retained in Sheet1; venue is in West Hollywood.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://theformosacafe.com/location\n\nReading:\nVenue address source — https://theformosacafe.com/location"
@@ -4831,15 +4853,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
         "topics": [
+          "tiki_bars",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B19",
         "topic_labels": [
+          "Tiki Bars",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
         "sources": [
           {
             "title": "Venue address source",
@@ -4855,10 +4879,10 @@
         "checked_status": "Not marked visited",
         "story": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.097489371941,-118.285756156913",
-        "marker-color": "#2567a5",
+        "marker-color": "#1f7a6b",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#1f7a6b",
           "showLabel": false
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: Tourism-board venue record used; no historical cult association asserted.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://www.discoverlosangeles.com/eat-drink/tiki-ti\n\nReading:\nVenue address source — https://www.discoverlosangeles.com/eat-drink/tiki-ti"
@@ -4896,15 +4920,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
         "topics": [
+          "classic_dining",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B20",
         "topic_labels": [
+          "Old-School Steakhouses & Dining",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
         "sources": [
           {
             "title": "Venue address source",
@@ -4920,10 +4946,10 @@
         "checked_status": "Not marked visited",
         "story": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.777164,-118.242718",
-        "marker-color": "#2567a5",
+        "marker-color": "#7c3238",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#7c3238",
           "showLabel": false
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: Wilmington, not Long Beach. Original neighborhood label retained in Sheet1. Venue page prints longitude without a minus sign; address geocoding is used for a west-longitude check.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://thechowderbarge.com/guidance\n\nReading:\nVenue address source — https://thechowderbarge.com/guidance"
@@ -4961,15 +4987,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
         "topics": [
+          "tiki_bars",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B21",
         "topic_labels": [
+          "Tiki Bars",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
         "sources": [
           {
             "title": "Venue address source",
@@ -4985,10 +5013,10 @@
         "checked_status": "Not marked visited",
         "story": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=33.782246747884,-118.150785387564",
-        "marker-color": "#2567a5",
+        "marker-color": "#1f7a6b",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#1f7a6b",
           "showLabel": false
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: Geographic bar pairing only.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://www.bambooclublb.com/\n\nReading:\nVenue address source — https://www.bambooclublb.com/"
@@ -5033,7 +5061,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -5091,15 +5119,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
         "topics": [
+          "classic_dining",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B23",
         "topic_labels": [
+          "Old-School Steakhouses & Dining",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "dining",
         "sources": [
           {
             "title": "Venue address source",
@@ -5115,10 +5145,10 @@
         "checked_status": "Not marked visited",
         "story": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.158337127491,-118.370084556923",
-        "marker-color": "#2567a5",
+        "marker-color": "#7c3238",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#7c3238",
           "showLabel": false
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: Historic barrel-shaped bar; location corroborated by the city historic-monument application.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://www.discoverlosangeles.com/eat-drink/idle-hour-bar\n\nReading:\nVenue address source — https://www.discoverlosangeles.com/eat-drink/idle-hour-bar"
@@ -5156,15 +5186,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
         "topics": [
+          "tiki_bars",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B24",
         "topic_labels": [
+          "Tiki Bars",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
         "sources": [
           {
             "title": "Venue address source",
@@ -5180,10 +5212,10 @@
         "checked_status": "Not marked visited",
         "story": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.1865176727,-118.41216036976",
-        "marker-color": "#2567a5",
+        "marker-color": "#1f7a6b",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#1f7a6b",
           "showLabel": false
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: Original North Hollywood venue; do not use the Palm Springs address.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://www.tongahut.com/north-hollywood.html\n\nReading:\nVenue address source — https://www.tongahut.com/north-hollywood.html"
@@ -5228,7 +5260,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -5293,7 +5325,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -5358,7 +5390,7 @@
         "topic_labels": [
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
+        "location_role_label": "Watering Hole & Dining",
         "pin_kind": "bar",
         "sources": [
           {
@@ -5416,15 +5448,17 @@
         "wiki_relation": "No exact encyclopedia entity resolved in this update",
         "wikidata_url": "",
         "topics": [
+          "tiki_bars",
           "arts_music"
         ],
         "location_role": "bar",
         "id": "B28",
         "topic_labels": [
+          "Tiki Bars",
           "Arts, Music & Literature"
         ],
-        "location_role_label": "Watering Hole",
-        "pin_kind": "bar",
+        "location_role_label": "Watering Hole & Dining",
+        "pin_kind": "tiki",
         "sources": [
           {
             "title": "Venue address source",
@@ -5440,10 +5474,10 @@
         "checked_status": "Not marked visited",
         "story": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.",
         "maps_url": "https://www.google.com/maps/search/?api=1&query=34.088790632826,-118.376919579868",
-        "marker-color": "#2567a5",
+        "marker-color": "#1f7a6b",
         "marker-symbol": "bar",
         "_umap_options": {
-          "color": "#2567a5",
+          "color": "#1f7a6b",
           "showLabel": false
         },
         "description": "Bar suggested in the club’s original spreadsheet. Geographic pairing only; no historical connection to a movement is established.\n\nEvidence: Strong for venue address: published venue/operator or local institutional record. Coordinates are approximate positions.\n\nLimits: West Hollywood branch above Tail o' the Pup; distinct from the Highland Park branch.\n\nAccess: Check current opening information before an outing.\n\nSources:\nVenue address source — https://www.luckytikibar.com/ltweho\n\nReading:\nVenue address source — https://www.luckytikibar.com/ltweho"
