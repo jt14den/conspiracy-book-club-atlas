@@ -41,11 +41,11 @@ function renderLegend(){
 renderLegend();
 const map=L.map('map',{zoomControl:false,preferCanvas:true}).setView([34.03,-118.41],10);L.control.zoom({position:'topright'}).addTo(map);
 const BASEMAPS={
-  field:{url:'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',opts:{maxZoom:20,subdomains:'abcd',attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'}},
-  transit:{url:'https://tileserver.memomaps.de/tilegen/{z}/{x}/{y}.png',opts:{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://memomaps.de/">MeMoMaps</a> (ÖPNVKarte)'}},
-  topo:{url:'https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',opts:{maxZoom:19,attribution:'Tiles &copy; Esri, USGS, NOAA'}},
-  night:{url:'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',opts:{maxZoom:20,subdomains:'abcd',attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'}},
-  street:{url:'https://tile.openstreetmap.org/{z}/{x}/{y}.png',opts:{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}}
+  field:{urls:['https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}','https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}'],opts:{maxZoom:16,attribution:'Tiles &copy; Esri, HERE, Garmin, OpenStreetMap contributors'}},
+  transit:{urls:['https://tileserver.memomaps.de/tilegen/{z}/{x}/{y}.png'],opts:{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://memomaps.de/">MeMoMaps</a> (ÖPNVKarte)'}},
+  topo:{urls:['https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}'],opts:{maxZoom:19,attribution:'Tiles &copy; Esri, USGS, NOAA'}},
+  night:{urls:['https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}','https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}'],opts:{maxZoom:16,attribution:'Tiles &copy; Esri, HERE, Garmin, OpenStreetMap contributors'}},
+  street:{urls:['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],opts:{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}}
 };
 let tiles=null,tileErrors=0;
 function setBasemap(name){
@@ -54,9 +54,14 @@ function setBasemap(name){
   if(mapEl)mapEl.dataset.basemap=name;
   if(tiles)map.removeLayer(tiles);
   tileErrors=0;
-  tiles=L.tileLayer(BASEMAPS[name].url,BASEMAPS[name].opts).addTo(map);
-  tiles.on('tileerror',()=>{tileErrors++;if(tileErrors>5){const s=document.getElementById('map-status');s.hidden=false;s.textContent='The street map is temporarily unavailable. Place pins and the full reading guide remain available.';}});
-  tiles.on('load',()=>{if(tileErrors<6)document.getElementById('map-status').hidden=true;});
+  const cfg=BASEMAPS[name];
+  const layers=cfg.urls.map(u=>{
+    const tl=L.tileLayer(u,cfg.opts);
+    tl.on('tileerror',()=>{tileErrors++;if(tileErrors>5){const s=document.getElementById('map-status');s.hidden=false;s.textContent='The street map is temporarily unavailable. Place pins and the full reading guide remain available.';}});
+    tl.on('load',()=>{if(tileErrors<6)document.getElementById('map-status').hidden=true;});
+    return tl;
+  });
+  tiles=L.layerGroup(layers).addTo(map);
   for(const b of document.querySelectorAll('[data-basemap]'))b.setAttribute('aria-pressed',String(b.dataset.basemap===name));
 }
 setBasemap('field');
