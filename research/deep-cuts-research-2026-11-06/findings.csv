@@ -1,0 +1,32 @@
+research_id,existing_lead_id,name,area,address,location_role,historical_support,geographic_support,research_status,optional_existing_bar_id,bar_pairing_basis,limitations,latitude,longitude,publish,reference_urls,research_date
+DC01,,Superet Light Church / Mother Trust,"Westlake, Los Angeles","2516 W. 3rd Street, Los Angeles",Religious institution,Strong,Strong,draft_candidate,B02,Larger Westlake/Wilshire circuit; not an adjacent-bar claim,City monument record would strengthen the construction chronology.,,,False,"https://www.superet.org/
+https://www.laacollective.org/work/mothers-of-magic",2026-11-06
+DC02,,Psychic Temple / Holy Kiss Society,Long Beach,"228 E. Broadway, Long Beach",Former institutional building,Strong,Strong,draft_candidate,B21,Long Beach detour; not adjacent,Reconcile 224-230 frontage; owner timeline and Poe may share a source.,,,False,"https://www.lbheritage.org/wp-content/uploads/2018/11/lbh-newsletter-fall-2015.pdf
+https://psychictemplelongbeach.com/history/
+https://downtownlongbeach.org/venue/the-psychic-temple/",2026-11-06
+DC03,,Continental Building / Mankind United,Downtown Los Angeles,"408 S. Spring Street, Los Angeles",Ownership/asset connection,Moderate,Strong,draft_candidate,B14,Downtown circuit only,No deed or receiver inventory inspected; do not claim ritual center/headquarters.,,,False,"https://www.cschs.org/wp-content/uploads/2019/12/2019-CSCHS-Review-Law-Walk-Part-3.pdf
+https://openjurist.org/79/calapp2d/858/people-ex-rel-kenny-v-christ-s-church-of-the-golden-rule-1230326
+https://openjurist.org/159/f2d/247/bell-v-united-states",2026-11-06
+DC04,,Pisgah Home / Pisgah Grande companion,Highland Park; Simi Valley companion,"6026-6044 Echo Street and 6051 A-D Hayes Street, Los Angeles",Historic district; separate unresolved colony,Strong,Strong for Home; Limited for exact Grande site,draft_candidate_home_only,B08,Highland Park option; route not measured,Canyon ruins and lawful approach unresolved; old nomination does not establish 2026 conditions.,,,False,"https://ohp.parks.ca.gov/ListedResources/Detail/N2377
+https://npgallery.nps.gov/GetAsset/e67ee13e-c860-476c-8ac6-d0bfa5f02854
+https://pw.lacounty.gov/sur/nas/County_Abstracts/7288465.pdf",2026-11-06
+DC05,,Birch network San Marino office,San Marino,"2627 Mission Street, San Marino (1975)",Dated office/publishing address,Strong for dated association,Moderate for current parcel continuity,draft_candidate,,,Primary letterhead is for General Birch Services; verify exact later office continuity.,,,False,"https://liberty.contentdm.oclc.org/digital/api/collection/p17184coll12/id/15905/download
+https://www.riamco.org/render?eadid=US-RPB-ms2013.003&view=biography",2026-11-06
+DC06,,Daniel Fry / Understanding Inc.,El Monte,"11376 Frankmont Street, El Monte (October 1956)",Historical headquarters / publication,Strong for organization self-description,Limited for current parcel,address_investigation,,,Later transcription of contemporary issue; inspect scan and period directories.,,,False,"https://danielfry.com/daniels-writings/understanding-newsletter-1956/vol-1-no-10/
+https://danielfry.com/daniels-writings/understanding/pamphlet/",2026-11-06
+DC07,,Besant Lodge / Gnostic Society,Hollywood,"2560 N. Beachwood Drive, Hollywood; reconcile 2560 1/2",Current esoteric lecture/liturgical venue,Strong current use; Moderate chronology,Moderate,draft_candidate_needs_address_confirmation,,,City PDF timed out; Gnostic page failed; address/sub-address partly from indexed sources.,,,False,"https://besantlodge.org/
+https://gnosis.org/eghome.htm
+https://hpla.lacity.org/report/83515f7e-f3ac-497a-9615-4f7a2c591ac0
+https://planning.lacity.org/odocument/748a0828-a6b7-436c-a9a6-d7e5c7c21d7e/Hollywood_Individual_Resources.pdf",2026-11-06
+DC08,,Hsi Lai Temple / 1996 campaign-finance history,Hacienda Heights,"3456 Glenmark Drive, Hacienda Heights",Political event / legal-history site,Strong for bounded legal outcome,Strong at complex level,draft_candidate,,,Political-history classification; do not extend Hsia convictions to Gore or a larger foreign-control claim.,,,False,"https://www.hsilai.us/about-us/contact-us
+https://www.justice.gov/osg/brief/hsia-v-united-states-opposition
+https://www.fec.gov/files/legal/murs/4530/00000315.pdf",2026-11-06
+L11,L11,Blackburn / Great Eleven: Bank of Italy deposition stop,Downtown Los Angeles; original LA/Simi sites unresolved,"505 W. 7th Street, Los Angeles; historical Suite 530",Legal proceeding; not temple/headquarters,Moderate,Strong for building; exact suite access unknown,draft_candidate_legal_stop_original_sites_hold,B10,Downtown circuit only,Specialist account; original deposition not inspected; preserve reversed conviction and dismissal.,,,False,"https://homesteadmuseum.blog/2020/10/07/take-it-on-faith-a-press-photo-of-members-of-the-divine-order-of-the-royal-arms-of-the-great-eleven-los-angeles-7-october-1929/
+https://www.cschs.org/wp-content/uploads/2018/06/2018-Newsletter-Spring.pdf",2026-11-06
+L12,L12,Lewis Fielding office burglary,Beverly Hills / Los Angeles,,Covert operation; office unresolved,Strong,Limited,hold,,,1971 street address not established; no substitute residence or later office listing.,,,False,"https://www.nixonlibrary.gov/news/fielding-break-50th-anniversary
+https://www.nixonlibrary.gov/sites/default/files/2019-12/Hoover.pdf
+https://law.justia.com/cases/federal/appellate-courts/F2/511/818/398519/",2026-11-06
+L13,L13,Process Church Los Angeles addresses,Los Angeles,,Unresolved organizational address,Moderate,Limited,hold,,,Selected FBI pages do not establish local address or alleged murder/enforcement connections.,,,False,https://documents2.theblackvault.com/documents/fbifiles/historical/processchurchofthefinaljudgement-fbi2.pdf,2026-11-06
+L14,L14,Burnell Foundation / New Thought,Arcadia,"1020 Burnell Oaks Lane, Arcadia",Current foundation; historical land connection,Strong existence; Moderate historical continuity,Strong current address; Moderate historical footprint,draft_candidate_current_foundation,,,Detailed finding aid blocked; original Foothill home/teaching parcel needs reconciliation.,,,False,"https://burnellfoundation.org/about/
+https://www.library.ucsb.edu/special-collections/research/arcmss
+https://archives.library.ucsb.edu/repositories/2/resources/2",2026-11-06
