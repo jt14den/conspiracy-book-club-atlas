@@ -1,0 +1,14 @@
+{
+  "snapshot": "2026-11-06-workflow-setup",
+  "sites": 72,
+  "history_research_sites": 44,
+  "bars": 28,
+  "research_leads": 14,
+  "checked_ids": [
+    "H07",
+    "B02"
+  ],
+  "source": "Google Sheets Sites tab",
+  "source_url": "https://docs.google.com/spreadsheets/d/1yyMXWSyson3z7Jo3hQ-q9XUDY7mmMCDXvb6QiAZbbm4/edit",
+  "publication_state": "prepared; existing hosted map not updated"
+}

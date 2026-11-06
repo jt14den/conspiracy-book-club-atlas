@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.pixi/
+.env
+.env.*
+*.local
+.openai/
+.codex/
+node_modules/
+*.log
