@@ -38,7 +38,8 @@ def main():
     parser = AssetLinks()
     parser.feed((doc / 'index.html').read_text(encoding='utf-8'))
     for link in parser.links:
-        if not urlsplit(link).scheme and not (doc / link).is_file():
+        parts = urlsplit(link)
+        if not parts.scheme and not (doc / parts.path).is_file():
             raise SystemExit(f'Missing HTML asset: {link}')
     css = (doc / 'assets/leaflet.css').read_text(encoding='utf-8')
     for ref in re.findall(r'url\(([^)]+)\)', css):
